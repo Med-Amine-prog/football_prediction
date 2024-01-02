@@ -1,0 +1,1024 @@
+,player_position,average_rating,total_game_played,started_game_percentage,minute_per_game,goals_per_game,assist_per_game,dribbled_per_game,pourcentage passes,balls_recovered_per_game,possession_won,tackles_per_game,interception_per_game,clean_sheets,saves,goals_conceded,number_match_called_up,number_match_started,player_status,national_team,player_market_value,league_ranking,player_name_sofascore,player_name_transfer_market,player_team,player_league
+0,F,7.16,36.0,0.72,66.67,0.47,0.14,0.48,68.67,0.0,0.39,0.52,0.28,0.0,0.0,0.0,0.92,0.5,line-up,austria 2020,8.0,,Saša Kalajdži?,Sasa Kalajdzic,,
+1,F,6.89,37.0,0.65,61.22,0.19,0.16,0.24,77.14,0.0,0.22,0.4,0.08,0.0,0.0,0.0,0.0,0.0,not-called-up,portugal 2020,25.0,,Rafael Leão,Rafael Leão,,
+2,F,6.61,33.0,0.27,30.0,0.12,0.0,0.2,61.0,0.0,0.3,0.2,0.2,0.0,0.0,0.0,0.83,0.17,not-called-up,austria 2020,22.0,,Adrian Grbi?,Adrian Grbic,,
+3,F,6.93,17.0,0.41,41.53,0.24,0.18,0.09,64.41,0.0,0.09,0.09,0.09,0.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,3.5,,Konstantin Tyukavin,Konstantin Tyukavin,,
+4,F,7.0,37.0,0.76,67.0,0.32,0.22,0.4,83.0,0.0,0.4,0.6,0.3,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,30.0,,Javi Puado,Javi Puado,,
+5,F,7.04,26.0,0.46,39.12,0.23,0.12,0.35,75.5,0.0,0.35,0.93,0.21,0.0,0.0,0.0,0.0,0.0,not-called-up,switzerland 2020,6.5,,Noah Okafor,Noah Okafor,,
+6,F,6.83,30.0,0.43,46.83,0.2,0.1,0.42,84.17,0.0,0.37,0.93,0.42,0.0,0.0,0.0,1.0,0.55,called-up,croatia 2020,16.0,,Mario Pašali?,Mario Pasalic,,
+7,F,6.96,32.0,0.72,63.81,0.34,0.19,0.93,66.28,0.0,0.6,0.88,0.25,0.0,0.0,0.0,0.18,0.09,line-up,croatia 2020,24.0,,Ante Rebi?,Ante Rebic,,
+8,F,7.44,36.0,0.94,80.25,0.81,0.14,0.37,66.17,0.0,0.3,0.43,0.21,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,2.8,,Serdar Dursun,Serdar Dursun,,
+9,F,7.42,34.0,0.82,81.06,0.74,0.15,0.19,82.29,0.0,0.81,0.28,0.25,0.0,0.0,0.0,0.55,0.18,line-up,croatia 2020,30.5,,Andrej Kramari?,Andrej Kramaric,,
+10,F,6.56,10.0,0.5,51.0,0.0,0.0,0.7,75.0,0.0,0.1,0.7,0.4,0.0,0.0,0.0,0.0,0.0,not-called-up,wales 2020,0.95,,Youness Mokhtar,Chris Gunter,,
+11,F,7.27,35.0,0.74,68.29,0.37,0.29,0.41,69.29,0.0,0.77,0.74,0.17,0.0,0.0,0.0,0.64,0.27,called-up,croatia 2020,6.0,,Bruno Petkovi?,Bruno Petkovic,,
+12,F,6.95,34.0,0.5,45.41,0.21,0.09,0.05,24.88,0.0,0.05,0.05,0.0,0.0,0.0,0.0,0.64,0.27,called-up,czech republic 2020,3.5,,Michael Krmen?ík,Michael Krmencik,,
+13,F,7.49,32.0,1.0,85.0,0.72,0.09,1.0,76.0,0.0,1.3,1.5,0.8,0.0,0.0,0.0,0.15,0.0,called-up,portugal 2020,22.0,,Pedro Gonçalves,Pedro Gonçalves,,
+14,F,7.48,22.0,0.73,69.0,0.64,0.18,0.2,66.0,0.0,0.5,0.4,0.2,0.0,0.0,0.0,1.0,0.0,called-up,russia 2020,2.5,,Aleksandr Sobolev,Aleksandr Sobolev,,
+15,F,6.86,11.0,0.73,68.64,0.0,0.0,2.18,83.45,0.0,0.09,3.64,2.0,0.0,0.0,0.0,0.42,0.0,called-up,russia 2020,3.0,,Maksim Mukhin,Maksim Mukhin,,
+16,F,7.03,33.0,0.85,78.0,0.42,0.06,0.5,67.0,0.0,0.5,0.6,0.2,0.0,0.0,0.0,0.29,0.0,called-up,scotland 2020,3.0,,Kevin Nisbet,Jacob Brown,,
+17,F,7.51,16.0,1.0,75.0,0.38,0.38,1.6,72.0,0.0,1.3,1.3,0.4,0.0,0.0,0.0,0.18,0.09,not-called-up,czech republic 2020,0.1,,Václav ?erný,Vaclav Cerny,,
+18,F,7.0,31.0,0.48,46.0,0.19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.18,0.09,not-called-up,czech republic 2020,1.5,,Zden?k Ondrášek,Zdenek Ondrasek,,
+19,F,6.86,23.0,0.83,67.0,0.26,0.22,0.3,77.0,0.0,0.2,0.3,0.3,0.0,0.0,0.0,0.27,0.0,not-called-up,denmark 2020,3.5,,Christian Gytkjær,Christian Gytkjaer,,
+20,F,6.95,31.0,0.87,74.0,0.16,0.16,1.1,75.0,0.0,0.3,0.6,0.3,0.0,0.0,0.0,0.23,0.0,not-called-up,portugal 2020,22.5,,Gonçalo Guedes,Gonçalo Guedes,,
+21,F,7.02,27.0,0.81,58.89,0.37,0.11,0.23,63.11,0.0,0.08,0.27,0.19,0.0,0.0,0.0,0.08,0.0,not-called-up,russia 2020,10.0,,Fedor Smolov,Fedor Smolov,,
+22,F,6.78,25.0,0.44,44.0,0.16,0.0,0.1,64.0,0.0,0.2,0.2,0.2,0.0,0.0,0.0,0.25,0.0,not-called-up,russia 2020,6.0,,Nikolay Komlichenko,Nikolay Komlichenko,,
+23,F,6.85,24.0,0.33,34.33,0.29,0.08,0.23,77.0,0.0,0.18,0.09,0.0,0.0,0.0,0.0,0.18,0.0,not-called-up,scotland 2020,1.6,,Leigh Griffiths,Leigh Griffiths,,
+24,F,6.85,43.0,0.79,68.0,0.19,0.07,0.6,54.0,0.0,0.3,0.7,0.3,0.0,0.0,0.0,0.41,0.0,not-called-up,scotland 2020,2.8,,Callum Paterson,Callum Paterson,,
+25,F,6.79,16.0,0.88,71.0,0.19,0.0,0.4,68.0,0.0,0.3,0.2,0.1,0.0,0.0,0.0,0.08,0.0,not-called-up,sweden 2020,7.5,,Sebastian Andersson,Sebastian Andersson,,
+26,F,7.0,22.0,1.0,80.45,0.41,0.09,0.29,62.05,0.0,0.67,0.38,0.1,0.0,0.0,0.0,0.08,0.0,not-called-up,sweden 2020,4.0,,Isaac Kiese Thelin,Isaac Kiese Thelin,,
+27,F,6.67,10.0,0.1,21.0,0.1,0.0,0.2,73.0,0.0,0.1,0.2,0.1,0.0,0.0,0.0,0.15,0.0,not-called-up,sweden 2020,2.7,,John Guidetti,John Guidetti,,
+28,F,6.81,25.0,0.52,44.56,0.24,0.08,0.37,77.6,0.0,0.53,0.29,0.08,0.0,0.0,0.0,0.09,0.0,not-called-up,switzerland 2020,4.8,,Albian Ajeti,Albian Ajeti,,
+29,F,6.87,31.0,0.19,28.61,0.19,0.06,0.13,66.74,0.0,0.39,0.3,0.09,0.0,0.0,0.0,0.27,0.0,not-called-up,switzerland 2020,2.4,,Cédric Itten,Cedric Itten,,
+30,F,6.65,24.0,0.21,26.08,0.04,0.04,0.22,64.75,0.0,0.25,0.4,0.0,0.0,0.0,0.0,0.15,0.0,not-called-up,turkey 2020,5.4,,Ahmed Kutucu,Ahmed Kutucu,,
+31,F,6.83,25.0,0.52,49.08,0.08,0.04,0.24,24.24,0.0,0.07,0.0,0.05,0.0,0.0,0.0,0.15,0.0,not-called-up,ukraine 2020,2.0,,Vladyslav Supryaga,Vladyslav Supryaga,,
+32,F,6.71,32.0,0.56,51.0,0.22,0.03,0.6,72.0,0.0,0.3,0.3,0.2,0.0,0.0,0.0,0.85,0.38,not-called-up,poland 2020,22.0,,Krzysztof Pi?tek,Krzysztof Piatek,,
+33,F,7.71,36.0,0.94,84.08,1.28,0.19,0.36,76.53,0.0,1.02,0.45,0.13,0.0,0.0,0.0,0.62,0.54,line-up,poland 2020,56.0,,Robert Lewandowski,Robert Lewandowski,,
+34,F,7.17,15.0,0.93,82.0,0.6,0.07,0.7,76.0,0.0,0.3,0.9,0.1,0.0,0.0,0.0,0.85,0.38,not-called-up,poland 2020,2.0,,Arkadiusz Milik,Arkadiusz Milik,,
+35,F,6.94,41.0,0.54,50.51,0.27,0.12,0.04,10.98,0.0,0.03,0.0,0.0,0.0,0.0,0.0,0.31,0.15,called-up,poland 2020,15.0,,Karol ?widerski,Karol Swiderski,,
+36,F,7.39,34.0,1.0,87.18,0.85,0.21,0.19,73.12,0.0,0.69,0.34,0.09,0.0,0.0,0.0,0.77,0.15,called-up,portugal 2020,16.0,,André Silva,André Silva,,
+37,F,7.05,39.0,0.56,58.79,0.26,0.13,0.44,82.56,0.0,0.36,0.4,0.26,0.0,0.0,0.0,0.92,0.62,called-up,portugal 2020,81.0,,João Félix,João Félix,,
+38,F,6.93,30.0,0.63,58.97,0.43,0.03,1.16,75.4,0.0,0.38,0.59,0.25,0.0,0.0,0.0,1.0,0.54,line-up,portugal 2020,28.0,,Diogo Jota,Diogo Jota,,
+39,F,7.43,39.0,0.95,86.54,0.85,0.13,0.42,81.85,0.0,0.78,0.17,0.22,0.0,0.0,0.0,0.85,0.77,line-up,portugal 2020,60.0,,Cristiano Ronaldo,Cristiano Ronaldo,,
+40,F,6.65,35.0,0.2,29.6,0.09,0.06,0.28,85.4,0.0,0.38,0.22,0.06,0.0,0.0,0.0,0.62,0.15,not-called-up,portugal 2020,16.0,,Francisco Trincão,Trincão,,
+41,F,7.1,32.0,0.94,81.34,0.16,0.19,0.68,87.62,0.0,0.29,0.48,0.97,0.0,0.0,0.0,0.46,0.15,not-called-up,portugal 2020,11.5,,Pedro Neto,Pedro Neto,,
+42,F,6.7,1.0,1.0,66.0,0.0,0.0,0.0,83.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.23,0.08,not-called-up,portugal 2020,4.8,,Paulinho,Paulinho,,
+43,F,6.86,30.0,0.87,76.13,0.17,0.17,0.28,79.33,0.0,0.5,0.5,0.57,0.0,0.0,0.0,0.92,0.5,called-up,russia 2020,3.5,,Aleksey Ionov,Aleksey Ionov,,
+44,F,7.37,32.0,0.94,80.81,0.66,0.22,0.18,68.44,0.0,0.25,0.17,0.17,0.0,0.0,0.0,0.75,0.75,line-up,russia 2020,13.0,,Artem Dzyuba,Artem Dzyuba,,
+45,F,6.85,31.0,0.29,38.16,0.19,0.06,0.17,83.19,0.0,0.32,0.34,0.12,0.0,0.0,0.0,0.83,0.08,not-called-up,russia 2020,3.5,,Andrey Mostovoy,Andrey Mostovoy,,
+46,F,6.93,32.0,0.25,31.53,0.22,0.09,0.36,78.56,0.0,0.27,0.91,0.18,0.0,0.0,0.0,0.67,0.33,called-up,russia 2020,14.5,,Aleksei Miranchuk,Aleksey Miranchuk,,
+47,F,6.9,33.0,0.48,46.0,0.21,0.12,0.21,69.09,0.0,0.53,0.25,0.16,0.0,0.0,0.0,0.08,0.08,not-called-up,russia 2020,11.0,,Fedor Chalov,Fedor Chalov,,
+48,F,7.26,28.0,0.79,70.43,0.36,0.14,0.1,60.75,0.0,0.29,0.1,0.29,0.0,0.0,0.0,0.5,0.17,called-up,russia 2020,3.0,,Anton Zabolotnyi,Anton Zabolotnyi,,
+49,F,6.77,24.0,0.5,55.79,0.04,0.0,0.48,58.38,0.0,0.19,0.67,0.29,0.0,0.0,0.0,0.65,0.12,not-called-up,scotland 2020,4.8,,Oliver McBurnie,Oliver Burke,,
+50,F,6.84,42.0,0.86,73.0,0.29,0.12,0.5,58.0,0.0,0.5,0.5,0.1,0.0,0.0,0.0,0.71,0.65,line-up,scotland 2020,0.475,,Lyndon Dykes,Lyndon Dykes,,
+51,F,6.86,37.0,0.84,75.24,0.24,0.14,0.29,69.08,0.0,0.61,0.68,0.1,0.0,0.0,0.0,0.24,0.18,called-up,scotland 2020,2.2,,Che Adams,Ché Adams,,
+52,F,7.17,40.0,0.93,75.05,0.28,0.23,0.6,76.12,0.0,0.95,0.81,0.52,0.0,0.0,0.0,0.67,0.17,called-up,spain 2020,48.0,,Mikel Oyarzabal,Mikel Oyarzabal,,
+53,F,7.33,10.0,0.8,59.3,0.5,0.2,1.07,85.5,0.0,0.51,1.0,0.37,0.0,0.0,0.0,0.42,0.25,not-called-up,spain 2020,60.0,,Ansu Fati,Marco Asensio,,
+54,F,6.95,46.0,0.61,54.48,0.15,0.04,0.55,85.48,0.0,0.45,0.35,0.32,0.0,0.0,0.0,0.17,0.08,not-called-up,spain 2020,35.0,,Marco Asensio,Bryan Gil,,
+55,F,7.04,29.0,0.9,79.0,0.14,0.1,0.6,78.0,0.0,1.1,1.0,0.6,0.0,0.0,0.0,0.17,0.08,not-called-up,spain 2020,35.0,,Bryan Gil,Bryan Gil,,
+56,F,6.95,33.0,0.64,56.27,0.36,0.09,0.4,84.82,0.0,0.27,0.49,0.19,0.0,0.0,0.0,1.0,0.67,line-up,spain 2020,6.0,,Ferran Torres,Ferran Torres,,
+57,F,7.05,38.0,0.76,71.5,0.05,0.05,0.22,76.24,0.0,0.68,0.78,0.19,0.0,0.0,0.0,0.5,0.08,called-up,spain 2020,50.0,,Adama Traoré,Adama Traoré,,
+58,F,7.13,40.0,0.72,65.4,0.42,0.25,0.7,76.0,0.0,0.4,0.5,0.26,0.0,0.0,0.0,0.58,0.5,line-up,spain 2020,36.0,,Álvaro Morata,Álvaro Morata,,
+59,F,6.79,30.0,0.63,52.6,0.23,0.13,0.31,68.53,0.0,0.37,0.53,0.47,0.0,0.0,0.0,0.92,0.38,called-up,sweden 2020,40.0,,Robin Quaison,Robin Quaison,,
+60,F,6.75,41.0,0.54,53.54,0.1,0.07,0.87,79.83,0.0,0.53,0.84,0.37,0.0,0.0,0.0,0.92,0.54,not-called-up,sweden 2020,4.5,,Dejan Kulusevski,Dejan Kulusevski,,
+61,F,6.92,42.0,0.88,67.1,0.4,0.05,0.1,72.24,0.0,0.48,0.3,0.08,0.0,0.0,0.0,0.92,0.54,line-up,sweden 2020,40.0,,Alexander Isak,Alexander Isak,,
+62,F,7.32,29.0,1.0,87.0,0.52,0.17,0.3,78.0,0.0,0.7,0.4,0.3,0.0,0.0,0.0,0.54,0.08,called-up,sweden 2020,2.8,,Jordan Larsson,Jordan Larsson,,
+63,F,6.74,41.0,0.51,44.68,0.15,0.05,0.27,75.76,0.0,0.24,0.5,0.28,0.0,0.0,0.0,0.73,0.64,line-up,switzerland 2020,16.0,,Breel Embolo,Breel Embolo,,
+64,F,7.08,38.0,0.71,67.29,0.58,0.18,0.3,68.29,0.0,0.46,0.1,0.08,0.0,0.0,0.0,0.91,0.73,line-up,switzerland 2020,12.0,,Haris Seferovi?,Haris Seferovic,,
+65,F,6.87,31.0,0.81,73.77,0.06,0.13,0.75,79.52,0.0,0.56,1.12,0.28,0.0,0.0,0.0,0.54,0.15,not-called-up,turkey 2020,4.8,,Efecan Karaca,Efecan Karaca,,
+66,F,6.84,17.0,0.41,45.53,0.06,0.18,0.29,76.06,0.0,0.34,0.68,0.34,0.0,0.0,0.0,0.69,0.38,called-up,turkey 2020,3.5,,Cengiz Ünder,Cengiz Ünder,,
+67,F,6.89,29.0,0.83,77.45,0.24,0.07,0.29,77.9,0.0,0.39,0.32,0.0,0.0,0.0,0.0,0.85,0.69,line-up,turkey 2020,8.5,,Kenan Karaman,Kenan Karaman,,
+68,F,6.83,28.0,0.54,47.0,0.14,0.07,0.4,59.0,0.0,0.3,0.4,0.1,0.0,0.0,0.0,0.92,0.23,called-up,turkey 2020,4.0,,Enes Ünal,Enes Ünal,,
+69,F,7.07,39.0,0.97,84.59,0.54,0.21,0.09,80.13,0.0,0.8,0.26,0.09,0.0,0.0,0.0,1.0,0.85,line-up,ukraine 2020,9.5,,Roman Yaremchuk,Roman Yaremchuk,,
+70,F,7.36,40.0,0.57,51.1,0.2,0.3,0.46,80.0,0.0,0.66,0.53,0.17,0.0,0.0,0.0,0.92,0.85,line-up,ukraine 2020,11.0,,Ruslan Malinovskyi,Ruslan Malinovskyi,,
+71,F,6.96,24.0,0.92,72.38,0.33,0.04,0.09,23.46,0.0,0.33,0.29,0.17,0.0,0.0,0.0,0.54,0.15,not-called-up,ukraine 2020,4.0,,Júnior Moraes,Júnior Moraes,,
+72,F,6.94,18.0,0.89,67.88,0.33,0.0,0.12,11.5,0.0,0.12,0.0,0.22,0.0,0.0,0.0,0.23,0.08,called-up,ukraine 2020,2.4,,Artem Besedin,Artem Besedin,,
+73,F,7.37,32.0,0.56,48.69,0.47,0.09,0.34,75.25,0.0,0.34,0.91,0.34,0.0,0.0,0.0,0.71,0.57,line-up,wales 2020,32.0,,Gareth Bale,Gareth Bale,,
+74,F,6.39,13.0,0.62,57.85,0.08,0.0,0.45,73.77,0.0,0.23,0.77,0.15,0.0,0.0,0.0,0.64,0.21,not-called-up,wales 2020,8.0,,Rabbi Matondo,Rabbi Matondo,,
+75,F,6.99,47.0,0.96,83.0,0.26,0.13,0.63,75.43,0.0,0.37,1.02,0.27,0.0,0.0,0.0,0.36,0.0,not-called-up,wales 2020,16.0,,Brennan Johnson,Brennan Johnson,,
+76,F,7.28,42.0,0.95,81.0,0.48,0.02,0.1,51.0,0.0,0.8,0.4,0.2,0.0,0.0,0.0,0.93,0.57,line-up,wales 2020,6.0,,Kieffer Moore,Kieffer Moore,,
+77,F,7.0,43.0,0.91,72.6,0.98,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,,,Ivan Sergeev,Ivan Sergeev,,
+78,F,6.85,17.0,0.47,41.06,0.29,0.0,0.06,19.71,0.0,0.06,0.0,0.06,0.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,,,Gamid Agalarov,Gamid Agalarov,,
+79,F,6.92,33.0,0.7,67.0,0.24,0.03,0.48,66.12,0.0,0.48,0.72,0.31,0.0,0.0,0.0,0.0,0.0,not-called-up,scotland 2020,,,Ross Stewart,Ross Stewart,,
+80,F,6.75,29.0,0.62,51.31,0.1,0.1,0.22,79.59,0.0,0.41,0.26,0.11,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,,,Abel Ruíz,Abel Ruiz,,
+81,F,6.65,33.0,0.36,39.18,0.12,0.03,0.3,71.82,0.0,0.21,0.45,0.18,0.0,0.0,0.0,0.0,0.0,not-called-up,sweden 2020,,,Viktor Gyökeres,Viktor Gyökeres,,
+82,F,7.25,6.0,0.83,76.0,0.5,0.0,0.17,77.0,0.0,0.53,0.67,0.37,0.0,0.0,0.0,0.0,0.0,not-called-up,sweden 2020,,,Anthony Elanga,Anthony Elanga,,
+83,F,7.11,34.0,0.91,79.88,0.47,0.18,0.7,74.12,0.0,0.76,0.76,0.21,0.0,0.0,0.0,0.0,0.0,not-called-up,sweden 2020,,,Branimir Hrgota,Branimir Hrgota,,
+84,F,6.77,30.0,0.77,62.0,0.2,0.0,0.7,76.0,0.0,0.4,0.7,0.4,0.0,0.0,0.0,0.0,0.0,not-called-up,switzerland 2020,,,Mattia Bottani,Mattia Bottani,,
+85,F,7.0,31.0,0.52,54.0,0.35,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,switzerland 2020,,,Zeki Amdouni,Zeki Amdouni,,
+86,F,6.87,34.0,0.85,69.0,0.24,0.12,0.3,73.0,0.0,0.6,0.8,0.1,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,,,Bar?? Alper Y?lmaz,Bar?? Alper Y?lmaz,,
+87,F,7.0,32.0,0.47,53.88,0.22,0.03,0.09,72.62,0.0,0.35,0.35,0.44,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,,,Yunus Akgün,Yunus Akgün,,
+88,F,6.68,21.0,0.19,28.76,0.05,0.05,0.32,74.43,0.0,0.35,0.61,0.08,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,,,Umut Bozok,Umut Bozok,,
+89,F,7.0,14.0,0.86,52.0,0.29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,ukraine 2020,,,Danylo Sikan,Danylo Sikan,,
+90,F,7.0,1.0,0.0,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,ukraine 2020,,,Vladyslav Vanat,Vladyslav Vanat,,
+91,F,6.67,16.0,0.38,41.0,0.19,0.06,0.1,78.0,0.0,0.3,0.3,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,wales 2020,,,Mark Harris,Mark Harris,,
+92,F,7.0,24.0,0.92,76.0,0.21,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.31,0.0,called-up,ukraine 2020,,,Artem Dovbyk,Artem Dovbyk,,
+93,F,6.88,19.0,0.63,52.05,0.05,0.0,0.16,28.32,0.0,0.26,0.26,0.0,0.0,0.0,0.0,0.45,0.0,not-called-up,croatia 2020,,,Antonio ?olak,Antonio Colak,,
+94,F,6.94,34.0,0.53,52.26,0.26,0.0,0.06,10.0,0.0,0.06,0.0,0.03,0.0,0.0,0.0,0.09,0.0,not-called-up,czech republic 2020,,,Michal Rabušic,Michael Rabusic,,
+95,F,6.6,10.0,0.1,26.7,0.0,0.0,0.09,53.4,0.0,0.09,0.27,0.0,0.0,0.0,0.0,0.09,0.0,not-called-up,switzerland 2020,,,Andi Zeqiri,Andi Zeqiri,,
+96,F,6.99,30.0,0.67,61.0,0.47,0.1,0.58,60.9,0.0,0.58,0.58,0.1,0.0,0.0,0.0,0.08,0.0,not-called-up,turkey 2020,,,Enis Destan,Enis Destan,,
+97,F,6.63,21.0,0.19,33.29,0.24,0.0,0.14,71.86,0.0,0.55,0.23,0.09,0.0,0.0,0.0,0.29,0.0,not-called-up,wales 2020,,,Hal Robson-Kanu,Hal Robson-Kanu,,
+98,F,7.3,34.0,0.94,79.64,0.35,0.18,0.55,73.85,0.0,0.89,0.62,0.38,0.0,0.0,0.0,1.0,0.64,called-up,croatia 2020,,,Nikola Vlaši?,Nikola Vlaši?,,
+99,F,6.88,28.0,0.57,52.43,0.25,0.18,0.29,70.39,0.0,0.48,0.1,0.19,0.0,0.0,0.0,0.08,0.08,not-called-up,poland 2020,,,Dawid Kownacki,Dawid Kownacki,,
+100,F,7.0,27.0,0.81,64.63,0.59,0.11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.15,called-up,poland 2020,,,Jakub ?wierczok,Jakub Swierczok,,
+101,F,6.9,32.0,0.94,85.0,0.25,0.09,0.6,64.0,0.0,0.8,0.6,0.3,0.0,0.0,0.0,0.41,0.06,not-called-up,scotland 2020,,,Lawrence Shankland,Lawrence Shankland,,
+102,F,7.34,24.0,0.88,72.75,0.62,0.12,0.24,72.62,0.0,0.32,0.24,0.24,0.0,0.0,0.0,0.23,0.15,not-called-up,sweden 2020,,,Zlatan Ibrahimovi?,Zlatan Ibrahimovi?,,
+103,F,7.07,28.0,0.93,79.18,0.43,0.14,0.58,68.57,0.0,0.55,0.52,0.25,0.0,0.0,0.0,0.85,0.62,line-up,sweden 2020,,,Marcus Berg,Marcus Berg,,
+104,F,7.13,34.0,0.71,60.47,0.47,0.18,0.38,73.91,0.0,0.4,0.4,0.1,0.0,0.0,0.0,0.82,0.36,called-up,switzerland 2020,,,Mario Gavranovi?,Mario Gavranovic,,
+105,F,6.75,22.0,0.36,38.36,0.14,0.05,0.22,68.05,0.0,0.35,0.77,0.05,0.0,0.0,0.0,0.23,0.08,called-up,turkey 2020,,,Halil Dervi?o?lu,Halil Dervi?o?lu,,
+106,F,7.2,32.0,0.72,66.25,0.56,0.16,0.89,78.75,0.0,0.5,0.47,0.18,0.0,0.0,0.0,0.54,0.46,line-up,turkey 2020,,,Burak Y?lmaz,Burak Y?lmaz,,
+107,M,6.95,29.0,0.97,80.69,0.03,0.14,0.61,74.28,0.0,0.5,1.2,1.43,0.0,0.0,0.0,0.0,0.0,not-called-up,austria 2020,2.2,,Dejan Ljubi?i?,Dejan Ljubicic,,
+108,D,7.0,26.0,0.96,86.0,0.04,0.19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.73,0.27,called-up,croatia 2020,2.0,,Josip Juranovi?,Josip Juranovic,,
+109,M,7.27,38.0,0.87,77.47,0.05,0.18,1.2,89.61,0.0,0.46,1.55,1.15,0.0,0.0,0.0,0.73,0.45,line-up,croatia 2020,48.0,,Marcelo Brozovi?,Marcelo Brozovic,,
+110,M,7.08,39.0,0.77,65.87,0.0,0.05,0.75,90.64,0.0,0.45,1.64,0.62,0.0,0.0,0.0,0.91,0.64,line-up,croatia 2020,36.0,,Mateo Kova?i?,Mateo Kovacic,,
+111,M,7.27,47.0,0.89,77.49,0.13,0.13,0.9,88.51,0.0,0.87,1.1,1.43,0.0,0.0,0.0,1.0,0.73,line-up,croatia 2020,12.0,,Luka Modri?,Luka Modric,,
+112,M,6.88,38.0,0.58,53.79,0.13,0.11,0.75,74.89,0.0,0.34,0.64,0.58,0.0,0.0,0.0,1.0,0.73,line-up,croatia 2020,17.5,,Ivan Periši?,Ivan Perisic,,
+113,M,7.33,44.0,0.91,78.82,0.5,0.2,0.72,77.91,0.0,0.51,0.97,0.6,0.0,0.0,0.0,1.0,0.18,not-called-up,croatia 2020,7.5,,Mislav Orši?,Mislav Orsic,,
+114,M,6.79,33.0,0.61,54.3,0.03,0.09,0.6,84.58,0.0,0.22,1.08,1.08,0.0,0.0,0.0,0.45,0.18,called-up,croatia 2020,16.0,,Domagoj Bradari?,Domagoj Bradaric,,
+115,D,7.01,25.0,0.84,76.56,0.0,0.0,0.0,3.64,0.0,0.0,0.08,0.08,0.0,0.0,0.0,0.0,0.0,not-called-up,croatia 2020,6.0,,Josip Staniši?,Josip Stanisic,,
+116,M,6.78,34.0,0.94,77.0,0.12,0.03,1.2,85.0,0.0,0.5,1.0,0.9,0.0,0.0,0.0,0.27,0.0,not-called-up,croatia 2020,4.0,,Toma Baši?,Toma Basic,,
+117,M,6.78,26.0,0.42,40.88,0.04,0.04,0.7,67.92,0.0,0.31,0.75,0.29,0.0,0.0,0.0,0.0,0.0,not-called-up,croatia 2020,13.0,,Luka Su?i?,Luka Sucic,,
+118,M,7.33,29.0,0.83,78.0,0.52,0.17,0.6,68.0,0.0,0.6,1.0,0.5,0.0,0.0,0.0,0.27,0.0,not-called-up,croatia 2020,13.5,,Kristijan Lovri?,Kristijan Lovric,,
+119,D,6.97,30.0,1.0,83.53,0.03,0.0,0.03,6.07,0.0,0.0,0.13,0.07,0.0,0.0,0.0,0.82,0.73,line-up,czech republic 2020,0.8,,Ond?ej ?el?stka,Ondrej Celustka,,
+120,M,6.81,23.0,0.83,75.43,0.0,0.22,0.43,73.83,0.0,0.39,0.83,0.96,0.0,0.0,0.0,0.64,0.18,called-up,czech republic 2020,13.5,,Pavel Kade?ábek,Pavel Kaderabek,,
+121,M,7.16,38.0,1.0,90.0,0.26,0.03,1.3,75.0,0.0,0.4,2.1,1.6,0.0,0.0,0.0,0.91,0.64,line-up,czech republic 2020,12.0,,Tomáš Sou?ek,Tomas Soucek,,
+122,M,7.01,23.0,0.74,66.13,0.0,0.09,0.38,29.91,0.0,0.17,0.31,0.17,0.0,0.0,0.0,0.55,0.09,called-up,czech republic 2020,1.6,,Petr Šev?ík,Petr Sevcik,,
+123,G,7.0,19.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,czech republic 2020,0.9,,Jind?ich Stan?k,Jindrich Stanek,,
+124,M,6.92,32.0,0.94,81.75,0.0,0.0,0.19,10.0,0.0,0.1,0.1,0.04,0.0,0.0,0.0,0.09,0.0,not-called-up,czech republic 2020,0.9,,Michal Sá?ek,Michal Sacek,,
+125,D,7.01,9.0,0.89,79.89,0.0,0.0,0.0,10.0,0.0,0.0,0.22,0.11,0.0,0.0,0.0,0.0,0.0,not-called-up,ukraine 2020,1.6,,Artem Shabanov,Artem Shabanov,,
+126,M,7.02,38.0,0.92,80.68,0.13,0.08,0.13,10.0,0.0,0.03,0.16,0.05,0.0,0.0,0.0,0.36,0.18,not-called-up,czech republic 2020,2.0,,Bo?ek Do?kal,Borek Dockal,,
+127,M,7.0,33.0,0.7,60.0,0.18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,not-called-up,czech republic 2020,0.6,,Roman Poto?ný,Roman Potocny,,
+128,M,7.0,30.0,0.8,74.0,0.23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,not-called-up,czech republic 2020,1.0,,Antonín R?sek,Antonin Rusek,,
+129,M,6.68,31.0,0.58,51.52,0.16,0.06,0.37,69.84,0.0,0.54,0.3,0.25,0.0,0.0,0.0,0.82,0.27,called-up,czech republic 2020,4.0,,Mat?j Vydra,Matej Vydra,,
+130,M,6.84,38.0,0.79,74.63,0.03,0.16,0.71,79.95,0.0,0.72,1.47,1.28,0.0,0.0,0.0,0.82,0.36,line-up,denmark 2020,0.4,,Joakim Mæhle,Joakim Maehle,,
+131,D,6.93,30.0,0.83,76.67,0.0,0.1,0.1,13.33,0.0,0.1,0.17,0.13,0.0,0.0,0.0,0.15,0.0,not-called-up,poland 2020,3.0,,Alan Czerwi?ski,Alan Czerwinski,,
+132,D,6.8,3.0,0.0,32.67,0.0,0.0,0.0,84.0,0.0,0.0,0.67,0.67,0.0,0.0,0.0,0.09,0.0,not-called-up,switzerland 2020,0.95,,Michael Lang,Michael Lang,,
+133,D,6.58,28.0,0.64,60.0,0.0,0.0,0.9,81.0,0.0,0.1,1.5,1.3,0.0,0.0,0.0,0.77,0.31,called-up,turkey 2020,4.5,,Mert Müldür,Mert Müldür,,
+134,D,6.89,30.0,0.63,60.07,0.07,0.07,0.0,15.27,0.0,0.0,0.0,0.16,0.0,0.0,0.0,0.77,0.38,line-up,ukraine 2020,3.2,,Oleksandr Karavayev,Oleksandr Karavaev,,
+135,D,6.94,13.0,1.0,89.08,0.08,0.0,0.0,6.38,0.0,0.0,0.15,0.23,0.0,0.0,0.0,0.77,0.54,called-up,ukraine 2020,4.0,,Serhiy Kryvtsov,Sergiy Kryvtsov,,
+136,M,6.86,39.0,0.97,85.74,0.03,0.03,0.63,91.87,0.0,0.49,0.95,0.49,0.0,0.0,0.0,0.58,0.33,not-called-up,france 2020,8.0,,Steven N'Zonzi,Steven Nzonzi,,
+137,D,6.69,30.0,0.3,32.27,0.03,0.07,0.17,70.2,0.0,0.17,0.43,0.17,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,,,Ferdi Kad?o?lu,Ferdi Kad?o?lu,,
+138,D,6.98,6.0,0.67,56.67,0.0,0.0,0.0,50.0,0.0,0.0,1.0,0.53,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,,,Eren Elmal?,Eren Elmal?,,
+139,M,7.3,42.0,0.88,76.1,0.38,0.07,0.94,91.9,0.0,0.71,1.0,0.82,0.0,0.0,0.0,0.67,0.67,line-up,germany 2020,,,?lkay Gündo?an,?lkay Gündo?an,,
+140,F,6.92,36.0,0.72,63.5,0.36,0.03,0.14,69.22,0.0,0.35,0.27,0.11,0.0,0.0,0.0,0.36,0.27,line-up,czech republic 2020,20.0,3.0,Patrik Schick,Patrik Schick,B. Leverkusen,Bundesliga
+141,D,7.0,31.0,1.0,90.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.27,called-up,czech republic 2020,2.4,13.0,Jakub Brabec,Jakub Brabec,Viktoria Plzen,Fortuna Liga
+142,F,6.99,20.0,0.9,78.25,0.75,0.05,0.05,3.85,0.0,0.0,0.0,0.05,0.0,0.0,0.0,0.27,0.09,called-up,czech republic 2020,0.4,13.0,Adam Hložek,Adam Hlozek,Sparta Prague,Fortuna Liga
+143,D,6.83,10.0,0.9,68.8,0.0,0.0,0.1,18.8,0.0,0.0,0.2,0.1,0.0,0.0,0.0,0.45,0.09,not-called-up,czech republic 2020,1.0,13.0,David Hovorka,David Hovorka,Slavia Prague,Fortuna Liga
+144,F,6.93,19.0,0.58,49.89,0.0,0.0,0.05,11.21,0.0,0.05,0.11,0.0,0.0,0.0,0.0,0.27,0.09,not-called-up,czech republic 2020,0.45,13.0,Tomáš Malinský,Tomas Malinsky,Slavia Prague,Fortuna Liga
+145,F,6.86,27.0,0.3,30.89,0.15,0.0,0.0,16.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.09,not-called-up,czech republic 2020,0.65,13.0,Stanislav Tecl,Stanislav Tecl,Slavia Prague,Fortuna Liga
+146,G,7.0,30.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.73,0.09,called-up,czech republic 2020,1.5,13.0,Aleš Mandous,Ales Mandous,Sigma Olomouc,Fortuna Liga
+147,F,6.9,41.0,0.85,72.9,0.22,0.1,1.09,74.9,0.0,0.69,1.35,0.69,0.0,0.0,0.0,0.67,0.58,line-up,austria 2020,2.5,3.0,Christoph Baumgartner,Christoph Baumgartner,TSG Hoffenheim,Bundesliga
+148,D,7.0,26.0,0.96,85.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.09,not-called-up,czech republic 2020,0.7000000000000001,,Roman Hubník,Roman Hubnik,without team,
+149,F,7.19,32.0,0.97,76.0,0.25,0.28,0.8,80.0,0.0,0.6,1.6,0.4,0.0,0.0,0.0,0.92,0.17,called-up,austria 2020,3.2,3.0,Louis Schaub,Louis Schaub,1.FC Köln,Bundesliga
+150,F,6.69,26.0,0.42,37.54,0.04,0.08,0.32,66.08,0.0,0.25,0.46,0.09,0.0,0.0,0.0,0.92,0.33,called-up,austria 2020,5.5,3.0,Michael Gregoritsch,Michael Gregoritsch,FC Augsburg,Bundesliga
+151,F,6.7,32.0,0.62,60.91,0.12,0.0,0.29,64.66,0.0,0.61,1.03,0.23,0.0,0.0,0.0,0.83,0.08,not-called-up,austria 2020,3.5,3.0,Karim Onisiwo,Karim Onisiwo,1.FSV Mainz 05,Bundesliga
+152,F,7.62,34.0,1.0,87.0,0.47,0.47,0.6,72.0,0.0,0.5,0.8,0.4,0.0,0.0,0.0,0.42,0.17,not-called-up,austria 2020,22.0,119.0,Raphael Holzhauser,Raphael Holzhauser,Beerschot V.A.,Challenger Pro League
+153,D,7.0,8.0,1.0,90.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.27,0.09,not-called-up,czech republic 2020,1.0,31.0,Tomáš Petrášek,Tomas Petrasek,Rakow,PKO BP Ekstraklasa
+154,F,6.86,31.0,0.58,53.39,0.35,0.0,0.39,60.23,0.0,0.39,0.68,0.1,0.0,0.0,0.0,1.0,0.36,called-up,croatia 2020,12.0,2.0,Ante Budimir,Ante Budimir,RCD Mallorca,LaLiga
+155,F,7.0,18.0,0.72,60.0,0.06,0.17,0.7,73.0,0.0,0.8,0.9,0.6,0.0,0.0,0.0,0.18,0.09,not-called-up,denmark 2020,1.2,82.0,Lucas Andersen,Lucas Andersen,Aalborg BK,1.Division
+156,F,7.01,41.0,0.51,52.68,0.27,0.15,0.65,71.1,0.0,0.47,0.45,0.24,0.0,0.0,0.0,0.82,0.64,line-up,denmark 2020,24.0,3.0,Yussuf Poulsen,Yussuf Poulsen,RB Leipzig,Bundesliga
+157,F,6.73,28.0,0.86,77.21,0.21,0.07,0.36,81.86,0.0,0.52,0.25,0.21,0.0,0.0,0.0,0.91,0.64,called-up,denmark 2020,16.0,6.0,Kasper Dolberg,Kasper Dolberg,OGC Nice,Ligue 1
+158,F,6.7,35.0,0.37,40.83,0.14,0.09,0.2,81.14,0.0,0.2,0.28,0.17,0.0,0.0,0.0,0.91,0.82,line-up,denmark 2020,9.5,2.0,Martin Braithwaite,Martin Braithwaite,Barcelona,LaLiga
+159,F,6.89,29.0,0.72,66.0,0.03,0.14,0.3,68.0,0.0,0.4,0.4,0.0,0.0,0.0,0.0,0.45,0.09,called-up,denmark 2020,8.0,4.0,Andreas Cornelius,Andreas Cornelius,Atalanta BC,Serie A
+160,F,7.36,28.0,1.0,87.0,0.54,0.29,0.3,71.0,0.0,0.6,0.3,0.3,0.0,0.0,0.0,0.82,0.09,line-up,denmark 2020,1.0,19.0,Jonas Wind,Jonas Wind,FC Copenhagen,Superliga
+161,F,6.85,46.0,0.83,75.72,0.28,0.22,0.23,85.78,0.0,0.52,0.7,0.5,0.0,0.0,0.0,0.27,0.27,line-up,england 2020,128.0,1.0,Raheem Sterling,Raheem Sterling,Man City,Premier League
+162,F,7.54,44.0,0.93,83.68,0.61,0.36,0.49,70.61,0.0,0.5,0.57,0.24,0.0,0.0,0.0,0.91,0.55,line-up,england 2020,120.0,1.0,Harry Kane,Harry Kane,Tottenham,Premier League
+163,F,6.92,43.0,0.93,79.91,0.16,0.14,0.71,82.44,0.0,0.41,1.01,0.77,0.0,0.0,0.0,0.55,0.36,called-up,england 2020,65.0,1.0,Bukayo Saka,Bukayo Saka,Arsenal,Premier League
+164,F,7.16,18.0,0.94,84.67,0.5,0.22,0.64,84.44,0.0,0.36,0.77,0.32,0.0,0.0,0.0,0.45,0.18,not-called-up,england 2020,22.0,1.0,Jesse Lingard,Jesse Lingard,Man Utd,Premier League
+165,F,7.58,27.0,0.93,84.22,0.26,0.37,0.29,82.89,0.0,1.0,1.16,0.48,0.0,0.0,0.0,0.73,0.55,called-up,england 2020,65.0,1.0,Jack Grealish,Jack Grealish,Aston Villa,Premier League
+166,F,7.14,36.0,0.97,86.0,0.53,0.0,0.18,69.25,0.0,0.54,0.48,0.21,0.0,0.0,0.0,1.0,0.45,called-up,england 2020,45.0,1.0,Dominic Calvert-Lewin,Dominic Calvert-Lewin,Everton,Premier League
+167,F,7.08,36.0,0.64,59.83,0.25,0.14,0.58,85.0,0.0,0.37,0.53,0.3,0.0,0.0,0.0,0.42,0.08,called-up,france 2020,50.0,2.0,Ousmane Dembélé,Ousmane Dembélé,Barcelona,LaLiga
+168,F,7.48,41.0,0.9,80.17,0.85,0.22,0.27,80.02,0.0,0.58,0.12,0.1,0.0,0.0,0.0,0.75,0.5,line-up,france 2020,160.0,6.0,Kylian Mbappé,Kylian Mbappé,Paris SG,Ligue 1
+169,F,7.23,43.0,0.88,72.84,0.35,0.16,0.72,86.67,0.0,0.7,1.02,0.37,0.0,0.0,0.0,1.0,0.83,line-up,france 2020,60.0,2.0,Antoine Griezmann,Antoine Griezmann,Barcelona,LaLiga
+170,F,6.88,32.0,0.78,68.62,0.22,0.16,0.41,82.91,0.0,0.29,0.1,0.09,0.0,0.0,0.0,0.75,0.42,not-called-up,france 2020,45.0,1.0,Anthony Martial,Anthony Martial,Man Utd,Premier League
+171,F,7.15,37.0,0.86,71.0,0.54,0.19,0.3,74.0,0.0,0.7,0.5,0.4,0.0,0.0,0.0,0.83,0.17,called-up,france 2020,35.0,6.0,Wissam Ben Yedder,Wissam Ben Yedder,Monaco,Ligue 1
+172,F,6.92,40.0,0.72,62.85,0.28,0.12,0.59,73.33,0.0,0.19,0.8,0.57,0.0,0.0,0.0,0.33,0.17,not-called-up,france 2020,35.0,3.0,Marcus Thuram,Marcus Thuram,Bor. M'gladbach,Bundesliga
+173,F,7.4,44.0,0.95,84.77,0.66,0.2,0.25,85.45,0.0,0.5,0.34,0.2,0.0,0.0,0.0,0.17,0.17,line-up,france 2020,25.0,2.0,Karim Benzema,Karim Benzema,Real Madrid,LaLiga
+174,F,6.92,27.0,0.41,40.67,0.41,0.0,0.25,72.44,0.0,0.34,0.25,0.31,0.0,0.0,0.0,0.92,0.42,called-up,france 2020,4.0,1.0,Olivier Giroud,Olivier Giroud,Chelsea,Premier League
+175,F,6.86,40.0,0.7,59.92,0.2,0.12,0.8,84.78,0.0,0.51,1.02,0.31,0.0,0.0,0.0,0.58,0.42,line-up,germany 2020,81.0,1.0,Kai Havertz,Kai Havertz,Chelsea,Premier League
+176,F,6.83,48.0,0.83,72.83,0.23,0.21,1.04,78.71,0.0,0.39,0.62,0.29,0.0,0.0,0.0,0.75,0.42,called-up,germany 2020,64.0,1.0,Timo Werner,Timo Werner,Chelsea,Premier League
+177,F,7.47,43.0,0.88,77.72,0.44,0.23,1.5,83.63,0.0,0.56,0.74,1.04,0.0,0.0,0.0,0.69,0.54,line-up,italy 2020,48.0,4.0,Lorenzo Insigne,Lorenzo Insigne,SSC Napoli,Serie A
+178,F,7.16,41.0,0.9,73.83,0.32,0.24,1.1,79.41,0.0,0.5,1.5,0.34,0.0,0.0,0.0,0.62,0.31,called-up,italy 2020,48.0,4.0,Federico Chiesa,Federico Chiesa,Juventus,Serie A
+179,F,6.84,14.0,0.5,49.29,0.14,0.07,0.64,79.57,0.0,0.5,0.43,0.3,0.0,0.0,0.0,0.38,0.15,not-called-up,italy 2020,13.0,4.0,Stephan El Shaarawy,Stephan El Shaarawy,AS Roma,Serie A
+180,F,7.43,30.0,0.93,83.0,0.57,0.23,1.4,80.0,0.0,0.9,1.4,0.9,0.0,0.0,0.0,0.62,0.31,line-up,italy 2020,35.0,4.0,Domenico Berardi,Matteo Politano,Sassuolo,Serie A
+181,F,6.88,39.0,0.69,58.33,0.46,0.03,0.25,74.59,0.0,0.36,0.36,0.27,0.0,0.0,0.0,0.46,0.08,not-called-up,italy 2020,15.0,1.0,Moise Kean,Moise Kean,Everton,Premier League
+182,F,7.38,35.0,0.94,83.0,0.37,0.17,0.7,69.0,0.0,0.6,0.9,0.3,0.0,0.0,0.0,0.77,0.38,called-up,italy 2020,35.0,4.0,Andrea Belotti,Andrea Belotti,Torino,Serie A
+183,F,6.59,36.0,0.72,66.0,0.11,0.03,0.4,72.0,0.0,0.6,0.4,0.2,0.0,0.0,0.0,0.23,0.08,not-called-up,italy 2020,15.0,4.0,Kevin Lasagna,Kevin Lasagna,Udinese Calcio,Serie A
+184,F,7.03,35.0,0.6,61.77,0.26,0.09,0.37,84.89,0.0,0.89,0.68,0.32,0.0,0.0,0.0,0.83,0.25,not-called-up,netherlands 2020,17.5,150.0,Quincy Promes,Quincy Promes,Spartak Moscow,Premier Liga
+185,F,7.2,38.0,0.97,86.47,0.61,0.21,0.5,65.47,0.0,0.82,0.36,0.09,0.0,0.0,0.0,0.17,0.17,line-up,netherlands 2020,21.5,3.0,Wout Weghorst,Wout Weghorst,VfL Wolfsburg,Bundesliga
+186,F,6.8,40.0,0.45,41.75,0.15,0.0,0.22,72.85,0.0,0.28,0.33,0.12,0.0,0.0,0.0,1.0,0.5,called-up,netherlands 2020,9.5,2.0,Luuk de Jong,Luuk de Jong,Sevilla FC,LaLiga
+187,F,6.64,31.0,0.52,50.58,0.03,0.1,0.48,85.42,0.0,0.56,0.58,0.14,0.0,0.0,0.0,0.33,0.08,not-called-up,netherlands 2020,22.0,1.0,Steven Bergwijn,Steven Bergwijn,Tottenham,Premier League
+188,F,6.95,34.0,0.53,51.35,0.21,0.15,0.19,77.18,0.0,0.38,0.28,0.19,0.0,0.0,0.0,0.67,0.08,not-called-up,netherlands 2020,1.2,9.0,Ryan Babel,Ryan Babel,Galatasaray,Süper Lig
+189,F,7.26,40.0,0.85,78.4,0.6,0.2,0.36,80.4,0.0,0.68,0.18,0.3,0.0,0.0,0.0,0.75,0.17,called-up,netherlands 2020,30.0,14.0,Donyell Malen,Donyell Malen,PSV Eindhoven,Eredivisie
+190,F,7.59,37.0,0.89,79.0,0.54,0.32,0.5,76.0,0.0,0.7,0.1,0.1,0.0,0.0,0.0,0.92,0.92,line-up,netherlands 2020,45.0,6.0,Memphis Depay,Memphis Depay,Olympique Lyon,Ligue 1
+191,F,6.95,30.0,0.9,75.5,0.4,0.13,0.58,65.57,0.0,0.58,0.77,0.1,0.0,0.0,0.0,0.27,0.09,not-called-up,england 2020,,25.0,Danny Ings,Danny Ings,Southampton,Championship
+192,F,7.01,35.0,0.66,50.17,0.23,0.09,0.3,79.94,0.0,0.55,0.52,0.25,0.0,0.0,0.0,0.67,0.17,not-called-up,germany 2020,,7.0,Luca Waldschmidt,Luca Waldschmidt,Benfica,Liga Portugal
+193,F,7.03,25.0,0.76,68.0,0.44,0.2,0.1,78.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.31,0.08,not-called-up,italy 2020,,4.0,Francesco Caputo,Francesco Caputo,Sassuolo,Serie A
+194,M,6.92,44.0,0.95,86.68,0.09,0.07,0.9,55.41,0.0,0.75,1.4,0.86,0.0,0.0,0.0,0.75,0.17,not-called-up,austria 2020,1.2,3.0,Reinhold Ranftl,Reinhold Ranftl,LASK,Bundesliga
+195,M,7.01,35.0,0.91,80.63,0.06,0.11,1.43,77.34,0.0,0.64,2.03,1.61,0.0,0.0,0.0,0.67,0.58,line-up,austria 2020,3.0,3.0,Xaver Schlager,Xaver Schlager,VfL Wolfsburg,Bundesliga
+196,M,6.97,31.0,0.71,61.0,0.23,0.1,0.69,76.55,0.0,0.53,0.78,0.56,0.0,0.0,0.0,1.0,0.55,called-up,croatia 2020,13.5,3.0,Josip Brekalo,Josip Brekalo,VfL Wolfsburg,Bundesliga
+197,M,7.2,31.0,0.81,69.19,0.23,0.23,1.02,88.68,0.0,1.1,1.36,1.82,0.0,0.0,0.0,0.5,0.5,not-called-up,germany 2020,40.0,3.0,Leon Goretzka,Leon Goretzka,Bayern Munich,Bundesliga
+198,M,6.89,14.0,1.0,83.0,0.0,0.0,1.5,88.0,0.0,0.9,2.9,1.4,0.0,0.0,0.0,0.55,0.18,not-called-up,croatia 2020,12.0,4.0,Marko Rog,Marko Rog,Cagliari Calcio,Serie A
+199,M,7.0,16.0,0.75,62.0,0.12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.18,0.09,not-called-up,czech republic 2020,2.2,13.0,Jan Kopic,Jan Kopic,Viktoria Plzen,Fortuna Liga
+200,M,7.0,32.0,0.94,85.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.09,not-called-up,czech republic 2020,0.1,13.0,Jaroslav Zelený,Jaroslav Zeleny,Slavia Prague,Fortuna Liga
+201,M,7.03,38.0,0.82,72.0,0.13,0.0,0.11,20.0,0.0,0.05,0.32,0.08,0.0,0.0,0.0,0.64,0.55,not-called-up,czech republic 2020,0.6,13.0,Lukáš Provod,Lukas Provod,Slavia Prague,Fortuna Liga
+202,M,7.27,33.0,0.88,75.42,0.27,0.3,0.59,79.12,0.0,0.72,0.59,0.85,0.0,0.0,0.0,0.38,0.15,not-called-up,italy 2020,10.0,3.0,Vincenzo Grifo,Vincenzo Grifo,SC Freiburg,Bundesliga
+203,M,6.95,35.0,0.89,73.11,0.17,0.03,0.29,7.89,0.0,0.06,0.23,0.06,0.0,0.0,0.0,0.55,0.09,not-called-up,czech republic 2020,0.65,13.0,Jakub Pešek,Jakub Pesek,Slovan Liberec,Fortuna Liga
+204,M,7.0,31.0,1.0,89.0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.09,not-called-up,czech republic 2020,1.0,13.0,Marek Havlík,Marek Havlik,Slovacko,Fortuna Liga
+205,M,7.11,34.0,0.79,69.68,0.12,0.03,1.08,87.5,0.0,0.52,1.39,1.77,0.0,0.0,0.0,0.67,0.33,called-up,austria 2020,20.0,3.0,Florian Grillitsch,Florian Grillitsch,TSG Hoffenheim,Bundesliga
+206,M,6.98,30.0,0.53,53.77,0.07,0.07,0.48,76.97,0.0,0.81,0.85,0.7,0.0,0.0,0.0,0.73,0.45,not-called-up,denmark 2020,10.5,3.0,Robert Skov,Robert Skov,TSG Hoffenheim,Bundesliga
+207,M,6.76,33.0,0.67,57.15,0.0,0.0,0.67,84.97,0.0,0.33,1.29,0.78,0.0,0.0,0.0,0.23,0.08,not-called-up,italy 2020,31.5,27.0,Sandro Tonali,Sandro Tonali,Brescia,Serie B
+208,M,7.18,33.0,0.97,83.97,0.03,0.27,0.78,74.18,0.0,0.28,1.53,1.65,0.0,0.0,0.0,0.92,0.25,called-up,austria 2020,0.55,3.0,Christopher Trimmel,Christopher Trimmel,Union Berlin,Bundesliga
+209,M,7.0,26.0,0.73,66.0,0.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.09,not-called-up,czech republic 2020,1.2,13.0,Lukáš Budinský,Lukas Budinsky,Mlada Boleslav,Fortuna Liga
+210,M,6.75,35.0,0.94,75.0,0.0,0.0,0.9,76.0,0.0,0.2,1.6,1.5,0.0,0.0,0.0,0.36,0.09,not-called-up,denmark 2020,7.0,2.0,Jens Jønsson,Jens Jönsson,Cádiz CF,LaLiga
+211,M,6.84,12.0,1.0,76.0,0.08,0.08,0.8,84.0,0.0,0.6,1.4,1.0,0.0,0.0,0.0,0.09,0.09,not-called-up,denmark 2020,2.0,14.0,Lasse Schøne,Lasse Schöne,Heerenveen,Eredivisie
+212,M,7.11,39.0,0.9,76.08,0.23,0.15,0.96,80.38,0.0,0.55,1.27,1.31,0.0,0.0,0.0,0.67,0.58,line-up,austria 2020,32.0,3.0,Marcel Sabitzer,Marcel Sabitzer,RB Leipzig,Bundesliga
+213,M,6.97,36.0,0.69,62.61,0.22,0.11,0.74,78.22,0.0,0.41,1.27,0.71,0.0,0.0,0.0,0.27,0.09,not-called-up,denmark 2020,14.5,1.0,Philip Billing,Philip Billing,Bournemouth,Premier League
+214,M,6.71,28.0,0.54,53.54,0.07,0.04,0.31,79.39,0.0,0.08,0.88,0.62,0.0,0.0,0.0,0.25,0.17,called-up,austria 2020,15.0,4.0,Valentino Lazaro,Valentino Lazaro,Inter,Serie A
+215,M,6.74,19.0,0.21,31.89,0.0,0.0,0.43,83.37,0.0,0.43,0.47,0.38,0.0,0.0,0.0,0.46,0.15,not-called-up,italy 2020,15.0,4.0,Stefano Sensi,Stefano Sensi,Inter,Serie A
+216,M,6.79,32.0,0.53,46.5,0.09,0.09,0.8,86.5,0.0,0.3,1.15,0.77,0.0,0.0,0.0,0.08,0.08,not-called-up,italy 2020,20.0,4.0,Roberto Gagliardini,Roberto Gagliardini,Inter,Serie A
+217,M,7.02,30.0,0.6,50.4,0.1,0.0,0.47,87.0,0.0,0.37,0.43,0.37,0.0,0.0,0.0,1.0,0.91,line-up,denmark 2020,68.0,4.0,Christian Eriksen,Christian Eriksen,Inter,Serie A
+218,M,7.3,28.0,0.89,75.43,0.25,0.43,1.69,80.86,0.0,0.76,1.16,1.09,0.0,0.0,0.0,0.5,0.08,not-called-up,germany 2020,38.0,3.0,Jonas Hofmann,Jonas Hofmann,Bor. M'gladbach,Bundesliga
+219,M,6.78,44.0,0.48,43.39,0.07,0.05,0.8,84.95,0.0,0.54,0.79,0.4,0.0,0.0,0.0,0.67,0.17,not-called-up,germany 2020,40.0,3.0,Julian Brandt,Julian Brandt,Bor. Dortmund,Bundesliga
+220,M,6.49,21.0,0.57,53.81,0.1,0.05,0.37,82.57,0.0,0.23,0.69,0.32,0.0,0.0,0.0,0.67,0.17,called-up,austria 2020,3.5,18.0,Alessandro Schöpf,Alessandro Schöpf,FC Schalke 04,2. Bundesliga
+221,M,6.91,29.0,0.52,45.55,0.14,0.14,0.63,87.14,0.0,0.32,0.41,0.74,0.0,0.0,0.0,0.42,0.33,not-called-up,germany 2020,16.0,6.0,Julian Draxler,Julian Draxler,Paris SG,Ligue 1
+222,M,7.16,28.0,0.79,71.5,0.0,0.14,2.15,92.0,0.0,0.48,2.62,1.12,0.0,0.0,0.0,0.31,0.31,not-called-up,italy 2020,18.0,6.0,Marco Verratti,Marco Verratti,Paris SG,Ligue 1
+223,M,6.68,34.0,0.85,69.0,0.15,0.09,0.9,79.0,0.0,0.5,1.0,1.0,0.0,0.0,0.0,0.08,0.08,not-called-up,italy 2020,20.0,4.0,Gaetano Castrovilli,Gaetano Castrovilli,Fiorentina,Serie A
+224,M,6.82,34.0,0.79,67.0,0.09,0.06,1.1,82.0,0.0,0.6,1.0,1.1,0.0,0.0,0.0,0.08,0.08,not-called-up,italy 2020,13.0,4.0,Giacomo Bonaventura,Giacomo Bonaventura,Fiorentina,Serie A
+225,M,7.02,37.0,1.0,88.0,0.24,0.16,1.3,83.0,0.0,0.6,1.3,0.5,0.0,0.0,0.0,0.23,0.08,not-called-up,italy 2020,40.0,4.0,Roberto Soriano,Roberto Soriano,Bologna,Serie A
+226,M,6.69,26.0,0.46,45.0,0.08,0.08,0.4,82.0,0.0,0.2,0.7,0.1,0.0,0.0,0.0,0.45,0.27,called-up,denmark 2020,4.0,4.0,Andreas Skov Olsen,Andreas Skov Olsen,Bologna,Serie A
+227,M,6.71,32.0,0.34,37.12,0.03,0.06,0.44,84.69,0.0,0.38,0.75,0.3,0.0,0.0,0.0,0.92,0.33,not-called-up,netherlands 2020,44.0,1.0,Donny van de Beek,Donny van de Beek,Man Utd,Premier League
+228,M,7.11,36.0,1.0,86.33,0.19,0.17,1.03,78.33,0.0,0.83,1.42,0.58,0.0,0.0,0.0,0.67,0.08,not-called-up,netherlands 2020,18.0,14.0,Calvin Stengs,Calvin Stengs,AZ Alkmaar,Eredivisie
+229,M,6.83,28.0,0.93,81.93,0.07,0.11,0.71,87.0,0.0,0.3,1.34,0.89,0.0,0.0,0.0,0.58,0.42,not-called-up,netherlands 2020,18.0,4.0,Hans Hateboer,Hans Hateboer,Atalanta BC,Serie A
+230,M,6.93,29.0,0.97,83.0,0.0,0.17,0.8,81.0,0.0,0.6,1.5,1.8,0.0,0.0,0.0,0.73,0.55,line-up,czech republic 2020,6.7,150.0,Alex Král,Alex Kral,Spartak Moscow,Premier Liga
+231,M,7.1,30.0,0.97,81.0,0.03,0.13,1.9,82.0,0.0,0.5,1.9,2.9,0.0,0.0,0.0,1.0,0.36,called-up,croatia 2020,2.4,4.0,Milan Badelj,Milan Badelj,Genoa,Serie A
+232,M,6.81,24.0,0.62,55.33,0.17,0.04,0.6,78.0,0.0,0.4,1.37,1.2,0.0,0.0,0.0,0.33,0.08,not-called-up,austria 2020,3.0,21.0,Peter Žulj,Peter Zulj,RSC Anderlecht,Jupiler Pro League
+233,M,6.91,33.0,0.97,83.0,0.21,0.09,1.0,79.0,0.0,0.8,0.9,0.4,0.0,0.0,0.0,0.73,0.45,called-up,czech republic 2020,0.4,4.0,Antonín Barák,Antonin Barak,Udinese Calcio,Serie A
+234,M,6.96,28.0,0.89,71.25,0.04,0.21,0.81,76.25,0.0,0.33,1.29,1.0,0.0,0.0,0.0,0.91,0.82,line-up,czech republic 2020,4.5,18.0,Vladimír Darida,Vladimir Darida,Hertha BSC,2. Bundesliga
+235,M,6.71,35.0,0.83,69.0,0.17,0.09,0.7,73.0,0.0,0.5,0.8,0.7,0.0,0.0,0.0,0.73,0.64,line-up,czech republic 2020,9.5,27.0,Jakub Jankto,Jakub Jankto,Sampdoria,Serie B
+236,M,6.94,35.0,1.0,85.0,0.11,0.03,0.9,78.0,0.0,0.2,1.5,1.3,0.0,0.0,0.0,0.82,0.73,line-up,denmark 2020,11.0,2.0,Daniel Wass,Daniel Wass,Valencia,LaLiga
+237,M,6.95,49.0,0.88,81.82,0.04,0.08,1.73,88.39,0.0,0.58,2.27,1.25,0.0,0.0,0.0,0.73,0.45,line-up,denmark 2020,12.0,1.0,Pierre-Emile Højbjerg,Pierre-Emile Højbjerg,Tottenham,Premier League
+238,M,7.03,21.0,0.76,70.14,0.05,0.05,0.64,84.19,0.0,0.16,1.7,1.33,0.0,0.0,0.0,0.36,0.18,called-up,denmark 2020,3.2,1.0,Christian Nørgaard,Christian Nørgaard,Brentford,Premier League
+239,M,7.0,49.0,0.78,70.92,0.04,0.16,1.8,78.24,0.0,0.39,1.31,1.18,0.0,0.0,0.0,0.64,0.36,called-up,denmark 2020,4.0,1.0,Mathias Jensen,Mathias Jensen,Brentford,Premier League
+240,M,6.91,33.0,0.67,63.76,0.03,0.09,0.8,85.76,0.0,0.33,1.92,0.94,0.0,0.0,0.0,0.91,0.73,line-up,denmark 2020,17.5,3.0,Thomas Delaney,Thomas Delaney,Bor. Dortmund,Bundesliga
+241,M,6.68,35.0,0.51,51.0,0.06,0.11,1.4,73.0,0.0,0.5,1.2,0.7,0.0,0.0,0.0,0.55,0.18,called-up,denmark 2020,7.0,27.0,Mikkel Damsgaard,Mikkel Damsgaard,Sampdoria,Serie B
+242,M,7.19,45.0,0.91,80.71,0.18,0.16,1.18,84.71,0.0,0.58,1.79,1.38,0.0,0.0,0.0,1.0,0.25,called-up,germany 2020,12.0,3.0,Florian Neuhaus,Florian Neuhaus,Bor. M'gladbach,Bundesliga
+243,M,7.11,39.0,0.85,78.1,0.05,0.13,0.61,86.51,0.0,0.26,1.47,1.55,0.0,0.0,0.0,0.67,0.33,called-up,germany 2020,24.0,3.0,Emre Can,Emre Can,Bor. Dortmund,Bundesliga
+244,M,7.76,35.0,0.94,83.51,0.14,0.4,1.78,88.14,0.0,1.05,1.54,1.34,0.0,0.0,0.0,0.5,0.5,line-up,germany 2020,64.0,3.0,Joshua Kimmich,Joshua Kimmich,Bayern Munich,Bundesliga
+245,M,7.21,34.0,0.71,61.68,0.32,0.09,0.73,83.44,0.0,0.7,1.24,0.97,0.0,0.0,0.0,0.67,0.67,line-up,germany 2020,72.0,3.0,Serge Gnabry,Serge Gnabry,Bayern Munich,Bundesliga
+246,M,6.96,41.0,0.61,59.56,0.24,0.22,0.69,78.61,0.0,0.81,0.67,0.35,0.0,0.0,0.0,0.67,0.58,called-up,germany 2020,10.0,3.0,Leroy Sané,Leroy Sané,Bayern Munich,Bundesliga
+247,M,7.63,40.0,0.88,77.2,0.07,0.3,1.26,93.7,0.0,0.67,1.53,0.83,0.0,0.0,0.0,0.5,0.5,line-up,germany 2020,48.0,2.0,Toni Kroos,Toni Kroos,Real Madrid,LaLiga
+248,M,7.34,43.0,0.95,81.4,0.33,0.44,1.37,75.28,0.0,0.97,1.31,0.61,0.0,0.0,0.0,0.17,0.17,line-up,germany 2020,60.0,3.0,Thomas Müller,Thomas Müller,Bayern Munich,Bundesliga
+249,M,6.83,37.0,0.86,70.97,0.05,0.19,0.41,80.41,0.0,0.13,0.5,0.91,0.0,0.0,0.0,0.62,0.31,line-up,italy 2020,1.5,4.0,Leonardo Spinazzola,Leonardo Spinazzola,AS Roma,Serie A
+250,M,7.08,42.0,0.9,82.0,0.07,0.19,1.46,84.43,0.0,0.74,1.7,0.74,0.0,0.0,0.0,0.85,0.62,line-up,italy 2020,36.0,4.0,Nicolò Barella,Nicolò Barella,Inter,Serie A
+251,M,7.07,41.0,0.88,76.54,0.2,0.05,1.67,89.07,0.0,0.42,2.08,1.62,0.0,0.0,0.0,0.69,0.46,line-up,italy 2020,52.0,1.0,Jorginho,Jorginho,Chelsea,Premier League
+252,M,7.26,34.0,0.94,85.0,0.12,0.06,0.8,88.0,0.0,0.5,2.4,1.5,0.0,0.0,0.0,0.92,0.46,line-up,italy 2020,25.0,4.0,Manuel Locatelli,Manuel Locatelli,Sassuolo,Serie A
+253,M,6.88,46.0,0.74,67.8,0.04,0.09,0.5,84.0,0.0,0.13,0.86,1.2,0.0,0.0,0.0,0.46,0.15,called-up,italy 2020,35.0,4.0,Bryan Cristante,Bryan Cristante,AS Roma,Serie A
+254,M,6.8,35.0,0.74,61.0,0.06,0.06,0.66,84.2,0.0,0.6,0.66,0.8,0.0,0.0,0.0,0.54,0.08,called-up,italy 2020,55.0,4.0,Matteo Pessina,Matteo Pessina,Atalanta BC,Serie A
+255,M,6.93,41.0,0.93,84.98,0.02,0.02,1.53,83.83,0.0,0.56,2.21,2.0,0.0,0.0,0.0,0.5,0.25,line-up,netherlands 2020,19.0,4.0,Marten de Roon,Marten de Roon,Atalanta BC,Serie A
+256,M,7.0,36.0,0.92,82.5,0.08,0.19,0.8,76.67,0.0,0.62,1.37,1.55,0.0,0.0,0.0,0.75,0.33,line-up,netherlands 2020,12.0,14.0,Denzel Dumfries,Denzel Dumfries,PSV Eindhoven,Eredivisie
+257,M,6.76,48.0,0.88,77.06,0.04,0.0,0.55,90.69,0.0,0.56,0.62,0.74,0.0,0.0,0.0,0.83,0.83,line-up,netherlands 2020,40.0,1.0,Georginio Wijnaldum,Georginio Wijnaldum,Liverpool,Premier League
+258,M,7.14,44.0,0.93,84.84,0.07,0.11,0.56,92.48,0.0,0.53,1.18,1.18,0.0,0.0,0.0,0.83,0.75,line-up,netherlands 2020,72.0,2.0,Frenkie de Jong,Frenkie de Jong,Barcelona,LaLiga
+259,M,7.79,37.0,0.97,85.65,0.51,0.35,1.08,80.35,0.0,0.86,0.86,0.47,0.0,0.0,0.0,0.83,0.42,called-up,netherlands 2020,11.0,14.0,Steven Berghuis,Steven Berghuis,Feyenoord,Eredivisie
+260,M,7.05,45.0,0.91,77.11,0.33,0.09,0.93,82.64,0.0,0.54,1.24,0.61,0.0,0.0,0.0,0.58,0.33,called-up,netherlands 2020,17.0,14.0,Davy Klaassen,Davy Klaassen,Ajax,Eredivisie
+261,M,7.39,37.0,1.0,87.49,0.43,0.19,1.16,83.86,0.0,0.75,2.54,1.34,0.0,0.0,0.0,0.5,0.08,called-up,netherlands 2020,16.5,14.0,Teun Koopmeiners,Teun Koopmeiners,AZ Alkmaar,Eredivisie
+262,M,7.3,49.0,0.88,77.94,0.16,0.16,1.14,86.61,0.0,0.6,1.96,0.9,0.0,0.0,0.0,0.82,0.73,line-up,england 2020,40.5,1.0,Mason Mount,Mason Mount,Chelsea,Premier League
+263,M,7.07,33.0,1.0,90.0,0.06,0.03,0.87,88.3,0.0,0.42,1.75,1.78,0.0,0.0,0.0,1.0,0.64,line-up,england 2020,49.5,1.0,Declan Rice,Declan Rice,West Ham,Premier League
+264,M,7.04,39.0,0.95,81.15,0.1,0.15,0.82,80.05,0.0,0.26,1.44,1.03,0.0,0.0,0.0,0.55,0.27,not-called-up,england 2020,40.0,1.0,Ben Chilwell,Ben Chilwell,Chelsea,Premier League
+265,M,7.24,39.0,1.0,90.0,0.21,0.18,1.07,86.03,0.0,0.29,2.0,1.1,0.0,0.0,0.0,0.64,0.18,not-called-up,england 2020,30.0,25.0,James Ward-Prowse,James Ward-Prowse,Southampton,Championship
+266,M,6.64,34.0,0.76,69.38,0.0,0.03,0.81,79.18,0.0,0.44,1.32,1.19,0.0,0.0,0.0,0.55,0.09,not-called-up,england 2020,16.0,1.0,Ainsley Maitland-Niles,Ainsley Maitland-Niles,Arsenal,Premier League
+267,M,6.98,54.0,0.81,72.5,0.37,0.19,0.49,81.17,0.0,0.6,0.48,0.17,0.0,0.0,0.0,0.36,0.27,called-up,england 2020,64.0,1.0,Marcus Rashford,Marcus Rashford,Man Utd,Premier League
+268,M,6.88,26.0,0.73,66.04,0.04,0.08,0.93,87.35,0.0,0.33,1.15,1.07,0.0,0.0,0.0,0.36,0.18,not-called-up,england 2020,32.0,1.0,Harry Winks,Harry Winks,Tottenham,Premier League
+269,M,7.21,29.0,0.97,84.0,0.03,0.07,1.2,85.0,0.0,0.4,2.6,1.6,0.0,0.0,0.0,0.73,0.55,line-up,england 2020,30.0,25.0,Kalvin Phillips,Kalvin Phillips,Leeds,Championship
+270,M,7.61,38.0,0.89,78.42,0.42,0.47,0.41,83.74,0.0,1.03,0.68,0.57,0.0,0.0,0.0,0.64,0.18,not-called-up,england 2020,117.0,3.0,Jadon Sancho,Jadon Sancho,Bor. Dortmund,Bundesliga
+271,M,7.02,27.0,0.89,76.56,0.04,0.04,0.78,87.0,0.0,0.27,0.9,1.51,0.0,0.0,0.0,0.55,0.18,called-up,england 2020,20.0,1.0,Jordan Henderson,Jordan Henderson,Liverpool,Premier League
+272,M,6.92,45.0,0.73,62.69,0.09,0.09,0.85,84.8,0.0,0.68,1.83,0.8,0.0,0.0,0.0,0.73,0.09,called-up,england 2020,55.0,3.0,Jude Bellingham,Jude Bellingham,Bor. Dortmund,Bundesliga
+273,M,7.33,45.0,0.73,67.78,0.31,0.22,0.51,87.71,0.0,0.71,0.92,0.52,0.0,0.0,0.0,0.55,0.27,line-up,england 2020,80.0,1.0,Phil Foden,Phil Foden,Man City,Premier League
+274,M,7.13,36.0,0.83,64.31,0.22,0.33,0.68,84.61,0.0,0.78,0.6,0.14,0.0,0.0,0.0,0.83,0.25,called-up,france 2020,65.0,3.0,Kingsley Coman,Kingsley Coman,Bayern Munich,Bundesliga
+275,M,7.02,40.0,0.72,67.78,0.15,0.15,0.78,82.88,0.0,0.5,1.41,0.99,0.0,0.0,0.0,0.92,0.67,line-up,france 2020,60.0,1.0,Paul Pogba,Paul Pogba,Man Utd,Premier League
+276,M,6.65,37.0,0.59,61.92,0.03,0.03,0.45,85.08,0.0,0.25,0.88,0.94,0.0,0.0,0.0,0.75,0.25,not-called-up,france 2020,10.0,1.0,Moussa Sissoko,Moussa Sissoko,Tottenham,Premier League
+277,M,6.81,20.0,0.55,57.2,0.1,0.0,1.19,86.55,0.0,0.57,1.05,0.37,0.0,0.0,0.0,0.58,0.33,called-up,france 2020,20.0,3.0,Corentin Tolisso,Corentin Tolisso,Bayern Munich,Bundesliga
+278,M,7.12,41.0,0.73,68.68,0.12,0.07,0.93,90.66,0.0,0.43,2.19,1.47,0.0,0.0,0.0,0.83,0.58,line-up,france 2020,30.0,4.0,Adrien Rabiot,Adrien Rabiot,Juventus,Serie A
+279,M,6.81,14.0,0.5,51.57,0.0,0.07,0.37,86.43,0.0,0.37,0.81,1.09,0.0,0.0,0.0,0.58,0.42,line-up,france 2020,55.0,1.0,N'Golo Kanté,N'Golo Kanté,Chelsea,Premier League
+280,M,6.97,35.0,0.57,44.83,0.03,0.11,0.48,85.54,0.0,0.23,0.99,0.31,0.0,0.0,0.0,0.33,0.17,called-up,france 2020,25.0,2.0,Thomas Lemar,Thomas Lemar,Atlético Madrid,LaLiga
+281,M,7.01,39.0,0.82,70.44,0.03,0.05,1.17,89.21,0.0,0.55,2.67,0.78,0.0,0.0,0.0,0.33,0.08,not-called-up,france 2020,55.0,6.0,Eduardo Camavinga,Eduardo Camavinga,Stade Rennais,Ligue 1
+282,M,6.9,42.0,0.79,62.07,0.07,0.1,0.69,86.12,0.0,0.27,1.32,0.49,0.0,0.0,0.0,0.17,0.08,not-called-up,france 2020,50.0,1.0,Tanguy Ndombélé,Tanguy Ndombélé,Tottenham,Premier League
+283,M,6.88,30.0,0.77,60.0,0.23,0.1,0.6,86.0,0.0,0.4,0.6,0.6,0.0,0.0,0.0,0.17,0.08,not-called-up,france 2020,42.0,6.0,Houssem Aouar,Houssem Aouar,Olympique Lyon,Ligue 1
+284,M,7.02,40.0,0.78,68.5,0.2,0.12,0.57,84.25,0.0,0.6,1.15,0.72,0.0,0.0,0.0,0.0,0.0,called-up,croatia 2020,3.0,22.0,Luka Ivanušec,Luka Ivanusec,Dinamo Zagreb,SuperSport HNL
+285,M,6.33,7.0,0.29,27.14,0.0,0.0,1.54,66.29,0.0,0.4,0.74,0.26,0.0,0.0,0.0,0.08,0.0,line-up,austria 2020,24.0,3.0,Konrad Laimer,Konrad Laimer,RB Leipzig,Bundesliga
+286,F,6.9,27.0,0.48,46.0,0.22,0.0,0.1,83.0,0.0,0.4,0.2,0.1,0.0,0.0,0.0,0.08,0.0,called-up,italy 2020,30.0,4.0,Giacomo Raspadori,Giacomo Raspadori,Sassuolo,Serie A
+287,M,7.15,43.0,0.98,83.77,0.09,0.14,0.87,86.21,0.0,0.47,1.57,1.55,0.0,0.0,0.0,0.5,0.0,called-up,netherlands 2020,33.0,14.0,Ryan Gravenberch,Ryan Gravenberch,Ajax,Eredivisie
+288,F,7.11,35.0,0.97,79.0,0.46,0.2,0.7,68.0,0.0,0.7,0.9,0.1,0.0,0.0,0.0,0.17,0.0,called-up,germany 2020,30.0,6.0,Kevin Volland,Kevin Volland,Monaco,Ligue 1
+289,F,7.0,27.0,0.89,75.96,0.85,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.0,called-up,czech republic 2020,3.0,31.0,Tomáš Pekhart,Tomas Pekhart,Legia Warszawa,PKO BP Ekstraklasa
+290,F,7.15,26.0,0.92,73.23,0.31,0.15,0.3,73.19,0.0,0.59,0.99,0.39,0.0,0.0,0.0,0.0,0.0,called-up,netherlands 2020,,14.0,Cody Gakpo,Cody Gakpo,PSV Eindhoven,Eredivisie
+291,M,7.42,33.0,1.0,85.55,0.09,0.18,1.12,83.64,0.0,0.7,1.64,1.73,0.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,35.0,3.0,Maximilian Arnold,Maximilian Arnold,VfL Wolfsburg,Bundesliga
+292,M,6.87,18.0,0.28,33.17,0.0,0.06,0.58,67.5,0.0,0.08,0.83,0.58,0.0,0.0,0.0,0.0,0.0,not-called-up,austria 2020,27.0,3.0,Nicolas Seiwald,Nicolas Seiwald,RB Salzburg,Bundesliga
+293,F,7.06,43.0,0.77,71.67,0.23,0.3,0.47,84.79,0.0,0.53,0.3,0.43,0.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,38.0,3.0,Moussa Diaby,Moussa Diaby,B. Leverkusen,Bundesliga
+294,M,7.01,24.0,0.71,63.08,0.12,0.04,0.76,86.71,0.0,0.45,2.4,0.75,0.0,0.0,0.0,0.0,0.0,not-called-up,austria 2020,2.4,3.0,Julian Baumgartlinger,Julian Baumgartlinger,B. Leverkusen,Bundesliga
+295,M,6.95,39.0,0.72,64.08,0.13,0.23,0.93,86.0,0.0,0.28,0.41,0.43,0.0,0.0,0.0,0.33,0.0,not-called-up,germany 2020,16.0,3.0,Nadiem Amiri,Nadiem Amiri,B. Leverkusen,Bundesliga
+296,M,6.8,40.0,0.35,39.25,0.17,0.03,0.62,84.4,0.0,0.64,0.97,0.5,0.0,0.0,0.0,0.33,0.0,not-called-up,germany 2020,45.0,3.0,Jamal Musiala,Jamal Musiala,Bayern Munich,Bundesliga
+297,M,7.0,24.0,0.75,68.0,0.12,0.04,0.8,78.0,0.0,0.5,1.5,1.7,0.0,0.0,0.0,0.0,0.0,not-called-up,croatia 2020,0.4,150.0,Nikola Moro,Nikola Moro,Dynamo Moscow,Premier Liga
+298,F,6.83,33.0,0.52,47.27,0.21,0.06,0.72,78.09,0.0,0.35,0.58,0.3,0.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,7.5,150.0,Maximilian Philipp,Philipp Max,Dynamo Moscow,Premier Liga
+299,M,7.34,43.0,0.91,70.95,0.21,0.28,0.98,84.44,0.0,0.76,1.37,0.44,0.0,0.0,0.0,0.0,0.0,not-called-up,croatia 2020,9.0,22.0,Lovro Majer,Lovro Majer,Dinamo Zagreb,SuperSport HNL
+300,M,7.0,33.0,1.0,90.0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,not-called-up,czech republic 2020,1.6,13.0,Lukáš Kalvach,Lukas Kalvach,Viktoria Plzen,Fortuna Liga
+301,M,7.0,26.0,0.88,78.0,0.27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,czech republic 2020,0.7000000000000001,13.0,Pavel Bucha,Pavel Bucha,Viktoria Plzen,Fortuna Liga
+302,D,7.0,17.0,0.76,71.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,czech republic 2020,0.2,13.0,Simon Gabriel,Simon Gabriel,Viktoria Plzen,Fortuna Liga
+303,D,7.0,26.0,0.96,87.0,0.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,czech republic 2020,0.75,13.0,Milan Havel,Milan Havel,Viktoria Plzen,Fortuna Liga
+304,M,6.94,34.0,0.94,83.68,0.06,0.03,0.41,22.79,0.0,0.09,0.41,0.35,0.0,0.0,0.0,0.27,0.0,not-called-up,czech republic 2020,2.3,13.0,David Pavelka,David Pavelka,Sparta Prague,Fortuna Liga
+305,M,6.96,14.0,0.93,77.93,0.29,0.0,0.29,4.79,0.0,0.07,0.07,0.07,0.0,0.0,0.0,0.0,0.0,not-called-up,czech republic 2020,1.0,13.0,Tomáš Wiesner,Tomas Wiesner,Sparta Prague,Fortuna Liga
+306,M,6.94,28.0,0.29,31.29,0.11,0.04,0.07,13.04,0.0,0.04,0.07,0.0,0.0,0.0,0.0,0.09,0.0,not-called-up,czech republic 2020,14.0,13.0,Adam Karabec,Adam Karabec,Sparta Prague,Fortuna Liga
+307,F,6.95,37.0,0.78,65.19,0.46,0.05,0.05,19.19,0.0,0.08,0.27,0.05,0.0,0.0,0.0,0.0,0.0,not-called-up,czech republic 2020,17.0,13.0,Jan Kuchta,Jan Kuchta,Slavia Prague,Fortuna Liga
+308,F,7.01,28.0,0.86,78.5,0.43,0.18,0.37,71.21,0.0,0.37,0.5,0.28,0.0,0.0,0.0,0.0,0.0,not-called-up,england 2020,24.0,1.0,Callum Wilson,Callum Wilson,Newcastle,Premier League
+309,D,6.95,25.0,0.76,63.04,0.08,0.0,0.04,6.24,0.0,0.0,0.04,0.0,0.0,0.0,0.0,0.09,0.0,not-called-up,czech republic 2020,0.9,13.0,Ondrej Karafiat,Ondrej Karafiat,Slavia Prague,Fortuna Liga
+310,M,6.98,31.0,0.84,76.16,0.19,0.03,0.16,15.94,0.0,0.1,0.42,0.26,0.0,0.0,0.0,0.09,0.0,not-called-up,czech republic 2020,2.5,14.0,Michal Sadílek,Michal Sadilek,PSV Eindhoven,Eredivisie
+311,M,6.91,26.0,0.65,54.08,0.12,0.08,0.49,79.38,0.0,0.54,0.48,0.38,0.0,0.0,0.0,0.17,0.0,not-called-up,netherlands 2020,12.0,14.0,Mohamed Ihattaren,Mohamed Ihattaren,PSV Eindhoven,Eredivisie
+312,F,6.89,30.0,0.23,34.0,0.27,0.03,0.38,81.1,0.0,0.37,0.57,0.29,0.0,0.0,0.0,0.17,0.0,not-called-up,austria 2020,1.3,3.0,Yusuf Demir,Yusuf Demir,Rapid Vienna,Bundesliga
+313,F,7.15,40.0,0.88,76.45,0.47,0.12,0.74,56.55,0.0,0.84,0.47,0.28,0.0,0.0,0.0,0.08,0.0,not-called-up,austria 2020,5.0,3.0,Ercan Kara,Ercan Kara,Rapid Vienna,Bundesliga
+314,M,7.0,29.0,0.9,82.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,not-called-up,czech republic 2020,0.8,13.0,Tomáš Solil,Tomas Solil,Pardubice,Fortuna Liga
+315,F,6.77,28.0,0.29,39.0,0.07,0.0,0.2,61.0,0.0,0.1,0.5,0.3,0.0,0.0,0.0,0.0,0.0,not-called-up,czech republic 2020,0.7000000000000001,43.0,Filip Kasalica,Filip Kasa,Radnicki Nis,Super liga Srbije
+316,M,7.0,32.0,0.91,79.0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,not-called-up,czech republic 2020,0.6,13.0,Radim Breite,Radim Breite,Sigma Olomouc,Fortuna Liga
+317,F,6.7,18.0,0.33,34.83,0.11,0.11,0.25,69.22,0.0,0.31,0.33,0.42,0.0,0.0,0.0,0.18,0.0,not-called-up,denmark 2020,13.0,3.0,Jacob Bruun Larsen,Jacob Bruun Larsen,TSG Hoffenheim,Bundesliga
+318,M,7.0,27.0,0.74,63.0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,not-called-up,czech republic 2020,6.0,13.0,Daniel Holzer,Daniel Holzer,Banik Ostrava,Fortuna Liga
+319,D,7.0,30.0,1.0,90.0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.18,0.0,not-called-up,czech republic 2020,4.0,13.0,Patrizio Stronati,Patrizio Stronati,Banik Ostrava,Fortuna Liga
+320,M,6.89,25.0,0.92,74.44,0.16,0.04,0.0,20.72,0.0,0.0,0.11,0.08,0.0,0.0,0.0,0.0,0.0,not-called-up,czech republic 2020,2.4,27.0,Jaromír Zmrhal,Jaromir Zmrhal,Brescia,Serie B
+321,F,6.65,31.0,0.81,67.74,0.1,0.16,0.58,73.9,0.0,0.29,0.58,0.58,0.0,0.0,0.0,0.09,0.0,not-called-up,denmark 2020,5.0,3.0,Marcus Ingvartsen,Marcus Ingvartsen,Union Berlin,Bundesliga
+322,M,7.0,6.0,0.0,32.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,not-called-up,czech republic 2020,0.5,94.0,Jáchym Šíp,Jachym Sip,Olomouc B,Fortuna Narodni liga
+323,M,6.85,27.0,0.59,52.33,0.0,0.11,0.22,15.93,0.0,0.04,0.07,0.07,0.0,0.0,0.0,0.0,0.0,not-called-up,czech republic 2020,0.9,31.0,Jan Sýkora,Jan Sykora,Lech Poznan,PKO BP Ekstraklasa
+324,F,6.88,28.0,0.57,52.0,0.18,0.07,0.3,84.0,0.0,0.7,0.7,0.4,0.0,0.0,0.0,0.0,0.0,not-called-up,denmark 2020,4.5,19.0,Mohamed Daramy,Mohamed Daramy,FC Copenhagen,Superliga
+325,M,7.11,28.0,0.96,80.0,0.14,0.18,1.5,87.0,0.0,0.6,1.7,0.9,0.0,0.0,0.0,0.18,0.0,not-called-up,denmark 2020,2.5,19.0,Rasmus Falk Jensen,Rasmus Falk,FC Copenhagen,Superliga
+326,M,7.01,23.0,0.78,67.0,0.22,0.13,0.6,75.0,0.0,0.3,1.7,1.2,0.0,0.0,0.0,0.0,0.0,not-called-up,denmark 2020,8.0,19.0,Jens Stage,Jens Stage,FC Copenhagen,Superliga
+327,F,7.01,37.0,0.89,76.3,0.24,0.14,0.7,77.51,0.0,0.63,0.37,0.36,0.0,0.0,0.0,0.0,0.0,not-called-up,denmark 2020,6.5,19.0,Anders Dreyer,Anders Dreyer,FC Midtjylland,Superliga
+328,M,7.27,28.0,1.0,89.0,0.0,0.04,0.6,76.0,0.0,0.3,2.0,2.9,0.0,0.0,0.0,0.09,0.0,not-called-up,denmark 2020,4.0,150.0,Oliver Abildgaard,Oliver Abildgaard,Rubin Kazan,Premier Liga
+329,F,7.17,33.0,0.88,76.0,0.45,0.21,0.2,78.0,0.0,0.6,0.3,0.2,0.0,0.0,0.0,0.0,0.0,not-called-up,netherlands 2020,15.0,1.0,Arnaut Danjuma,Arnaut Danjuma,Bournemouth,Premier League
+330,F,7.06,32.0,1.0,82.0,0.59,0.16,0.3,64.0,0.0,0.6,0.7,0.3,0.0,0.0,0.0,0.0,0.0,not-called-up,denmark 2020,2.5,19.0,Mikael Uhre,Mikael Uhre,Bröndby IF,Superliga
+331,M,7.19,34.0,0.82,74.0,0.15,0.09,0.4,76.0,0.0,0.4,0.9,1.3,0.0,0.0,0.0,0.0,0.0,not-called-up,italy 2020,12.0,4.0,Federico Dimarco,Federico Dimarco,Inter,Serie A
+332,F,6.72,41.0,0.49,46.44,0.1,0.02,0.33,62.85,0.0,0.33,0.33,0.09,0.0,0.0,0.0,0.0,0.0,not-called-up,denmark 2020,2.0,,Emil Riis Jacobsen,Emil Riis,without team,
+333,M,6.87,9.0,0.78,56.0,0.22,0.0,0.71,63.11,0.0,0.53,0.44,0.36,0.0,0.0,0.0,0.0,0.0,not-called-up,austria 2020,4.2,3.0,Florian Kainz,Florian Kainz,1.FC Köln,Bundesliga
+334,M,6.93,30.0,0.77,65.4,0.07,0.07,1.36,85.5,0.0,0.59,1.65,0.86,0.0,0.0,0.0,0.33,0.0,not-called-up,germany 2020,19.0,3.0,Mahmoud Dahoud,Mahmoud Dahoud,Bor. Dortmund,Bundesliga
+335,M,6.74,26.0,0.96,78.46,0.08,0.08,1.35,76.15,0.0,0.5,2.15,0.9,0.0,0.0,0.0,0.17,0.0,not-called-up,germany 2020,20.0,18.0,Suat Serdar,Suat Serdar,FC Schalke 04,2. Bundesliga
+336,M,6.75,25.0,0.92,81.0,0.16,0.08,0.6,84.0,0.0,0.4,1.3,0.7,0.0,0.0,0.0,0.0,0.0,not-called-up,italy 2020,21.0,1.0,Davide Zappacosta,Davide Zappacosta,Chelsea,Premier League
+337,F,6.93,29.0,0.55,46.72,0.28,0.14,0.23,74.52,0.0,0.3,0.23,0.19,0.0,0.0,0.0,0.27,0.0,not-called-up,england 2020,40.0,1.0,Tammy Abraham,Tammy Abraham,Chelsea,Premier League
+338,F,6.82,34.0,0.26,33.12,0.0,0.09,0.48,83.79,0.0,0.22,0.3,0.46,0.0,0.0,0.0,0.0,0.0,not-called-up,italy 2020,28.0,4.0,Federico Bernardeschi,Federico Bernardeschi,Juventus,Serie A
+339,F,6.94,26.0,0.5,52.0,0.31,0.08,0.5,66.0,0.0,0.5,0.7,0.3,0.0,0.0,0.0,0.0,0.0,not-called-up,italy 2020,35.0,4.0,Gianluca Scamacca,Gianluca Scamacca,Sassuolo,Serie A
+340,M,6.84,48.0,0.67,59.23,0.21,0.08,0.38,85.0,0.0,0.57,0.37,0.17,0.0,0.0,0.0,0.0,0.0,not-called-up,england 2020,50.0,1.0,Mason Greenwood,Mason Greenwood,Man Utd,Premier League
+341,M,6.69,25.0,0.88,75.0,0.0,0.0,0.9,89.0,0.0,0.3,1.4,0.7,0.0,0.0,0.0,0.17,0.0,not-called-up,netherlands 2020,2.5,14.0,Leroy Fer,Leroy Fer,Feyenoord,Eredivisie
+342,M,6.82,32.0,0.59,49.88,0.0,0.12,0.7,84.41,0.0,0.2,1.23,0.99,0.0,0.0,0.0,0.42,0.0,not-called-up,netherlands 2020,8.0,6.0,Kevin Strootman,Kevin Strootman,Marseille,Ligue 1
+343,M,6.68,14.0,0.36,33.0,0.29,0.0,0.11,41.71,0.0,0.15,0.45,0.21,0.0,0.0,0.0,0.0,0.0,not-called-up,netherlands 2020,4.5,150.0,Guus Til,Guus Til,Spartak Moscow,Premier Liga
+344,F,7.22,36.0,0.83,69.94,0.47,0.19,0.27,79.61,0.0,1.29,0.76,0.27,0.0,0.0,0.0,0.0,0.0,not-called-up,netherlands 2020,22.0,14.0,Noa Lang,Noa Lang,Ajax,Eredivisie
+345,M,6.79,32.0,0.91,85.12,0.34,0.06,0.68,62.97,0.0,0.58,0.68,0.48,0.0,0.0,0.0,0.0,0.0,not-called-up,austria 2020,2.0,144.0,Marco Grüll,Marco Grüll,SV Ried,2. Liga
+346,M,6.99,36.0,0.83,66.67,0.31,0.11,0.79,87.56,0.0,0.23,0.74,0.51,0.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,33.0,4.0,Jordan Veretout,Jordan Veretout,AS Roma,Serie A
+347,M,6.84,33.0,0.82,67.76,0.09,0.21,0.46,88.06,0.0,0.47,0.62,0.6,0.0,0.0,0.0,0.0,0.0,not-called-up,england 2020,18.0,1.0,Emile Smith Rowe,Emile Smith Rowe,Arsenal,Premier League
+348,M,6.85,24.0,0.79,76.0,0.08,0.04,0.7,87.0,0.0,0.3,1.0,0.9,0.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,20.0,1.0,Mattéo Guendouzi,Mattéo Guendouzi,Arsenal,Premier League
+349,M,7.3,38.0,0.76,66.53,0.26,0.16,0.84,82.05,0.0,0.46,0.99,0.32,0.0,0.0,0.0,0.0,0.0,not-called-up,england 2020,48.0,25.0,James Maddison,James Maddison,Leicester,Championship
+350,M,6.79,31.0,0.94,84.19,0.06,0.06,2.26,80.9,0.0,0.48,2.77,0.94,0.0,0.0,0.0,0.0,0.0,not-called-up,england 2020,15.0,150.0,Conor Gallagher,Conor Gallagher,Chelsea U23,Premier League 2
+351,M,7.15,36.0,1.0,85.0,0.06,0.08,1.2,83.0,0.0,0.6,3.5,1.7,0.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,30.0,6.0,Aurélien Tchouaméni,Aurélien Tchouaméni,Monaco,Ligue 1
+352,F,7.06,40.0,0.95,86.03,0.4,0.12,0.55,73.35,0.0,0.74,0.76,0.18,0.0,0.0,0.0,0.45,0.0,not-called-up,england 2020,32.0,1.0,Ollie Watkins,Ollie Watkins,Aston Villa,Premier League
+353,F,6.97,35.0,0.77,63.86,0.23,0.06,0.71,84.43,0.0,0.6,0.69,0.37,0.0,0.0,0.0,0.36,0.0,not-called-up,denmark 2020,5.5,19.0,Pione Sisto,Pione Sisto,FC Midtjylland,Superliga
+354,F,7.15,29.0,0.97,82.0,0.34,0.34,1.0,74.0,0.0,0.8,1.0,0.8,0.0,0.0,0.0,0.09,0.0,not-called-up,denmark 2020,1.5,19.0,Jesper Lindstrøm,Jesper Lindstrøm,Bröndby IF,Superliga
+355,F,6.93,27.0,0.63,53.07,0.15,0.11,1.0,77.0,0.0,0.81,1.0,0.48,0.0,0.0,0.0,0.17,0.0,not-called-up,germany 2020,20.0,,Amin Younes,Amin Younes,without team,
+356,F,6.97,38.0,0.82,74.74,0.21,0.18,0.85,79.5,0.0,0.93,1.11,0.37,0.0,0.0,0.0,0.17,0.0,not-called-up,germany 2020,35.0,3.0,Florian Wirtz,Florian Wirtz,B. Leverkusen,Bundesliga
+357,F,6.96,45.0,0.64,53.78,0.22,0.09,0.93,82.53,0.0,0.49,0.58,0.42,0.0,0.0,0.0,0.08,0.0,not-called-up,italy 2020,20.0,4.0,Matteo Politano,Riccardo Orsolini,Inter,Serie A
+358,F,6.54,16.0,0.0,15.0,0.06,0.0,0.0,50.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.08,0.0,not-called-up,italy 2020,6.0,6.0,Pietro Pellegri,Pietro Pellegri,Monaco,Ligue 1
+359,M,6.92,33.0,0.82,73.88,0.36,0.12,0.6,74.03,0.0,0.5,0.68,0.25,0.0,0.0,0.0,0.09,0.0,not-called-up,england 2020,35.0,25.0,Harvey Barnes,Harvey Barnes,Leicester,Championship
+360,M,6.93,33.0,1.0,80.0,0.15,0.15,1.1,85.0,0.0,0.8,1.4,0.2,0.0,0.0,0.0,0.08,0.0,not-called-up,france 2020,25.0,2.0,Nabil Fekir,Nabil Fekir,Real Betis,LaLiga
+361,M,6.7,45.0,0.69,58.11,0.16,0.16,0.44,80.47,0.0,0.33,0.46,0.22,0.0,0.0,0.0,0.08,0.0,not-called-up,france 2020,30.0,6.0,Jonathan Ikoné,Jonathan Ikoné,LOSC Lille,Ligue 1
+362,D,6.58,11.0,0.64,57.0,0.0,0.09,0.5,74.0,0.0,0.2,0.8,0.7,0.0,0.0,0.0,0.15,0.0,not-called-up,italy 2020,10.0,4.0,Luca Pellegrini,Luca Pellegrini,Juventus,Serie A
+363,F,7.01,38.0,0.97,81.0,0.45,0.18,0.5,77.0,0.0,0.4,0.6,0.3,0.0,0.0,0.0,0.0,0.0,not-called-up,england 2020,,25.0,Patrick Bamford,Patrick Bamford,Leeds,Championship
+364,F,7.25,40.0,0.72,70.3,0.17,0.23,0.44,83.75,0.0,0.65,0.95,0.45,0.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,,3.0,Christopher Nkunku,Christopher Nkunku,RB Leipzig,Bundesliga
+365,F,6.92,37.0,0.95,82.0,0.24,0.11,0.5,67.0,0.0,0.7,0.6,0.2,0.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,,6.0,Randal Kolo Muani,Randal Kolo Muani,FC Nantes,Ligue 1
+366,F,7.0,31.0,0.74,73.0,0.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,czech republic 2020,,13.0,Martin Doležal,Martin Doležal mfk,FK Jablonec,Fortuna Liga
+367,F,7.08,37.0,0.97,85.0,0.49,0.08,0.2,72.0,0.0,0.6,0.6,0.2,0.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,,1.0,Lukas Nmecha,Lukas Nmecha,Man City,Premier League
+368,F,7.18,24.0,0.96,78.0,0.25,0.25,1.6,84.75,0.0,1.25,1.43,1.1,0.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,,14.0,Mario Götze,Mario Götze,PSV Eindhoven,Eredivisie
+369,F,7.19,42.0,0.83,69.76,0.5,0.24,0.37,70.43,0.0,0.74,0.42,0.21,0.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,,3.0,Mergim Berisha,Mergim Berisha,RB Salzburg,Bundesliga
+370,F,6.69,15.0,0.13,31.07,0.2,0.0,0.0,75.33,0.0,0.19,0.19,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,,3.0,Youssoufa Moukoko,Youssoufa Moukoko,Bor. Dortmund,Bundesliga
+371,F,6.94,21.0,0.52,45.52,0.29,0.0,0.64,56.71,0.0,0.23,0.36,0.23,0.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,,3.0,Niclas Füllkrug,Niclas Füllkrug,Werder Bremen,Bundesliga
+372,F,7.08,35.0,0.94,74.0,0.14,0.14,0.5,75.0,0.0,0.7,0.8,0.8,0.0,0.0,0.0,0.0,0.0,not-called-up,italy 2020,,4.0,Mattia Zaccagni,Mattia Zaccagni,Hellas Verona,Serie A
+373,F,6.69,26.0,0.12,24.0,0.04,0.15,0.2,76.0,0.0,0.2,0.5,0.2,0.0,0.0,0.0,0.0,0.0,not-called-up,italy 2020,,16.0,Wilfried Gnonto,Wilfried Gnonto,FC Zürich,Super League
+374,F,6.5,1.0,1.0,65.0,0.0,1.0,2.0,79.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,italy 2020,,4.0,Alessio Zerbin,Alessio Zerbin,SSC Napoli,Serie A
+375,F,6.84,30.0,0.77,63.0,0.17,0.2,0.9,81.0,0.0,0.6,0.5,0.6,0.0,0.0,0.0,0.0,0.0,not-called-up,italy 2020,,27.0,Gianluca Caprari,Gianluca Caprari,Sampdoria,Serie B
+376,F,6.9,39.0,0.79,71.9,0.23,0.08,0.39,71.36,0.0,0.68,0.97,0.39,0.0,0.0,0.0,0.0,0.0,not-called-up,italy 2020,,1.0,João Pedro,João Pedro,Man City,Premier League
+377,M,6.97,32.0,0.88,78.81,0.0,0.03,0.48,75.94,0.0,0.59,1.36,1.52,0.0,0.0,0.0,0.0,0.0,not-called-up,denmark 2020,,4.0,Morten Hjulmand,Morten Hjulmand,Lecce,Serie A
+378,M,6.3,1.0,1.0,90.0,0.0,0.0,0.0,89.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,,18.0,Josha Vagnoman,Josha Vagnoman,Hamburger SV,2. Bundesliga
+379,M,6.99,35.0,0.77,70.6,0.03,0.0,0.84,91.4,0.0,0.5,1.58,1.2,0.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,,,Julian Weigl,Julian Weigl,without team,
+380,M,6.9,1.0,0.0,9.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,,150.0,Felix Nmecha,Felix Nmecha,Man City U23,Premier League 2
+381,M,6.97,33.0,0.7,66.36,0.03,0.03,0.73,80.18,0.0,0.43,1.27,2.12,0.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,,18.0,Anton Stach,Anton Stach,Greuther Fürth,2. Bundesliga
+382,M,6.73,30.0,0.47,49.1,0.0,0.03,0.29,83.93,0.0,0.1,0.97,0.87,0.0,0.0,0.0,0.0,0.0,not-called-up,italy 2020,,4.0,Mattia De Sciglio,Mattia De Sciglio,Juventus,Serie A
+383,M,7.22,31.0,0.84,75.0,0.16,0.13,0.9,85.0,0.0,0.5,1.3,1.0,0.0,0.0,0.0,0.0,0.0,not-called-up,italy 2020,,70.0,Salvatore Esposito,Salvatore Esposito,SPAL,Serie C - Girone B
+384,M,7.05,39.0,0.77,68.0,0.21,0.05,0.7,81.0,0.0,0.6,1.7,0.6,0.0,0.0,0.0,0.0,0.0,not-called-up,italy 2020,,4.0,Davide Frattesi,Davide Frattesi,Sassuolo,Serie A
+385,M,6.71,40.0,0.75,66.78,0.03,0.1,0.28,83.92,0.0,0.18,0.99,0.47,0.0,0.0,0.0,0.0,0.0,not-called-up,netherlands 2020,,3.0,Jeremie Frimpong,Jeremie Frimpong,B. Leverkusen,Bundesliga
+386,M,6.86,34.0,0.82,74.0,0.03,0.03,0.6,87.0,0.0,0.6,1.5,2.3,0.0,0.0,0.0,0.0,0.0,not-called-up,netherlands 2020,,4.0,Jerdy Schouten,Jerdy Schouten,Bologna,Serie A
+387,M,7.23,8.0,0.5,49.0,0.12,0.0,0.5,93.0,0.0,0.1,1.1,0.6,0.0,0.0,0.0,0.0,0.0,not-called-up,netherlands 2020,,14.0,Jordy Clasie,Jordy Clasie,AZ Alkmaar,Eredivisie
+388,M,7.14,32.0,0.91,82.28,0.22,0.12,0.79,85.84,0.0,0.57,1.82,1.3,0.0,0.0,0.0,0.0,0.0,not-called-up,netherlands 2020,,14.0,Kenneth Taylor,Kenneth Taylor,Ajax,Eredivisie
+389,M,6.88,38.0,0.79,68.0,0.21,0.13,0.5,74.0,0.0,0.5,0.7,0.6,0.0,0.0,0.0,0.0,0.0,not-called-up,england 2020,,1.0,Jarrod Bowen,Jarrod Bowen,West Ham,Premier League
+390,M,7.06,33.0,0.91,77.0,0.09,0.18,0.6,77.0,0.0,0.6,1.3,1.4,0.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,,6.0,Jonathan Clauss,Jonathan Clauss,Lens,Ligue 1
+391,M,6.97,40.0,1.0,82.25,0.0,0.05,1.0,86.5,0.0,0.4,2.41,1.07,0.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,,6.0,Boubacar Kamara,Boubacar Kamara,Marseille,Ligue 1
+392,M,6.89,35.0,1.0,82.0,0.0,0.09,1.1,86.0,0.0,0.5,2.6,1.0,0.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,,6.0,Youssouf Fofana,Youssouf Fofana,Monaco,Ligue 1
+393,D,6.55,2.0,1.0,105.0,0.0,0.0,1.5,74.0,0.0,0.0,2.5,3.0,0.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,,3.0,Armel Bella-Kotchap,Armel Bella-Kotchap,VfL Bochum,Bundesliga
+394,M,7.01,8.0,1.0,86.5,0.25,0.0,0.35,76.38,0.0,0.6,0.96,0.35,0.0,0.0,0.0,0.0,0.0,not-called-up,austria 2020,,25.0,Andreas Weimann,Andreas Weimann,Bristol City,Championship
+395,M,6.54,43.0,0.37,38.05,0.09,0.05,0.79,76.93,0.0,0.41,0.66,0.25,0.0,0.0,0.0,0.0,0.0,not-called-up,austria 2020,,,Hannes Wolf,Hannes Wolf,without team,
+396,M,6.82,31.0,0.71,59.0,0.16,0.1,0.9,60.0,0.0,0.4,1.5,0.9,0.0,0.0,0.0,0.0,0.0,not-called-up,austria 2020,,3.0,Patrick Wimmer,Patrick Wimmer,Austria Vienna,Bundesliga
+397,F,7.13,37.0,0.78,73.95,0.3,0.19,0.03,34.19,0.0,0.47,0.31,0.15,0.0,0.0,0.0,0.0,0.0,not-called-up,croatia 2020,,22.0,Marko Livaja,Marko Livaja,Hajduk Split,SuperSport HNL
+398,F,6.84,32.0,0.44,42.88,0.16,0.09,0.19,33.19,0.0,0.41,0.58,0.29,0.0,0.0,0.0,0.0,0.0,not-called-up,croatia 2020,,13.0,Petar Musa,Petar Musa,Slavia Prague,Fortuna Liga
+399,F,6.77,26.0,0.69,59.23,0.27,0.04,0.28,65.54,0.0,0.28,0.28,0.18,0.0,0.0,0.0,0.25,0.0,not-called-up,austria 2020,,3.0,Christoph Monschein,Christoph Monschein,Austria Vienna,Bundesliga
+400,F,6.99,15.0,0.67,60.53,0.4,0.0,0.37,61.6,0.0,0.84,0.47,0.37,0.0,0.0,0.0,0.0,0.0,not-called-up,austria 2020,,3.0,Chukwubuike Adamu,Chukwubuike Adamu,RB Salzburg,Bundesliga
+401,F,7.33,36.0,0.97,79.75,0.31,0.25,0.34,67.17,0.0,0.86,0.43,0.17,0.0,0.0,0.0,0.0,0.0,not-called-up,austria 2020,,3.0,Jakob Jantscher,Jakob Jantscher,Sturm Graz,Bundesliga
+402,F,7.0,31.0,1.0,85.0,0.29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09,0.0,not-called-up,czech republic 2020,,13.0,Tomáš Poznar,Tomas Poznar,Fastav Zlin,Fortuna Liga
+403,F,7.13,29.0,1.0,89.0,0.52,0.03,0.2,67.0,0.0,0.6,0.3,0.1,0.0,0.0,0.0,0.09,0.0,not-called-up,denmark 2020,,19.0,Patrick Mortensen,Patrick Mortensen,Aarhus GF,Superliga
+404,F,6.74,22.0,0.77,68.0,0.18,0.05,0.4,79.0,0.0,0.0,0.5,0.1,0.0,0.0,0.0,0.08,0.0,not-called-up,italy 2020,,,Stefano Okaka,Stefano Okaka,without team,
+405,G,7.0,27.0,0.96,88.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.0,not-called-up,poland 2020,2.5,,Karol Niemczycki,Karol Niemczycki,,
+406,G,7.0,32.0,1.0,89.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,switzerland 2020,0.4,,Philipp Köhn,Philipp Köhn,,
+407,G,7.0,24.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.0,not-called-up,ukraine 2020,1.0,,Dmytro Riznyk,Dmytro Riznyk,,
+408,G,7.0,18.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.0,not-called-up,ukraine 2020,0.3,,Yurii Pankiv,Yuriy Pankiv,,
+409,D,7.35,39.0,1.0,90.51,0.1,0.1,0.6,61.36,0.0,0.0,2.37,3.54,12.0,0.0,0.0,0.5,0.25,not-called-up,austria 2020,5.0,3.0,Gernot Trauner,Gernot Trauner,LASK,Bundesliga
+410,D,6.85,42.0,0.86,77.86,0.0,0.07,0.53,62.86,0.0,0.39,1.48,1.0,6.0,0.0,0.0,0.67,0.5,line-up,austria 2020,1.5,3.0,Andreas Ulmer,Andreas Ulmer,RB Salzburg,Bundesliga
+411,D,7.01,42.0,0.93,83.64,0.05,0.1,0.47,84.6,0.0,0.42,1.26,1.33,9.0,0.0,0.0,0.67,0.67,line-up,austria 2020,52.0,3.0,David Alaba,David Alaba,Bayern Munich,Bundesliga
+412,D,6.99,33.0,0.76,65.73,0.21,0.03,0.16,22.64,0.0,0.03,0.49,0.3,1.0,0.0,0.0,0.82,0.45,called-up,czech republic 2020,7.5,13.0,Tomáš Holeš,Tomas Holes,Slavia Prague,Fortuna Liga
+413,D,6.94,29.0,0.66,65.24,0.07,0.03,0.32,89.62,0.0,0.32,0.75,0.94,3.0,0.0,0.0,0.92,0.67,line-up,austria 2020,5.2,,Aleksandar Dragovi?,Aleksandar Dragovic,,
+414,D,6.9,37.0,0.97,85.54,0.05,0.03,0.41,86.11,0.0,0.0,0.89,1.3,5.0,0.0,0.0,0.91,0.64,line-up,croatia 2020,20.0,,Duje ?aleta-Car,Duje Caleta-Car,,
+415,D,7.04,30.0,1.0,87.0,0.03,0.1,0.2,78.0,0.0,0.1,0.8,1.7,14.0,0.0,0.0,0.27,0.09,called-up,croatia 2020,1.4,,Mile Škori?,Mile Skoric,,
+416,D,7.35,43.0,1.0,85.77,0.09,0.21,0.38,80.53,0.0,0.38,0.92,1.15,20.0,0.0,0.0,0.82,0.55,not-called-up,croatia 2020,2.4,,Borna Bariši?,Borna Barisic,,
+417,D,6.88,38.0,0.92,82.13,0.08,0.03,0.32,23.45,0.0,0.14,0.35,0.38,4.0,0.0,0.0,0.82,0.73,line-up,czech republic 2020,1.6,,Jan Bo?il,Jan Boril,,
+418,D,6.82,26.0,0.92,82.0,0.04,0.08,0.6,82.0,0.0,0.0,1.7,1.9,1.0,0.0,0.0,0.91,0.18,not-called-up,czech republic 2020,2.0,,Aleš Mat?j?,Ales Mateju,,
+419,D,7.14,35.0,1.0,84.6,0.03,0.06,0.44,87.8,0.0,0.02,1.68,1.6,9.0,0.0,0.0,0.91,0.64,line-up,denmark 2020,5.2,,Simon Kjær,Simon Kjaer,,
+420,D,7.02,29.0,0.93,83.66,0.0,0.1,0.24,67.41,0.0,0.0,1.35,1.98,3.0,0.0,0.0,0.27,0.18,not-called-up,czech republic 2020,1.0,13.0,Václav Jemelka,Vaclav Jemelka,Sigma Olomouc,Fortuna Liga
+421,D,6.83,45.0,0.96,82.93,0.04,0.11,0.92,76.36,0.0,0.34,1.94,1.08,6.0,0.0,0.0,0.75,0.67,line-up,austria 2020,0.8,3.0,Stefan Lainer,Stefan Lainer,Bor. M'gladbach,Bundesliga
+422,D,7.01,31.0,1.0,87.19,0.06,0.03,0.87,81.94,0.0,0.09,2.82,1.53,3.0,0.0,0.0,0.75,0.75,line-up,austria 2020,0.8,3.0,Martin Hinteregger,Martin Hinteregger,E. Frankfurt,Bundesliga
+423,D,6.82,34.0,0.97,87.18,0.0,0.03,0.97,79.88,0.0,0.09,1.62,1.6,7.0,0.0,0.0,0.42,0.17,not-called-up,austria 2020,18.0,3.0,Marco Friedl,Marco Friedl,Werder Bremen,Bundesliga
+424,D,7.01,39.0,0.97,87.82,0.0,0.18,0.96,61.9,0.0,0.09,1.83,1.05,9.0,0.0,0.0,1.0,0.73,line-up,czech republic 2020,1.6,1.0,Vladimír Coufal,Vladimir Coufal,West Ham,Premier League
+425,D,6.89,37.0,0.97,86.22,0.05,0.03,0.86,73.0,0.0,0.09,1.57,1.12,10.0,0.0,0.0,0.55,0.09,not-called-up,denmark 2020,2.0,1.0,Henrik Dalsgaard,Henrik Dalsgaard,Brentford,Premier League
+426,D,6.91,34.0,0.94,85.88,0.03,0.03,0.36,81.79,0.0,0.12,1.06,1.34,10.0,0.0,0.0,0.45,0.09,called-up,denmark 2020,16.0,6.0,Joachim Andersen,Joachim Andersen,Olympique Lyon,Ligue 1
+427,D,6.67,29.0,0.83,74.0,0.0,0.1,0.6,73.0,0.0,0.2,1.1,1.6,4.0,0.0,0.0,0.82,0.36,not-called-up,croatia 2020,2.2,9.0,Dario Melnjak,Dario Melnjak,C. Rizespor,Süper Lig
+428,D,7.14,46.0,0.93,85.0,0.11,0.15,0.5,75.0,0.0,0.4,0.7,1.1,18.0,0.0,0.0,1.0,0.79,line-up,wales 2020,0.95,25.0,Connor Roberts,Chris Gunter,Swansea,Championship
+429,D,6.77,26.0,1.0,81.0,0.04,0.04,0.4,83.0,0.0,0.3,1.0,1.2,4.0,0.0,0.0,0.36,0.18,called-up,denmark 2020,2.5,19.0,Nicolai Boilesen,Nicolai Boilesen,FC Copenhagen,Superliga
+430,D,7.11,48.0,1.0,90.0,0.04,0.02,0.33,87.85,0.0,0.07,0.87,1.67,19.0,0.0,0.0,0.73,0.55,not-called-up,england 2020,56.0,1.0,Harry Maguire,Harry Maguire,Man Utd,Premier League
+431,D,6.96,37.0,1.0,89.03,0.05,0.05,0.19,78.24,0.0,0.1,0.96,1.12,14.0,0.0,0.0,1.0,0.36,line-up,england 2020,22.5,1.0,Tyrone Mings,Tyrone Mings,Aston Villa,Premier League
+432,D,7.28,44.0,0.95,84.91,0.05,0.2,0.64,77.91,0.0,0.58,1.55,1.42,15.0,0.0,0.0,0.36,0.18,not-called-up,england 2020,99.0,1.0,Trent Alexander-Arnold,Trent Alexander-Arnold,Liverpool,Premier League
+433,D,7.25,35.0,1.0,87.8,0.0,0.17,0.84,79.2,0.0,0.38,2.08,1.4,18.0,0.0,0.0,0.82,0.45,line-up,england 2020,28.0,,Kieran Trippier,Kieran Trippier,without team,
+434,D,6.78,11.0,0.82,80.64,0.0,0.09,0.65,87.82,0.0,0.06,0.61,0.94,3.0,0.0,0.0,0.18,0.09,not-called-up,england 2020,30.0,1.0,Joe Gomez,Joe Gomez,Liverpool,Premier League
+435,D,7.09,39.0,0.95,85.51,0.1,0.05,0.48,87.41,0.0,0.0,0.77,1.5,11.0,0.0,0.0,0.36,0.18,not-called-up,england 2020,25.0,1.0,Michael Keane,Michael Keane,Everton,Premier League
+436,D,7.03,35.0,0.94,87.34,0.0,0.06,0.44,84.34,0.0,0.0,1.68,1.0,12.0,0.0,0.0,0.18,0.09,not-called-up,england 2020,25.0,1.0,Ben Godfrey,Ben Godfrey,Everton,Premier League
+437,D,7.11,44.0,0.91,79.5,0.02,0.14,0.45,84.36,0.0,0.25,1.36,0.71,12.0,0.0,0.0,0.36,0.18,called-up,england 2020,35.0,1.0,Luke Shaw,Luke Shaw,Man Utd,Premier League
+438,D,7.11,42.0,0.74,69.95,0.02,0.07,0.72,87.52,0.0,0.28,1.82,0.48,13.0,0.0,0.0,0.64,0.27,called-up,england 2020,40.0,1.0,Reece James,Reece James,Chelsea,Premier League
+439,D,6.95,39.0,0.92,81.62,0.03,0.03,0.33,89.74,0.0,0.28,1.43,0.82,15.0,0.0,0.0,0.55,0.55,line-up,england 2020,28.0,1.0,Kyle Walker,Kyle Walker,Man City,Premier League
+440,D,6.99,32.0,0.91,79.56,0.0,0.06,0.66,86.53,0.0,0.22,1.75,1.81,7.0,0.0,0.0,0.83,0.67,line-up,france 2020,35.0,3.0,Benjamin Pavard,Benjamin Pavard,Bayern Munich,Bundesliga
+441,D,7.05,34.0,0.76,70.5,0.03,0.06,0.64,85.47,0.0,0.26,1.95,0.75,8.0,0.0,0.0,1.0,0.67,line-up,france 2020,45.0,3.0,Lucas Hernández,Lucas Hernández,Bayern Munich,Bundesliga
+442,D,7.12,33.0,0.97,88.36,0.0,0.21,0.73,79.27,0.0,0.18,1.94,0.94,9.0,0.0,0.0,1.0,0.33,called-up,france 2020,35.0,1.0,Lucas Digne,Lucas Digne,Everton,Premier League
+443,D,7.12,37.0,0.95,79.0,0.05,0.11,0.5,83.0,0.0,0.3,1.0,0.8,5.0,0.0,0.0,0.75,0.17,not-called-up,france 2020,16.0,6.0,Léo Dubois,Léo Dubois,Olympique Lyon,Ligue 1
+444,D,7.04,46.0,1.0,90.0,0.04,0.02,0.27,84.74,0.0,0.12,0.69,1.34,11.0,0.0,0.0,0.92,0.75,line-up,germany 2020,28.0,3.0,Matthias Ginter,Matthias Ginter,Bor. M'gladbach,Bundesliga
+445,D,6.98,31.0,0.81,70.61,0.06,0.06,0.89,87.03,0.0,0.45,1.06,0.81,10.0,0.0,0.0,0.25,0.08,called-up,germany 2020,17.5,3.0,Marcel Halstenberg,Marcel Halstenberg,RB Leipzig,Bundesliga
+446,D,7.2,30.0,0.97,87.8,0.03,0.03,0.24,88.27,0.0,0.13,1.2,0.75,18.0,0.0,0.0,0.83,0.83,line-up,germany 2020,5.0,1.0,Antonio Rüdiger,Antonio Rüdiger,Chelsea,Premier League
+447,D,6.98,38.0,0.97,82.95,0.16,0.18,0.95,76.95,0.0,0.89,1.64,1.25,7.0,0.0,0.0,0.08,0.08,not-called-up,germany 2020,5.0,3.0,Ridle Baku,Ridle Baku,VfL Wolfsburg,Bundesliga
+448,D,6.77,20.0,0.3,35.35,0.0,0.05,0.43,78.0,0.0,0.33,1.24,0.59,1.0,0.0,0.0,0.33,0.08,not-called-up,germany 2020,25.0,6.0,Benjamin Henrichs,Benjamin Henrichs,Monaco,Ligue 1
+449,D,7.11,39.0,0.95,79.36,0.31,0.15,0.73,81.46,0.0,0.6,1.44,1.23,6.0,0.0,0.0,0.75,0.5,line-up,germany 2020,16.0,4.0,Robin Gosens,Robin Gosens,Atalanta BC,Serie A
+450,D,7.1,40.0,1.0,88.4,0.0,0.05,0.64,88.4,0.0,0.08,1.66,2.2,10.0,0.0,0.0,0.85,0.46,called-up,italy 2020,12.0,4.0,Francesco Acerbi,Francesco Acerbi,Lazio,Serie A
+451,D,7.01,35.0,0.89,80.0,0.03,0.14,0.5,76.0,0.0,0.3,1.2,0.8,5.0,0.0,0.0,0.31,0.23,not-called-up,italy 2020,9.5,4.0,Cristiano Biraghi,Cristiano Biraghi,Fiorentina,Serie A
+452,D,7.12,44.0,0.98,88.55,0.07,0.16,0.83,86.64,0.0,0.3,2.0,1.0,13.0,0.0,0.0,0.77,0.08,called-up,italy 2020,16.0,4.0,Giovanni Di Lorenzo,Giovanni Di Lorenzo,SSC Napoli,Serie A
+453,D,7.03,45.0,0.96,83.67,0.0,0.11,0.41,88.67,0.0,0.13,1.02,1.07,16.0,0.0,0.0,0.46,0.31,called-up,italy 2020,9.0,4.0,Alessandro Bastoni,Alessandro Bastoni,Inter,Serie A
+454,D,6.97,39.0,0.97,85.64,0.13,0.05,0.38,88.1,0.0,0.25,1.47,2.11,11.0,0.0,0.0,0.62,0.23,not-called-up,italy 2020,60.0,4.0,Gianluca Mancini,Gianluca Mancini,AS Roma,Serie A
+455,D,7.1,34.0,0.97,89.0,0.0,0.12,0.4,92.0,0.0,0.1,0.9,1.5,8.0,0.0,0.0,0.23,0.08,not-called-up,italy 2020,15.0,4.0,Gian Marco Ferrari,Gian Marco Ferrari,Sassuolo,Serie A
+456,D,6.86,20.0,0.95,76.9,0.0,0.05,0.39,92.0,0.0,0.09,0.64,1.47,3.0,0.0,0.0,0.46,0.31,line-up,italy 2020,2.5,4.0,Giorgio Chiellini,Giorgio Chiellini,Juventus,Serie A
+457,D,6.73,37.0,0.92,79.7,0.05,0.14,0.8,83.78,0.0,0.29,0.8,0.57,8.0,0.0,0.0,0.15,0.08,not-called-up,italy 2020,4.0,4.0,Manuel Lazzari,Manuel Lazzari,Lazio,Serie A
+458,D,7.11,32.0,0.91,81.84,0.03,0.03,0.34,91.84,0.0,0.03,1.46,1.15,5.0,0.0,0.0,0.25,0.25,not-called-up,netherlands 2020,67.5,4.0,Matthijs de Ligt,Matthijs de Ligt,Juventus,Serie A
+459,D,7.1,31.0,1.0,84.39,0.03,0.03,0.72,85.97,0.0,0.21,1.37,1.4,6.0,0.0,0.0,0.67,0.5,line-up,netherlands 2020,20.0,14.0,Daley Blind,Daley Blind,Ajax,Eredivisie
+460,D,6.68,22.0,0.91,81.0,0.0,0.05,1.1,80.0,0.0,0.1,1.6,1.4,4.0,0.0,0.0,0.58,0.08,line-up,netherlands 2020,9.5,1.0,Patrick van Aanholt,Patrick van Aanholt,Crystal Palace,Premier League
+461,D,6.92,31.0,0.9,82.1,0.03,0.03,1.07,78.87,0.0,0.36,2.24,1.11,8.0,0.0,0.0,1.0,0.25,called-up,netherlands 2020,8.0,1.0,Joël Veltman,Joël Veltman,Brighton,Premier League
+462,D,7.08,40.0,1.0,90.0,0.05,0.15,0.7,86.45,0.0,0.17,1.86,1.77,12.0,0.0,0.0,0.83,0.42,called-up,netherlands 2020,17.5,14.0,Owen Wijndal,Owen Wijndal,AZ Alkmaar,Eredivisie
+463,D,6.8,37.0,1.0,86.11,0.03,0.03,0.68,81.92,0.0,0.1,1.0,2.24,9.0,0.0,0.0,0.85,0.62,line-up,poland 2020,12.0,,Jan Bednarek,Jan Bednarek,,
+464,D,6.79,36.0,1.0,89.0,0.06,0.03,0.8,89.0,0.0,0.0,1.2,1.7,5.0,0.0,0.0,1.0,0.69,line-up,poland 2020,4.8,,Kamil Glik,Kamil Glik,,
+465,D,6.97,35.0,0.94,82.06,0.03,0.06,0.17,21.94,0.0,0.0,0.45,0.57,1.0,0.0,0.0,0.77,0.54,called-up,poland 2020,2.8,,Tomasz K?dziora,Tomasz Kedziora,,
+466,D,6.65,19.0,0.95,85.0,0.0,0.05,0.9,86.0,0.0,0.1,1.4,1.9,1.0,0.0,0.0,0.62,0.23,not-called-up,poland 2020,1.5,,Sebastian Walukiewicz,Sebastian Walukiewicz,,
+467,D,7.04,45.0,1.0,87.13,0.11,0.02,0.1,52.44,0.0,0.0,1.72,2.34,14.0,0.0,0.0,0.31,0.23,called-up,poland 2020,4.0,,Micha? Helik,Michal Helik,,
+468,D,7.05,32.0,1.0,90.0,0.03,0.03,0.63,81.12,0.0,0.24,1.53,2.13,14.0,0.0,0.0,0.62,0.23,line-up,poland 2020,5.0,,Maciej Rybus,Maciej Rybus,,
+469,D,6.51,27.0,0.59,57.56,0.04,0.04,0.27,71.63,0.0,0.09,0.89,0.79,1.0,0.0,0.0,0.08,0.08,not-called-up,poland 2020,6.0,,Robert Gumny,Robert Gumny,,
+470,D,6.94,38.0,0.71,65.47,0.05,0.03,0.33,91.21,0.0,0.28,0.85,1.35,6.0,0.0,0.0,0.85,0.62,line-up,portugal 2020,24.0,,Danilo Pereira,Danilo Pereira,,
+471,D,7.05,33.0,0.97,83.55,0.06,0.03,0.29,88.18,0.0,0.04,1.16,0.86,14.0,0.0,0.0,0.54,0.54,line-up,portugal 2020,0.8,,Pepe,Pepe,,
+472,D,7.25,40.0,0.93,79.78,0.15,0.25,0.56,87.35,0.0,0.69,1.0,0.87,10.0,0.0,0.0,0.54,0.54,line-up,portugal 2020,28.0,,Raphaël Guerreiro,Raphaël Guerreiro,,
+473,D,6.93,33.0,0.64,62.73,0.0,0.06,0.73,84.64,0.0,0.09,1.06,1.04,7.0,0.0,0.0,0.38,0.15,not-called-up,portugal 2020,12.0,,Mário Rui,Mário Rui,,
+474,D,7.16,40.0,0.93,79.22,0.07,0.1,1.3,86.78,0.0,0.59,2.46,1.38,18.0,0.0,0.0,0.92,0.69,not-called-up,portugal 2020,36.0,,João Cancelo,João Cancelo,,
+475,D,6.85,34.0,1.0,88.0,0.03,0.03,0.9,81.0,0.0,0.2,2.5,1.2,8.0,0.0,0.0,0.77,0.31,line-up,portugal 2020,32.0,,Nélson Semedo,Nélson Semedo,,
+476,D,6.66,21.0,0.81,73.43,0.0,0.1,0.84,79.19,0.0,0.31,1.11,0.55,5.0,0.0,0.0,0.23,0.08,not-called-up,portugal 2020,6.0,,Cédric Soares,Cédric Soares,,
+477,D,7.14,29.0,1.0,83.0,0.03,0.03,0.7,79.0,0.0,0.3,1.7,2.1,10.0,0.0,0.0,0.38,0.23,called-up,portugal 2020,40.0,,Nuno Mendes,Nuno Mendes,,
+478,D,7.22,27.0,0.96,77.59,0.07,0.04,0.34,75.15,0.0,0.46,1.66,1.99,7.0,0.0,0.0,0.5,0.42,line-up,russia 2020,24.0,,Mário Fernandes,Mário Fernandes,,
+479,D,6.89,29.0,0.97,84.66,0.1,0.1,1.02,84.9,0.0,0.26,1.73,0.63,8.0,0.0,0.0,1.0,0.58,called-up,russia 2020,5.5,,Vyacheslav Karavaev,Vyacheslav Karavaev,,
+480,D,7.16,29.0,1.0,89.59,0.07,0.07,0.54,83.38,0.0,0.0,1.36,1.66,7.0,0.0,0.0,0.42,0.17,called-up,russia 2020,0.6,,Igor Diveev,Igor Diveev,,
+481,D,6.77,30.0,0.8,65.57,0.0,0.03,0.35,85.73,0.0,0.25,0.96,1.25,5.0,0.0,0.0,0.42,0.08,not-called-up,russia 2020,2.0,,Igor Smolnikov,Igor Smolnikov,,
+482,D,7.01,30.0,0.97,85.0,0.07,0.03,0.2,85.0,0.0,0.0,1.0,0.6,6.0,0.0,0.0,0.29,0.18,line-up,scotland 2020,4.0,,Jack Hendry,Jack Hendry,,
+483,D,7.01,29.0,0.93,85.0,0.03,0.03,0.3,74.0,0.0,0.0,1.3,1.4,9.0,0.0,0.0,0.94,0.41,not-called-up,scotland 2020,0.325,,Declan Gallagher,Declan Gallagher,,
+484,D,6.94,27.0,0.85,73.67,0.0,0.19,0.42,79.26,0.0,0.29,1.35,0.9,6.0,0.0,0.0,0.76,0.18,called-up,scotland 2020,0.8,,Greg Taylor,Greg Taylor,,
+485,D,6.93,36.0,1.0,90.0,0.03,0.03,0.4,75.0,0.0,0.1,1.3,2.0,16.0,0.0,0.0,0.35,0.18,not-called-up,scotland 2020,0.325,,Andy Considine,Andy Considine,,
+486,D,7.03,48.0,0.96,86.08,0.02,0.15,0.74,83.17,0.0,0.38,1.07,0.6,15.0,0.0,0.0,0.59,0.59,not-called-up,scotland 2020,64.0,,Andrew Robertson,Andrew Robertson,,
+487,D,6.84,36.0,0.83,75.75,0.06,0.08,0.55,80.5,0.0,0.2,0.85,0.65,8.0,0.0,0.0,0.53,0.47,not-called-up,scotland 2020,20.0,,Kieran Tierney,Kieran Tierney,,
+488,D,6.8,41.0,0.8,76.24,0.02,0.07,0.38,66.88,0.0,0.14,1.29,1.21,10.0,0.0,0.0,0.65,0.35,not-called-up,scotland 2020,0.95,,Liam Palmer,Liam Palmer,,
+489,D,7.0,42.0,1.0,89.57,0.07,0.05,0.16,88.0,0.0,0.08,0.46,0.68,13.0,0.0,0.0,0.75,0.58,line-up,spain 2020,16.0,,Pau Torres,Pau Torres,,
+490,D,7.16,42.0,0.95,84.0,0.07,0.17,0.73,87.33,0.0,0.4,1.2,1.32,11.0,0.0,0.0,0.33,0.17,line-up,spain 2020,20.0,,Jordi Alba,Jordi Alba,,
+491,D,6.89,42.0,1.0,88.6,0.02,0.05,0.3,90.02,0.0,0.0,0.79,1.02,16.0,0.0,0.0,0.69,0.62,line-up,sweden 2020,0.7000000000000001,1.0,Victor Lindelöf,Victor Lindelöf,Man Utd,Premier League
+492,D,6.76,34.0,0.94,80.85,0.0,0.15,0.87,75.97,0.0,0.19,1.62,1.31,8.0,0.0,0.0,0.58,0.33,not-called-up,spain 2020,6.0,,Sergio Reguilón,Sergio Reguilón,,
+493,D,6.76,22.0,0.77,69.0,0.0,0.18,0.4,76.0,0.0,0.2,0.7,0.5,3.0,0.0,0.0,1.0,0.62,called-up,sweden 2020,10.0,19.0,Pierre Bengtsson,Pierre Bengtsson,FC Copenhagen,Superliga
+494,D,7.27,20.0,1.0,85.0,0.2,0.05,0.28,91.75,0.0,0.07,0.85,1.32,7.0,0.0,0.0,0.92,0.58,not-called-up,spain 2020,14.5,,Sergio Ramos,Sergio Ramos,,
+495,D,6.93,30.0,0.97,86.0,0.1,0.03,0.4,80.0,0.0,0.0,1.0,1.9,6.0,0.0,0.0,0.46,0.08,not-called-up,sweden 2020,2.5,109.0,Sebastian Holmén,Sebastian Holmén,Willem II,Keuken Kampioen Divisie
+496,D,7.08,15.0,0.87,74.47,0.0,0.13,0.61,85.4,0.0,0.43,2.02,1.0,3.0,0.0,0.0,0.17,0.08,not-called-up,spain 2020,40.0,,Daniel Carvajal,Daniel Carvajal,,
+497,D,6.93,24.0,0.88,76.25,0.0,0.04,0.58,69.42,0.0,0.64,2.27,1.0,8.0,0.0,0.0,0.27,0.18,line-up,switzerland 2020,6.5,3.0,Kevin Mbabu,Kevin Mbabu,VfL Wolfsburg,Bundesliga
+498,D,6.81,33.0,0.97,86.0,0.03,0.21,1.1,82.0,0.0,0.4,1.8,1.2,5.0,0.0,0.0,0.92,0.5,called-up,spain 2020,40.0,,José Luis Gayà,José Gayà,,
+499,D,6.8,15.0,0.6,58.53,0.0,0.07,0.19,78.0,0.0,0.19,0.56,1.96,1.0,0.0,0.0,0.73,0.18,not-called-up,switzerland 2020,5.5,3.0,Edimilson Fernandes,Edimilson Fernandes,1.FSV Mainz 05,Bundesliga
+500,D,7.09,40.0,1.0,82.25,0.0,0.15,0.22,82.15,0.0,0.33,0.79,1.12,11.0,0.0,0.0,0.42,0.33,not-called-up,spain 2020,3.2,,Jesús Navas,Jesús Navas,,
+501,D,6.86,20.0,0.65,67.25,0.0,0.05,0.42,93.5,0.0,0.07,0.85,1.5,3.0,0.0,0.0,0.77,0.54,line-up,turkey 2020,27.0,4.0,Merih Demiral,Merih Demiral,Juventus,Serie A
+502,D,6.86,32.0,0.94,82.69,0.03,0.09,1.07,84.22,0.0,0.23,1.02,1.08,7.0,0.0,0.0,0.17,0.08,not-called-up,spain 2020,7.0,,Héctor Bellerín,Héctor Bellerín,,
+503,D,7.01,18.0,0.61,62.67,0.06,0.11,0.45,90.67,0.0,0.45,0.83,0.8,3.0,0.0,0.0,0.5,0.25,not-called-up,spain 2020,20.0,,Sergi Roberto,Sergi Roberto,,
+504,D,7.39,37.0,0.89,77.46,0.0,0.24,0.74,69.84,0.0,0.37,1.29,1.38,6.0,0.0,0.0,0.46,0.31,not-called-up,turkey 2020,2.0,9.0,Caner Erkin,Caner Erkin,Fenerbahce,Süper Lig
+505,D,6.96,28.0,0.93,85.0,0.04,0.07,0.4,24.29,0.0,0.0,0.69,0.61,4.0,0.0,0.0,0.77,0.77,line-up,ukraine 2020,4.0,150.0,Mykola Matviyenko,Mykola Matvienko,Shakhtar D.,Premier Liga
+506,D,7.0,31.0,0.74,72.42,0.0,0.06,0.59,89.94,0.0,0.19,1.28,0.95,11.0,0.0,0.0,0.69,0.69,line-up,ukraine 2020,24.0,1.0,Oleksandr Zinchenko,Oleksandr Zinchenko,Man City,Premier League
+507,D,6.91,30.0,1.0,88.87,0.07,0.13,0.17,22.4,0.0,0.08,0.37,0.6,2.0,0.0,0.0,0.54,0.46,line-up,ukraine 2020,9.0,150.0,Vitaliy Mykolenko,Vitaliy Mykolenko,Dynamo Kyiv,Premier Liga
+508,D,6.77,32.0,0.78,74.06,0.03,0.06,0.81,79.12,0.0,0.25,1.19,0.91,9.0,0.0,0.0,0.71,0.57,line-up,wales 2020,17.5,1.0,Ben Davies,Ben Davies,Tottenham,Premier League
+509,D,7.05,30.0,0.93,85.0,0.13,0.07,0.5,73.0,0.0,0.1,1.4,1.6,12.0,0.0,0.0,0.71,0.07,not-called-up,wales 2020,0.25,25.0,Ben Cabango,Ben Cabango,Swansea,Championship
+510,D,6.94,19.0,0.89,79.0,0.0,0.05,0.2,82.0,0.0,0.1,1.4,1.3,2.0,0.0,0.0,0.57,0.29,not-called-up,wales 2020,0.8,18.0,James Lawrence,James Lawrence,FC St. Pauli,2. Bundesliga
+511,D,6.89,12.0,0.58,51.17,0.0,0.08,0.62,79.0,0.0,0.43,1.68,1.58,2.0,0.0,0.0,0.79,0.29,called-up,wales 2020,1.5,1.0,Neco Williams,Neco Williams,Liverpool,Premier League
+512,D,6.79,38.0,0.95,82.0,0.03,0.05,0.4,70.0,0.0,0.2,1.4,0.9,11.0,0.0,0.0,0.64,0.21,called-up,wales 2020,0.25,1.0,Rhys Norrington-Davies,Rhys Norrington-Davies,Sheff Utd,Premier League
+513,D,7.0,22.0,0.91,82.0,0.05,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.62,0.31,not-called-up,ukraine 2020,2.0,,Yukhym Konoplia,Yukhym Konoplya,,
+514,D,6.98,18.0,0.5,48.5,0.0,0.11,0.13,82.17,0.0,0.08,1.03,0.7,1.0,0.0,0.0,0.83,0.58,line-up,russia 2020,,,Yury Zhirkov,Yury Zhirkov,,
+515,D,6.87,31.0,1.0,86.0,0.03,0.03,0.9,82.0,0.0,0.1,2.0,2.0,6.0,0.0,0.0,0.77,0.31,line-up,turkey 2020,,6.0,Umut Mera?,Umut Mera?,Le Havre AC,Ligue 1
+516,D,6.76,18.0,0.72,65.0,0.06,0.11,0.8,81.0,0.0,0.4,0.9,1.1,5.0,0.0,0.0,0.23,0.15,not-called-up,turkey 2020,,9.0,R?dvan Y?lmaz,R?dvan Y?lmaz,Besiktas,Süper Lig
+517,D,6.7,28.0,0.82,72.54,0.0,0.04,0.17,78.11,0.0,0.2,0.8,0.89,5.0,0.0,0.0,0.31,0.23,not-called-up,turkey 2020,,9.0,Hasan Ali Kald?r?m,Hasan Ali Kald?r?m,Basaksehir,Süper Lig
+518,D,6.97,7.0,0.86,68.86,0.0,0.14,0.87,84.29,0.0,0.0,1.59,1.16,2.0,0.0,0.0,0.18,0.0,not-called-up,croatia 2020,7.0,3.0,Tin Jedvaj,Tin Jedvaj,B. Leverkusen,Bundesliga
+519,D,7.14,35.0,0.89,75.14,0.09,0.06,0.4,82.29,0.0,0.03,1.57,1.76,11.0,0.0,0.0,0.09,0.0,line-up,croatia 2020,2.5,22.0,Joško Gvardiol,Josko Gvardiol,Dinamo Zagreb,SuperSport HNL
+520,D,6.75,40.0,1.0,88.95,0.05,0.07,0.51,67.1,0.0,0.24,1.14,1.31,10.0,0.0,0.0,0.17,0.0,not-called-up,austria 2020,2.0,3.0,Maximilian Ullmann,Maximilian Ullmann,Rapid Vienna,Bundesliga
+521,D,7.05,33.0,0.97,88.06,0.06,0.03,0.42,81.12,0.0,0.1,0.87,1.29,10.0,0.0,0.0,0.0,0.0,not-called-up,austria 2020,7.5,3.0,Kevin Danso,Kevin Danso,FC Augsburg,Bundesliga
+522,D,6.77,20.0,0.95,84.0,0.05,0.1,1.0,65.0,0.0,0.2,1.8,1.2,4.0,0.0,0.0,0.0,0.0,not-called-up,austria 2020,12.5,3.0,Phillipp Mwene,Phillipp Mwene,1.FSV Mainz 05,Bundesliga
+523,D,7.13,28.0,0.93,77.43,0.0,0.32,0.69,78.29,0.0,0.26,0.54,1.22,3.0,0.0,0.0,0.0,0.0,not-called-up,croatia 2020,7.0,3.0,Borna Sosa,Borna Sosa,VfB Stuttgart,Bundesliga
+524,D,6.87,36.0,1.0,88.06,0.06,0.06,0.61,63.53,0.0,0.22,1.85,2.17,10.0,0.0,0.0,0.0,0.0,not-called-up,denmark 2020,0.7000000000000001,25.0,Kristian Pedersen,Kristian Pedersen,Birmingham,Championship
+525,D,6.96,29.0,1.0,80.0,0.1,0.1,0.9,69.0,0.0,0.6,2.2,1.7,4.0,0.0,0.0,0.09,0.0,not-called-up,denmark 2020,4.0,82.0,Jakob Ahlmann,Jakob Ahlmann,Aalborg BK,1.Division
+526,D,6.91,42.0,0.86,78.74,0.1,0.07,0.66,61.29,0.0,0.41,1.54,1.32,6.0,0.0,0.0,0.09,0.0,not-called-up,denmark 2020,13.0,3.0,Rasmus Kristensen,Rasmus Kristensen,RB Salzburg,Bundesliga
+527,D,7.09,35.0,0.91,76.69,0.14,0.09,0.41,34.11,0.0,0.17,1.13,0.96,5.0,0.0,0.0,0.18,0.0,not-called-up,denmark 2020,8.5,13.0,Alexander Bah,Alexander Bah,Slavia Prague,Fortuna Liga
+528,D,7.05,41.0,0.95,85.61,0.07,0.02,0.33,89.49,0.0,0.13,0.73,1.15,16.0,0.0,0.0,0.17,0.0,called-up,france 2020,60.0,2.0,Jules Koundé,Jules Koundé,Sevilla FC,LaLiga
+529,D,7.09,40.0,0.97,87.25,0.2,0.17,0.67,82.3,0.0,0.27,1.43,1.05,9.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,50.0,4.0,Theo Hernández,Theo Hernández,AC Milan,Serie A
+530,D,6.92,40.0,0.8,65.2,0.1,0.03,0.66,76.55,0.0,0.27,1.57,1.18,7.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,25.0,3.0,Nordi Mukiele,Nordi Mukiele,RB Leipzig,Bundesliga
+531,D,7.03,33.0,0.82,68.0,0.03,0.09,0.6,85.0,0.0,0.5,1.9,1.4,3.0,0.0,0.0,0.25,0.0,not-called-up,france 2020,12.0,6.0,Ruben Aguilar,Ruben Aguilar,Monaco,Ligue 1
+532,D,6.93,36.0,1.0,90.0,0.08,0.08,0.76,75.5,0.0,0.09,1.0,0.91,6.0,0.0,0.0,0.17,0.0,called-up,germany 2020,16.0,3.0,Christian Günter,Christian Günter,SC Freiburg,Bundesliga
+533,D,7.14,37.0,0.95,85.11,0.03,0.41,0.84,77.0,0.0,0.47,1.36,1.29,6.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,12.0,18.0,David Raum,David Raum,Greuther Fürth,2. Bundesliga
+534,D,6.9,28.0,0.93,87.0,0.04,0.04,0.44,90.21,0.0,0.0,0.8,1.25,7.0,0.0,0.0,0.15,0.0,not-called-up,italy 2020,36.0,4.0,Alessio Romagnoli,Alessio Romagnoli,AC Milan,Serie A
+535,D,7.08,35.0,0.94,81.8,0.06,0.03,1.07,79.0,0.0,0.37,3.04,1.18,11.0,0.0,0.0,0.23,0.0,not-called-up,italy 2020,9.0,4.0,Davide Calabria,Davide Calabria,AC Milan,Serie A
+536,D,7.06,45.0,0.98,87.93,0.0,0.02,0.3,86.47,0.0,0.0,0.8,1.52,21.0,0.0,0.0,0.17,0.0,not-called-up,netherlands 2020,28.0,6.0,Sven Botman,Sven Botman,LOSC Lille,Ligue 1
+537,D,6.9,37.0,0.7,67.51,0.03,0.03,0.55,90.7,0.0,0.07,1.12,1.11,8.0,0.0,0.0,0.17,0.0,not-called-up,netherlands 2020,8.0,14.0,Perr Schuurs,Perr Schuurs,Ajax,Eredivisie
+538,D,6.86,29.0,0.93,82.41,0.0,0.03,0.76,83.69,0.0,0.25,1.48,1.27,9.0,0.0,0.0,0.0,0.0,not-called-up,netherlands 2020,7.5,,Tyrell Malacia,Tyrell Malacia,without team,
+539,D,7.0,34.0,0.82,64.62,0.18,0.12,0.68,85.18,0.0,0.28,1.52,2.04,1.0,0.0,0.0,0.0,0.0,not-called-up,netherlands 2020,8.0,14.0,Devyne Rensch,Devyne Rensch,Ajax,Eredivisie
+540,D,6.99,24.0,0.79,65.62,0.0,0.08,0.37,77.08,0.0,0.18,2.23,1.22,4.0,0.0,0.0,0.33,0.0,not-called-up,netherlands 2020,5.0,1.0,Kenny Tete,Kenny Tete,Fulham,Premier League
+541,D,7.0,27.0,1.0,90.0,0.0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.0,not-called-up,poland 2020,0.675,31.0,Artur J?drzejczyk,Artur Jedrzejczyk,Legia Warszawa,PKO BP Ekstraklasa
+542,D,7.0,26.0,0.92,81.0,0.04,0.23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,not-called-up,poland 2020,2.0,84.0,Rafa? Pietrzak,Rafal Pietrzak,Lechia Gdansk,Fortuna 1 Liga
+543,D,6.93,28.0,1.0,85.0,0.0,0.07,1.2,76.0,0.0,0.1,2.5,2.1,10.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,0.5,1.0,Matty Cash,Matty Cash,Aston Villa,Premier League
+544,D,7.01,22.0,0.91,77.0,0.0,0.05,0.8,87.0,0.0,0.0,1.6,2.1,10.0,0.0,0.0,0.23,0.0,not-called-up,portugal 2020,2.0,7.0,Luís Neto,Luís Neto,Sporting CP,Liga Portugal
+545,D,6.96,31.0,0.58,59.74,0.06,0.1,0.74,80.94,0.0,0.14,1.69,1.43,6.0,0.0,0.0,0.0,0.0,not-called-up,portugal 2020,10.0,1.0,Diogo Dalot,Diogo Dalot,Man Utd,Premier League
+546,D,7.25,37.0,0.95,86.0,0.11,0.16,0.5,86.0,0.0,0.4,1.2,1.1,9.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,2.0,2.0,Guilherme Arana,Guilherme,Sevilla FC,LaLiga
+547,D,6.91,16.0,0.62,58.0,0.0,0.06,0.2,87.0,0.0,0.0,0.3,1.4,3.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,2.2,150.0,Dmitri Chistyakov,Dmitriy Chistyakov,Rostov,Premier Liga
+548,D,7.16,11.0,0.91,79.27,0.18,0.09,0.36,86.0,0.0,0.09,1.18,1.36,1.0,0.0,0.0,0.08,0.0,not-called-up,russia 2020,4.8,150.0,Sergey Petrov,Sergey Petrov,Krasnodar,Premier Liga
+549,D,7.09,27.0,1.0,87.0,0.04,0.04,0.7,80.0,0.0,0.1,2.0,2.7,9.0,0.0,0.0,0.25,0.0,called-up,russia 2020,5.0,150.0,Roman Evgenjev,Roman Evgenjev,Dinamo Moscow,Premier Liga
+550,D,6.97,28.0,1.0,87.0,0.0,0.04,0.5,73.0,0.0,0.0,1.6,2.2,10.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,4.0,150.0,Maksim Osipenko,Maksim Osipenko,Rostov,Premier Liga
+551,D,6.8,29.0,1.0,87.0,0.03,0.07,0.7,67.0,0.0,0.2,1.8,1.7,5.0,0.0,0.0,0.33,0.0,not-called-up,russia 2020,1.8,49.0,Aleksandr Zhirov,Aleksandr Zhirov,SV Sandhausen,3. Liga
+552,D,7.01,28.0,1.0,88.07,0.11,0.04,0.58,70.39,0.0,0.48,1.64,1.64,8.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,2.5,150.0,Sergey Terekhov,Sergey Terekhov,Orenburg,Premier Liga
+553,D,6.79,23.0,0.26,32.57,0.0,0.09,0.34,80.91,0.0,0.08,0.58,0.59,1.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,1.8,150.0,Danil Krugovoy,Danil Krugovoy,Zenit S-Pb,Premier Liga
+554,D,6.85,30.0,0.83,77.0,0.0,0.1,0.5,76.4,0.0,0.2,1.42,0.98,12.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,1.5,150.0,Dmitri Zhivoglyadov,Dmitriy Zhivoglyadov,Loko Moscow,Premier Liga
+555,D,6.62,11.0,0.64,59.0,0.0,0.09,0.3,80.0,0.0,0.0,1.5,1.5,2.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,1.5,64.0,Arsen Adamov,Arsen Adamov,Ural,UAE Pro League
+556,D,6.86,31.0,0.35,39.77,0.1,0.16,0.65,82.45,0.0,0.26,1.12,0.4,3.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,2.8,150.0,Aleksey Sutormin,Aleksey Sutormin,Zenit S-Pb,Premier Liga
+557,D,7.0,38.0,0.97,88.0,0.08,0.05,0.6,74.0,0.0,0.2,2.0,1.4,14.0,0.0,0.0,0.12,0.0,not-called-up,scotland 2020,1.3,60.0,Paul McGinn,Paul McGinn,Hibernian FC,Scottish Premiership
+558,D,7.1,37.0,0.97,86.0,0.03,0.03,0.4,72.0,0.0,0.1,1.5,1.6,14.0,0.0,0.0,0.06,0.0,not-called-up,scotland 2020,0.8,60.0,Paul Hanlon,Paul Hanlon,Hibernian FC,Scottish Premiership
+559,D,6.74,37.0,1.0,88.0,0.08,0.05,1.1,73.0,0.0,0.7,1.7,1.1,12.0,0.0,0.0,0.17,0.0,not-called-up,spain 2020,25.0,2.0,Marc Cucurella,Marc Cucurella,Getafe,LaLiga
+560,D,6.75,22.0,0.82,75.0,0.05,0.09,0.7,76.0,0.0,0.0,1.2,1.3,7.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,12.0,2.0,Juan Miranda,Juan Miranda,Barcelona,LaLiga
+561,D,6.95,32.0,0.81,66.56,0.06,0.09,0.82,93.0,0.0,0.25,1.79,0.9,9.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,18.0,2.0,Óscar Mingueza,Óscar Mingueza,Barcelona,LaLiga
+562,D,7.14,39.0,0.95,85.44,0.03,0.05,0.64,85.77,0.0,0.19,2.09,1.02,19.0,0.0,0.0,0.08,0.0,called-up,spain 2020,15.0,1.0,César Azpilicueta,César Azpilicueta,Chelsea,Premier League
+563,D,6.74,32.0,0.69,65.0,0.03,0.09,0.8,83.0,0.0,0.1,1.2,0.9,9.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,4.0,,Óscar Gil,Óscar Gil,without team,
+564,D,7.19,28.0,0.93,84.11,0.0,0.21,0.45,70.43,0.0,0.19,1.42,0.95,4.0,0.0,0.0,0.0,0.0,not-called-up,sweden 2020,0.2,3.0,Ludwig Augustinsson,Ludwig Augustinsson,Werder Bremen,Bundesliga
+565,D,6.74,18.0,0.94,84.33,0.0,0.06,0.96,71.5,0.0,0.43,1.83,1.58,2.0,0.0,0.0,0.08,0.0,not-called-up,sweden 2020,2.0,19.0,Joel Andersson,Joel Andersson,FC Midtjylland,Superliga
+566,D,6.92,35.0,0.83,77.0,0.0,0.03,0.38,81.0,0.0,0.0,0.86,1.78,11.0,0.0,0.0,0.0,0.0,not-called-up,switzerland 2020,2.0,16.0,Cedric Zesiger,Cédric Zesiger,BSC Young Boys,Super League
+567,D,6.76,31.0,0.65,60.03,0.03,0.1,0.62,82.03,0.0,0.22,1.15,0.68,6.0,0.0,0.0,0.0,0.0,not-called-up,switzerland 2020,1.7,16.0,Ulisses Garcia,Ulisses Garcia,BSC Young Boys,Super League
+568,D,6.85,35.0,0.4,43.6,0.0,0.06,0.37,76.8,0.0,0.37,0.73,0.55,3.0,0.0,0.0,0.23,0.0,not-called-up,turkey 2020,2.8,9.0,Ömer Bayram,Ömer Bayram,Galatasaray,Süper Lig
+569,D,7.06,31.0,0.94,83.39,0.1,0.03,0.26,77.52,0.0,0.0,1.13,0.96,6.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,45.0,9.0,Serdar Aziz,Serdar Aziz,Fenerbahce,Süper Lig
+570,D,6.96,20.0,0.8,68.85,0.0,0.05,0.4,79.0,0.0,0.13,1.39,1.94,6.0,0.0,0.0,0.38,0.0,not-called-up,ukraine 2020,2.0,22.0,Yevhen Cheberko,Yevgen Cheberko,NK Osijek,SuperSport HNL
+571,D,6.97,23.0,1.0,89.0,0.04,0.04,1.0,82.0,0.0,0.3,2.0,1.8,4.0,0.0,0.0,0.0,0.0,not-called-up,ukraine 2020,0.8,21.0,Bogdan Mykhaylichenko,Bogdan Mykhaylichenko,RSC Anderlecht,Jupiler Pro League
+572,D,6.84,19.0,1.0,90.0,0.05,0.05,0.9,70.0,0.0,0.3,3.4,1.1,4.0,0.0,0.0,0.0,0.0,not-called-up,england 2020,,1.0,Tyrick Mitchell,Tyrick Mitchell,Crystal Palace,Premier League
+573,D,7.03,29.0,0.97,87.1,0.07,0.03,0.82,79.79,0.0,0.22,2.62,1.4,11.0,0.0,0.0,0.0,0.0,not-called-up,england 2020,,25.0,James Justin,James Justin,Leicester,Championship
+574,D,6.79,31.0,1.0,88.06,0.0,0.06,0.77,80.71,0.0,0.29,2.84,1.19,9.0,0.0,0.0,0.0,0.0,not-called-up,england 2020,,25.0,Kyle Walker-Peters,Kyle Walker-Peters,Southampton,Championship
+575,D,6.71,33.0,0.94,81.73,0.06,0.06,0.78,67.79,0.0,0.53,1.06,0.91,3.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,,3.0,Marius Wolf,Marius Wolf,Bor. Dortmund,Bundesliga
+576,D,6.92,37.0,1.0,84.05,0.05,0.03,0.25,88.62,0.0,0.03,0.63,1.15,14.0,0.0,0.0,0.0,0.0,not-called-up,netherlands 2020,,25.0,Bruno Martins Indi,Bruno Martins Indi,Stoke City,Championship
+577,D,6.92,40.0,0.93,84.6,0.0,0.03,0.47,88.0,0.0,0.1,1.43,1.0,11.0,0.0,0.0,0.0,0.0,not-called-up,netherlands 2020,,14.0,Jordan Teze,Jordan Teze,PSV Eindhoven,Eredivisie
+578,D,6.85,27.0,0.7,67.0,0.11,0.04,0.3,85.0,0.0,0.1,0.9,1.5,2.0,0.0,0.0,0.0,0.0,not-called-up,croatia 2020,,27.0,Martin Erli?,Martin Erlic,Spezia Calcio,Serie B
+579,D,7.05,26.0,0.81,74.5,0.12,0.04,0.15,40.0,0.0,0.0,0.55,0.4,4.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,31.0,Bartosz Salamon,Bartosz Salamon,Lech Poznan,PKO BP Ekstraklasa
+580,D,7.0,30.0,0.97,88.0,0.07,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,41.0,Jakub Kiwior,Jakub Kiwior,MSK Zilina,Nike Liga
+581,D,7.0,21.0,0.81,70.0,0.1,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,31.0,Bart?omiej Wdowik,Bartlomiej Wdowik,Jagiellonia,PKO BP Ekstraklasa
+582,D,7.02,23.0,0.87,71.0,0.0,0.22,1.3,73.0,0.0,0.3,2.2,0.7,2.0,0.0,0.0,0.0,0.0,not-called-up,sweden 2020,,109.0,Gabriel Gudmundsson,Gabriel Gudmundsson,FC Groningen,Keuken Kampioen Divisie
+583,D,6.83,32.0,0.97,89.0,0.0,0.03,1.1,83.0,0.0,0.4,2.3,1.5,9.0,0.0,0.0,0.0,0.0,not-called-up,switzerland 2020,,16.0,Leonidas Stergiou,Leonidas Stergiou,FC St. Gallen,Super League
+584,D,7.02,39.0,0.97,89.23,0.08,0.08,0.57,79.69,0.0,0.09,1.52,1.71,11.0,0.0,0.0,0.15,0.0,not-called-up,turkey 2020,,9.0,Abdülkerim Bardakc?,Abdülkerim Bardakc?,Konyaspor,Süper Lig
+585,D,6.81,35.0,0.97,86.0,0.06,0.09,1.1,81.0,0.0,0.3,1.8,1.9,10.0,0.0,0.0,0.08,0.0,not-called-up,turkey 2020,,9.0,Bünyamin Balc?,Naz?m Sangaré,Antalyaspor,Süper Lig
+586,D,7.06,37.0,1.0,87.57,0.11,0.0,0.77,68.7,0.0,0.34,2.24,2.13,8.0,0.0,0.0,0.25,0.08,not-called-up,austria 2020,2.0,3.0,Philipp Wiesinger,Philipp Wiesinger,LASK,Bundesliga
+587,D,6.94,11.0,0.73,60.91,0.0,0.0,0.18,84.82,0.0,0.0,1.27,1.18,2.0,0.0,0.0,0.18,0.18,not-called-up,croatia 2020,19.0,3.0,Marin Pongra?i?,Marin Pongracic,VfL Wolfsburg,Bundesliga
+588,D,6.91,31.0,0.94,82.81,0.03,0.0,0.74,69.97,0.0,0.06,1.1,1.77,5.0,0.0,0.0,0.08,0.0,not-called-up,austria 2020,9.0,3.0,Maximilian Wöber,Maximilian Wöber,RB Salzburg,Bundesliga
+589,D,7.01,37.0,0.92,83.73,0.16,0.0,0.02,18.81,0.0,0.02,0.13,0.41,5.0,0.0,0.0,0.64,0.45,not-called-up,czech republic 2020,1.6,13.0,Ond?ej Kúdela,Ondrej Kudela,Slavia Prague,Fortuna Liga
+590,D,6.89,38.0,0.66,62.58,0.05,0.0,0.35,25.26,0.0,0.09,0.44,0.38,1.0,0.0,0.0,0.91,0.55,line-up,czech republic 2020,2.0,13.0,Lukáš Masopust,Lukas Masopust,Slavia Prague,Fortuna Liga
+591,D,6.93,31.0,0.94,81.87,0.0,0.0,0.1,28.39,0.0,0.03,0.29,0.61,4.0,0.0,0.0,0.55,0.0,called-up,czech republic 2020,0.2,13.0,David Zima,David Zima,Slavia Prague,Fortuna Liga
+592,D,6.83,36.0,1.0,88.11,0.11,0.0,0.28,85.0,0.0,0.0,0.57,1.16,6.0,0.0,0.0,0.5,0.25,called-up,austria 2020,9.0,3.0,Philipp Lienhart,Philipp Lienhart,SC Freiburg,Bundesliga
+593,D,6.74,30.0,0.97,80.6,0.0,0.0,0.82,79.53,0.0,0.24,1.97,1.32,6.0,0.0,0.0,0.58,0.08,not-called-up,austria 2020,11.0,3.0,Stefan Posch,Stefan Posch,TSG Hoffenheim,Bundesliga
+594,D,6.97,24.0,0.92,83.0,0.0,0.0,0.3,81.0,0.0,0.1,1.6,1.4,7.0,0.0,0.0,0.73,0.36,not-called-up,croatia 2020,8.5,150.0,Filip Uremovi?,Filip Uremovic,Rubin Kazan,Premier Liga
+595,D,6.98,24.0,0.88,81.88,0.0,0.0,0.47,90.42,0.0,0.07,0.54,1.26,12.0,0.0,0.0,0.82,0.64,line-up,denmark 2020,24.0,1.0,Andreas Christensen,Andreas Christensen,Chelsea,Premier League
+596,D,7.09,40.0,0.95,85.0,0.03,0.0,0.2,77.0,0.0,0.0,0.7,1.8,7.0,0.0,0.0,0.36,0.27,line-up,czech republic 2020,4.8,25.0,Tomáš Kalas,Tomas Kalas,Bristol City,Championship
+597,D,6.63,33.0,0.91,80.0,0.06,0.0,0.5,80.0,0.0,0.2,0.5,0.7,6.0,0.0,0.0,0.55,0.36,called-up,denmark 2020,2.8,4.0,Jens Stryger Larsen,Jens Stryger Larsen,Udinese Calcio,Serie A
+598,D,6.74,9.0,0.67,58.0,0.0,0.0,0.4,73.0,0.0,0.1,2.0,0.9,1.0,0.0,0.0,0.45,0.36,line-up,croatia 2020,12.0,2.0,Šime Vrsaljko,Sime Vrsaljko,Atlético Madrid,LaLiga
+599,D,7.0,26.0,0.96,85.88,0.08,0.0,0.43,82.77,0.0,0.0,0.93,1.47,5.0,0.0,0.0,0.73,0.45,not-called-up,croatia 2020,16.0,150.0,Dejan Lovren,Dejan Lovren,Zenit S-Pb,Premier Liga
+600,D,7.02,34.0,1.0,89.0,0.15,0.0,0.3,91.0,0.0,0.1,0.7,2.0,11.0,0.0,0.0,0.82,0.64,line-up,croatia 2020,6.5,9.0,Domagoj Vida,Domagoj Vida,Besiktas,Süper Lig
+601,D,6.69,20.0,0.5,50.0,0.05,0.0,0.27,73.8,0.0,0.09,0.36,0.81,1.0,0.0,0.0,0.36,0.18,not-called-up,czech republic 2020,2.8,9.0,Filip Novák,Filip Novak,Fenerbahce,Süper Lig
+602,D,6.81,28.0,0.93,86.29,0.04,0.0,0.65,83.43,0.0,0.0,0.85,1.71,5.0,0.0,0.0,0.82,0.27,not-called-up,denmark 2020,2.4,9.0,Zanka,Zanka,Fenerbahce,Süper Lig
+603,D,6.89,30.0,0.97,86.0,0.1,0.0,0.5,83.0,0.0,0.0,1.7,1.4,6.0,0.0,0.0,0.91,0.36,called-up,denmark 2020,0.05,25.0,Jannik Vestergaard,Jannik Vestergaard,Southampton,Championship
+604,D,6.74,27.0,0.96,87.0,0.04,0.0,0.4,87.0,0.0,0.0,0.8,1.4,2.0,0.0,0.0,0.09,0.09,not-called-up,denmark 2020,18.0,19.0,Victor Nelsson,Victor Nelsson,FC Copenhagen,Superliga
+605,D,7.21,37.0,1.0,88.32,0.24,0.0,0.45,85.84,0.0,0.12,1.08,1.66,12.0,0.0,0.0,0.09,0.0,not-called-up,denmark 2020,3.5,19.0,Alexander Scholz,Alexander Scholz,FC Midtjylland,Superliga
+606,D,7.06,30.0,1.0,90.0,0.07,0.0,0.1,88.0,0.0,0.0,0.5,1.0,8.0,0.0,0.0,0.09,0.0,not-called-up,denmark 2020,2.5,19.0,Andreas Maxsø,Andreas Maxsø,Bröndby IF,Superliga
+607,D,7.2,34.0,0.91,82.88,0.15,0.0,0.16,93.35,0.0,0.06,0.93,0.81,19.0,0.0,0.0,0.27,0.27,line-up,england 2020,36.0,1.0,John Stones,John Stones,Man City,Premier League
+608,D,7.11,24.0,0.92,85.29,0.04,0.0,0.45,88.33,0.0,0.19,1.76,1.08,8.0,0.0,0.0,0.0,0.0,not-called-up,england 2020,16.0,1.0,Fikayo Tomori,Fikayo Tomori,Chelsea,Premier League
+609,D,6.89,38.0,1.0,89.03,0.03,0.0,0.42,88.08,0.0,0.0,0.9,0.71,10.0,0.0,0.0,0.73,0.36,called-up,england 2020,25.0,1.0,Conor Coady,Conor Coady,Wolves,Premier League
+610,D,6.91,38.0,0.97,88.89,0.0,0.0,0.28,84.53,0.0,0.0,0.7,0.94,11.0,0.0,0.0,0.55,0.27,not-called-up,england 2020,22.0,,Eric Dier,Eric Dier,without team,
+611,D,6.78,37.0,1.0,89.03,0.0,0.0,0.88,83.3,0.0,0.1,1.36,1.65,11.0,0.0,0.0,0.18,0.09,called-up,england 2020,28.0,1.0,Benjamin White,Ben White,Brighton,Premier League
+612,D,7.03,40.0,1.0,88.45,0.05,0.0,0.28,90.0,0.0,0.02,0.81,1.29,15.0,0.0,0.0,1.0,0.67,line-up,france 2020,70.0,2.0,Raphaël Varane,Raphaël Varane,Real Madrid,LaLiga
+613,D,7.08,41.0,0.95,82.73,0.02,0.0,0.24,87.44,0.0,0.1,1.57,1.27,11.0,0.0,0.0,0.25,0.17,not-called-up,france 2020,60.0,3.0,Dayot Upamecano,Dayot Upamecano,RB Leipzig,Bundesliga
+614,D,6.83,39.0,0.95,84.97,0.0,0.0,0.43,94.44,0.0,0.0,1.49,0.93,7.0,0.0,0.0,0.92,0.58,line-up,france 2020,40.0,6.0,Presnel Kimpembe,Presnel Kimpembe,Paris SG,Ligue 1
+615,D,7.13,31.0,0.9,84.19,0.16,0.0,0.25,90.42,0.0,0.0,0.64,1.06,13.0,0.0,0.0,0.67,0.17,called-up,france 2020,32.0,1.0,Kurt Zouma,Kurt Zouma,Chelsea,Premier League
+616,D,6.8,41.0,0.88,74.02,0.02,0.0,0.36,92.39,0.0,0.08,1.06,1.08,9.0,0.0,0.0,1.0,0.42,called-up,france 2020,25.0,2.0,Clément Lenglet,Clément Lenglet,Barcelona,LaLiga
+617,D,6.93,37.0,0.95,85.89,0.05,0.0,0.59,89.11,0.0,0.33,1.06,1.06,15.0,0.0,0.0,0.42,0.17,not-called-up,france 2020,50.0,2.0,Ferland Mendy,Ferland Mendy,Real Madrid,LaLiga
+618,D,7.14,29.0,0.83,76.03,0.07,0.0,0.37,91.38,0.0,0.14,1.34,1.36,7.0,0.0,0.0,0.67,0.5,called-up,germany 2020,28.0,3.0,Niklas Süle,Matthias Ginter,Bayern Munich,Bundesliga
+619,D,6.78,29.0,0.72,67.76,0.03,0.0,0.35,86.66,0.0,0.2,1.04,0.77,6.0,0.0,0.0,0.5,0.33,called-up,germany 2020,28.0,3.0,Lukas Klostermann,Lukas Klostermann,RB Leipzig,Bundesliga
+620,D,6.79,34.0,0.94,85.15,0.0,0.0,0.49,83.32,0.0,0.19,1.49,1.29,7.0,0.0,0.0,0.33,0.0,not-called-up,germany 2020,16.0,18.0,Niklas Stark,Niklas Stark,Hertha BSC,2. Bundesliga
+621,D,6.84,35.0,0.89,80.94,0.03,0.0,0.42,90.0,0.0,0.0,0.99,1.5,5.0,0.0,0.0,0.83,0.08,not-called-up,germany 2020,14.5,3.0,Jonathan Tah,Robin Koch,B. Leverkusen,Bundesliga
+622,D,6.5,18.0,0.5,55.94,0.0,0.0,0.78,82.39,0.0,0.12,0.78,0.58,1.0,0.0,0.0,0.17,0.08,not-called-up,germany 2020,16.0,3.0,Nico Schulz,Nico Schulz,Bor. Dortmund,Bundesliga
+623,D,7.01,31.0,1.0,90.0,0.03,0.0,0.28,82.52,0.0,0.0,1.13,1.84,7.0,0.0,0.0,0.25,0.0,not-called-up,germany 2020,25.0,3.0,Felix Uduokhai,Felix Uduokhai,FC Augsburg,Bundesliga
+624,D,7.35,47.0,0.98,85.15,0.13,0.0,0.53,88.21,0.0,0.04,1.62,2.18,12.0,0.0,0.0,0.17,0.17,line-up,germany 2020,16.0,3.0,Mats Hummels,Mats Hummels,Bor. Dortmund,Bundesliga
+625,D,6.97,17.0,0.94,82.35,0.12,0.0,0.56,80.76,0.0,0.09,2.04,1.96,3.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,12.0,3.0,Nico Schlotterbeck,Nico Schlotterbeck,SC Freiburg,Bundesliga
+626,D,6.96,32.0,0.91,78.94,0.06,0.0,0.3,90.19,0.0,0.0,0.72,1.3,4.0,0.0,0.0,0.69,0.54,line-up,italy 2020,20.0,4.0,Leonardo Bonucci,Leonardo Bonucci,Juventus,Serie A
+627,D,6.85,39.0,0.92,81.18,0.05,0.0,0.68,82.18,0.0,0.26,1.76,1.2,10.0,0.0,0.0,0.23,0.15,not-called-up,italy 2020,30.0,4.0,Rafael Tolói,Rafael Tolói,Atalanta BC,Serie A
+628,D,6.73,24.0,0.42,43.42,0.12,0.0,0.6,91.17,0.0,0.25,0.97,0.45,1.0,0.0,0.0,0.46,0.23,not-called-up,italy 2020,12.0,4.0,Danilo D'Ambrosio,Danilo D'Ambrosio,Inter,Serie A
+629,D,6.81,28.0,1.0,89.0,0.11,0.0,0.3,81.0,0.0,0.0,0.9,1.1,8.0,0.0,0.0,0.08,0.0,not-called-up,italy 2020,5.0,1.0,Angelo Ogbonna,Angelo Ogbonna,West Ham,Premier League
+630,D,7.07,10.0,0.3,42.6,0.1,0.0,0.38,85.0,0.0,0.1,1.32,0.5,2.0,0.0,0.0,0.62,0.38,called-up,italy 2020,26.0,1.0,Emerson Palmieri,Emerson Palmieri,Chelsea,Premier League
+631,D,6.76,7.0,1.0,68.0,0.14,0.0,0.0,89.43,0.0,0.29,0.57,0.71,1.0,0.0,0.0,0.33,0.33,not-called-up,netherlands 2020,80.0,1.0,Virgil van Dijk,Virgil van Dijk,Liverpool,Premier League
+632,D,6.84,13.0,0.85,76.62,0.08,0.0,0.15,85.69,0.0,0.23,1.0,1.08,5.0,0.0,0.0,0.5,0.25,called-up,netherlands 2020,28.0,1.0,Nathan Aké,Nathan Aké,Man City,Premier League
+633,D,6.96,29.0,0.86,78.41,0.03,0.0,0.52,88.76,0.0,0.25,1.66,1.69,6.0,0.0,0.0,0.17,0.17,line-up,netherlands 2020,11.0,14.0,Jurriën Timber,Jurrien Timber,Ajax,Eredivisie
+634,D,7.02,38.0,0.95,85.79,0.03,0.0,0.28,94.16,0.0,0.08,0.92,1.54,13.0,0.0,0.0,0.58,0.5,line-up,netherlands 2020,50.0,4.0,Stefan de Vrij,Stefan de Vrij,Inter,Serie A
+635,D,6.77,30.0,0.73,62.0,0.0,0.0,0.3,83.0,0.0,0.0,1.4,0.9,2.0,0.0,0.0,0.31,0.08,called-up,poland 2020,5.0,4.0,Pawe? Dawidowicz,Pawel Dawidowicz,Hellas Verona,Serie A
+636,D,7.14,33.0,0.97,85.3,0.09,0.0,0.66,79.85,0.0,0.09,1.78,1.88,9.0,0.0,0.0,0.62,0.08,not-called-up,poland 2020,3.0,14.0,Pawe? Bochniewicz,Pawel Bochniewicz,Heerenveen,Eredivisie
+637,D,7.11,25.0,0.88,77.0,0.16,0.0,0.9,83.0,0.0,0.3,1.4,1.4,7.0,0.0,0.0,0.23,0.0,not-called-up,poland 2020,2.5,64.0,Rafa? Augustyniak,Rafal Augustyniak,Ural,UAE Pro League
+638,D,7.0,8.0,0.88,72.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.38,0.08,not-called-up,poland 2020,1.8,1.0,Micha? Karbownik,Michal Karbownik,Brighton,Premier League
+639,D,6.77,31.0,0.94,84.0,0.03,0.0,1.0,82.0,0.0,0.2,2.1,1.4,5.0,0.0,0.0,0.92,0.46,line-up,poland 2020,22.0,27.0,Bartosz Bereszy?ski,Bartosz Bereszynski,Sampdoria,Serie B
+640,D,7.13,48.0,1.0,88.88,0.04,0.0,0.38,93.06,0.0,0.07,0.91,1.16,23.0,0.0,0.0,0.92,0.77,line-up,portugal 2020,30.5,1.0,Rúben Dias,Rúben Dias,Man City,Premier League
+641,D,6.75,38.0,0.92,80.58,0.03,0.0,0.22,80.08,0.0,0.02,1.01,0.98,9.0,0.0,0.0,0.54,0.15,not-called-up,portugal 2020,4.0,2.0,Domingos Duarte,Domingos Duarte,Granada CF,LaLiga
+642,D,7.18,42.0,1.0,88.14,0.07,0.0,0.27,89.43,0.0,0.09,0.99,1.17,20.0,0.0,0.0,0.69,0.31,called-up,portugal 2020,1.2,6.0,José Fonte,José Fonte,LOSC Lille,Ligue 1
+643,D,6.89,28.0,0.96,87.0,0.0,0.0,0.3,82.0,0.0,0.1,0.8,1.4,6.0,0.0,0.0,0.75,0.75,line-up,russia 2020,8.0,150.0,Georgiy Dzhikiya,Georgiy Dzhikiya,Spartak Moscow,Premier Liga
+644,D,6.81,37.0,0.95,85.0,0.0,0.0,0.5,85.0,0.0,0.1,1.0,1.4,12.0,0.0,0.0,0.83,0.67,not-called-up,russia 2020,1.2,9.0,Fedor Kudryashov,Fedor Kudryashov,Antalyaspor,Süper Lig
+645,D,6.86,16.0,0.62,53.0,0.0,0.0,0.4,80.0,0.0,0.1,1.3,1.5,2.0,0.0,0.0,0.33,0.08,not-called-up,russia 2020,3.0,150.0,Ilya Kutepov,Ilya Kutepov,Spartak Moscow,Premier Liga
+646,D,6.82,19.0,0.79,74.21,0.0,0.0,0.19,74.53,0.0,0.08,0.76,2.45,3.0,0.0,0.0,0.08,0.0,not-called-up,russia 2020,1.8,150.0,Egor Sorokin,Egor Sorokin,Krasnodar,Premier Liga
+647,D,6.77,16.0,0.62,63.0,0.06,0.0,0.4,86.0,0.0,0.0,0.8,1.8,3.0,0.0,0.0,0.25,0.0,not-called-up,russia 2020,1.0,150.0,Roman Neustädter,Roman Neustädter,Dinamo Moscow,Premier Liga
+648,D,7.0,24.0,0.88,76.0,0.08,0.0,0.7,76.0,0.0,0.2,2.8,2.3,8.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,0.8,150.0,Ilya Samoshnikov,Ilya Samoshnikov,Rubin Kazan,Premier Liga
+649,D,7.1,25.0,1.0,88.0,0.04,0.0,0.9,86.0,0.0,0.0,2.7,2.4,6.0,0.0,0.0,0.41,0.24,line-up,scotland 2020,5.5,25.0,Liam Cooper,Liam Cooper,Leeds,Championship
+650,D,6.93,28.0,1.0,86.71,0.04,0.0,0.0,76.57,0.0,0.0,0.71,0.84,7.0,0.0,0.0,0.71,0.29,called-up,scotland 2020,2.0,1.0,Scott McKenna,Scott McKenna,Nottm Forest,Premier League
+651,D,7.01,34.0,0.94,87.0,0.03,0.0,0.6,77.0,0.0,0.0,1.6,1.5,11.0,0.0,0.0,0.29,0.0,not-called-up,scotland 2020,0.4,60.0,Ryan Porteous,Ryan Porteous,Hibernian FC,Scottish Premiership
+652,D,7.22,42.0,1.0,90.0,0.02,0.0,0.4,89.0,0.0,0.0,0.9,1.8,17.0,0.0,0.0,0.24,0.24,line-up,scotland 2020,0.45,25.0,Grant Hanley,Grant Hanley,Norwich,Championship
+653,D,6.86,11.0,0.55,57.91,0.09,0.0,0.54,78.36,0.0,0.11,1.47,0.93,2.0,0.0,0.0,0.06,0.0,called-up,scotland 2020,0.4,60.0,Nathan Patterson,Nathan Patterson,Rangers,Scottish Premiership
+654,D,6.81,29.0,0.97,85.0,0.03,0.0,0.6,76.0,0.0,0.5,2.0,0.5,14.0,0.0,0.0,0.12,0.0,not-called-up,scotland 2020,10.0,60.0,Ross McCrorie,Ross McCrorie,Aberdeen FC,Scottish Premiership
+655,D,7.1,1.0,1.0,90.0,0.0,0.0,0.0,69.0,0.0,0.0,2.0,1.0,1.0,0.0,0.0,0.0,0.0,not-called-up,scotland 2020,0.4,60.0,Anthony Ralston,Anthony Ralston,Celtic,Scottish Premiership
+656,D,7.07,23.0,0.87,82.17,0.09,0.0,0.26,91.39,0.0,0.07,0.68,0.75,11.0,0.0,0.0,0.08,0.08,line-up,spain 2020,2.5,1.0,Aymeric Laporte,Aymeric Laporte,Man City,Premier League
+657,D,7.02,16.0,0.94,80.62,0.06,0.0,0.91,83.0,0.0,0.0,2.22,1.34,4.0,0.0,0.0,0.67,0.17,called-up,spain 2020,45.0,25.0,Diego Llorente,Diego Llorente,Leeds,Championship
+658,D,6.71,10.0,0.7,67.5,0.0,0.0,0.27,94.7,0.0,0.0,1.19,0.92,1.0,0.0,0.0,1.0,0.42,called-up,spain 2020,20.0,1.0,Eric García,Eric García,Man City,Premier League
+659,D,6.83,28.0,1.0,90.0,0.04,0.0,0.6,83.0,0.0,0.0,0.8,1.0,4.0,0.0,0.0,0.5,0.17,not-called-up,spain 2020,25.5,2.0,Iñigo Martínez,Iñigo Martínez,Athletic,LaLiga
+660,D,6.99,35.0,0.86,80.0,0.09,0.0,0.2,90.0,0.0,0.0,0.8,1.0,9.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,20.0,2.0,Jorge Cuenca,Jorge Cuenca,Villarreal,LaLiga
+661,D,6.94,46.0,1.0,89.96,0.04,0.0,0.15,89.48,0.0,0.0,0.74,0.55,15.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,3.2,2.0,Raúl Albiol,Raúl Albiol,Villarreal,LaLiga
+662,D,6.95,15.0,0.87,76.13,0.13,0.0,0.43,82.27,0.0,0.41,0.93,0.78,5.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,20.0,1.0,Marcos Alonso,Marcos Alonso,Chelsea,Premier League
+663,D,6.6,30.0,0.8,73.0,0.0,0.0,0.7,74.0,0.0,0.3,1.3,0.9,4.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,13.0,2.0,Alejandro Pozo,Alejandro Pozo,Sevilla FC,LaLiga
+664,D,7.12,32.0,0.97,80.03,0.06,0.0,0.32,92.53,0.0,0.15,0.88,1.29,12.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,48.0,1.0,Thiago Silva,Thiago,Chelsea,Premier League
+665,D,6.92,24.0,0.96,85.0,0.0,0.0,0.2,87.0,0.0,0.1,0.5,1.0,10.0,0.0,0.0,0.38,0.31,called-up,sweden 2020,24.0,1.0,Pontus Jansson,Pontus Jansson,Brentford,Premier League
+666,D,7.0,26.0,0.96,84.92,0.08,0.0,0.46,86.31,0.0,0.08,1.52,0.72,13.0,0.0,0.0,0.54,0.23,called-up,sweden 2020,5.0,60.0,Filip Helander,Filip Helander,Rangers,Scottish Premiership
+667,D,6.68,19.0,0.89,81.47,0.05,0.0,0.72,76.58,0.0,0.08,1.12,0.96,4.0,0.0,0.0,0.92,0.31,called-up,sweden 2020,0.35,1.0,Emil Krafth,Emil Krafth,Newcastle,Premier League
+668,D,7.08,29.0,1.0,89.0,0.1,0.0,0.1,91.0,0.0,0.0,1.1,1.4,11.0,0.0,0.0,0.38,0.23,not-called-up,sweden 2020,3.5,150.0,Carl Starfelt,Carl Starfelt,Rubin Kazan,Premier Liga
+669,D,6.99,26.0,0.96,86.15,0.0,0.0,0.38,83.42,0.0,0.0,1.38,1.65,9.0,0.0,0.0,0.15,0.15,not-called-up,sweden 2020,3.0,49.0,Joakim Nilsson,Joakim Nilsson,Arm. Bielefeld,3. Liga
+670,D,6.59,10.0,0.7,70.0,0.0,0.0,0.2,82.0,0.0,0.0,0.5,0.6,1.0,0.0,0.0,0.0,0.0,not-called-up,sweden 2020,1.5,28.0,Alexander Miloševi?,Alexander Milosevic,AIK,Allsvenskan
+671,D,7.0,30.0,0.83,73.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,sweden 2020,3.5,10.0,Daniel Sundgren,Daniel Sundgren,Aris Saloniki,Super League 1
+672,D,6.66,29.0,1.0,87.0,0.1,0.0,0.9,78.0,0.0,0.3,2.0,1.4,3.0,0.0,0.0,0.31,0.08,not-called-up,sweden 2020,0.0,,Mattias Johansson,Mattias Johansson,without team,
+673,D,7.17,40.0,1.0,86.55,0.12,0.0,0.32,91.72,0.0,0.0,1.8,2.08,8.0,0.0,0.0,0.64,0.45,line-up,switzerland 2020,28.0,,Nico Elvedi,Nico Elvedi,without team,
+674,D,6.66,19.0,0.68,66.37,0.05,0.0,0.66,77.53,0.0,0.09,0.72,1.42,2.0,0.0,0.0,0.55,0.55,line-up,switzerland 2020,9.0,1.0,Fabian Schär,Fabian Schär,Newcastle,Premier League
+675,D,7.04,40.0,0.93,85.42,0.05,0.0,0.46,91.88,0.0,0.24,1.45,1.63,12.0,0.0,0.0,0.55,0.36,line-up,switzerland 2020,20.0,3.0,Manuel Akanji,Manuel Akanji,Bor. Dortmund,Bundesliga
+676,D,6.9,29.0,0.97,82.0,0.0,0.0,0.6,80.0,0.0,0.1,1.7,1.3,7.0,0.0,0.0,0.64,0.18,not-called-up,switzerland 2020,5.0,16.0,Be?ir Omeragi?,Becir Omeragic,FC Zürich,Super League
+677,D,6.69,16.0,0.94,78.0,0.0,0.0,0.6,86.0,0.0,0.0,1.3,1.3,1.0,0.0,0.0,0.73,0.55,line-up,switzerland 2020,5.5,4.0,Ricardo Rodríguez,Ricardo Rodríguez,Torino,Serie A
+678,D,6.73,31.0,0.97,86.0,0.0,0.0,0.8,86.0,0.0,0.3,1.4,1.4,12.0,0.0,0.0,0.73,0.18,called-up,switzerland 2020,3.2,36.0,Loris Benito,Loris Benito,G. Bordeaux,Ligue 2
+679,D,6.94,30.0,1.0,83.0,0.03,0.0,0.6,88.0,0.0,0.0,1.5,2.3,5.0,0.0,0.0,0.82,0.27,called-up,switzerland 2020,2.3,16.0,Eray Cömert,Eray Cömert,FC Basel,Super League
+680,D,6.65,35.0,0.8,71.43,0.03,0.0,0.49,83.0,0.0,0.2,1.2,1.06,4.0,0.0,0.0,0.36,0.0,not-called-up,switzerland 2020,6.0,6.0,Jordan Lotomba,Jordan Lotomba,OGC Nice,Ligue 1
+681,D,6.68,27.0,1.0,87.67,0.0,0.0,0.4,87.74,0.0,0.05,1.54,1.12,5.0,0.0,0.0,0.85,0.54,called-up,turkey 2020,29.0,18.0,Ozan Kabak,Ozan Kabak,FC Schalke 04,2. Bundesliga
+682,D,6.84,5.0,0.6,66.0,0.0,0.0,0.8,81.0,0.0,0.4,1.6,2.6,1.0,0.0,0.0,0.08,0.08,not-called-up,turkey 2020,1.6,4.0,Mert Çetin,Mert Çetin,AS Roma,Serie A
+683,D,6.88,21.0,0.9,79.0,0.14,0.0,0.2,82.0,0.0,0.0,1.2,1.4,4.0,0.0,0.0,0.08,0.0,not-called-up,turkey 2020,2.5,47.0,Alpaslan Öztürk,Alpaslan Öztürk,Göztepe,1.Lig
+684,D,6.92,31.0,0.97,88.65,0.03,0.0,0.15,28.65,0.0,0.0,0.16,0.51,2.0,0.0,0.0,0.77,0.54,line-up,ukraine 2020,0.0,150.0,Illia Zabarnyi,Ilya Zabarnyi,Dynamo Kyiv,Premier Liga
+685,D,6.8,16.0,0.62,56.0,0.12,0.0,0.0,89.0,0.0,0.0,0.3,0.59,2.0,0.0,0.0,0.38,0.0,not-called-up,ukraine 2020,2.4,21.0,Igor Plastun,Igor Plastun,KAA Gent,Jupiler Pro League
+686,D,7.0,4.0,1.0,70.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.31,0.23,called-up,ukraine 2020,2.5,150.0,Oleksandr Tymchyk,Oleksandr Tymchyk,Dynamo Kyiv,Premier Liga
+687,D,6.93,22.0,0.82,77.45,0.14,0.0,0.14,31.0,0.0,0.0,0.31,0.64,1.0,0.0,0.0,0.23,0.0,called-up,ukraine 2020,6.0,150.0,Denys Popov,Denys Popov,Dynamo Kyiv,Premier Liga
+688,D,6.94,16.0,1.0,83.75,0.0,0.0,0.19,33.0,0.0,0.08,0.38,0.64,3.0,0.0,0.0,0.15,0.0,not-called-up,ukraine 2020,3.5,150.0,Valeriy Bondar,Valeriy Bondar,Shakhtar D.,Premier Liga
+689,D,7.02,13.0,1.0,86.46,0.0,0.0,0.0,20.08,0.0,0.0,0.07,0.53,1.0,0.0,0.0,0.31,0.0,not-called-up,ukraine 2020,3.0,150.0,Oleksandr Syrota,Oleksandr Syrota,Dynamo Kyiv,Premier Liga
+690,D,7.0,24.0,0.88,81.67,0.12,0.0,0.0,11.33,0.0,0.0,0.22,0.42,1.0,0.0,0.0,0.0,0.0,not-called-up,ukraine 2020,1.0,13.0,Taras Kacharaba,Taras Kacharaba,Slavia Prague,Fortuna Liga
+691,D,6.85,24.0,0.83,79.0,0.04,0.0,0.6,80.0,0.0,0.1,1.9,1.5,6.0,0.0,0.0,0.64,0.64,line-up,wales 2020,8.0,1.0,Chris Mepham,Chris Mepham,Bournemouth,Premier League
+692,D,7.05,17.0,0.76,69.53,0.0,0.0,0.19,86.35,0.0,0.0,1.14,1.81,5.0,0.0,0.0,0.71,0.5,line-up,wales 2020,2.0,1.0,Joe Rodon,Joe Rodon,Tottenham,Premier League
+693,D,6.87,22.0,0.91,77.27,0.0,0.0,0.23,69.82,0.0,0.09,1.09,1.27,5.0,0.0,0.0,0.43,0.36,called-up,wales 2020,0.8,1.0,Tom Lockyer,Tom Lockyer,Luton,Premier League
+694,D,6.98,40.0,1.0,89.0,0.0,0.0,0.3,78.0,0.0,0.1,1.7,1.6,16.0,0.0,0.0,0.0,0.0,not-called-up,england 2020,,1.0,Marc Guéhi,Marc Guéhi,Chelsea,Premier League
+695,D,6.68,21.0,0.67,61.62,0.05,0.0,0.47,84.71,0.0,0.09,0.75,0.84,1.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,,3.0,Ibrahima Konaté,Ibrahima Konaté,RB Leipzig,Bundesliga
+696,D,7.03,22.0,1.0,90.0,0.05,0.0,0.09,91.18,0.0,0.0,0.91,1.32,3.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,,1.0,William Saliba,William Saliba,Arsenal,Premier League
+697,D,6.78,29.0,0.83,70.0,0.1,0.0,0.5,87.0,0.0,0.1,1.0,0.9,7.0,0.0,0.0,0.0,0.0,not-called-up,france 2020,,6.0,Axel Disasi,Axel Disasi,Monaco,Ligue 1
+698,D,6.9,25.0,0.92,83.0,0.0,0.0,0.3,77.0,0.0,0.0,0.9,2.5,2.0,0.0,0.0,0.0,0.0,not-called-up,croatia 2020,,22.0,Josip Šutalo,Josip Sutalo,Dinamo Zagreb,SuperSport HNL
+699,D,6.65,15.0,0.6,59.0,0.0,0.0,0.8,71.0,0.0,0.1,1.7,1.0,1.0,0.0,0.0,0.09,0.0,not-called-up,denmark 2020,,3.0,Mads Pedersen,Mads Pedersen,FC Augsburg,Bundesliga
+700,D,6.73,22.0,0.77,73.82,0.05,0.0,0.61,80.68,0.0,0.0,2.13,1.65,3.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,,18.0,Malick Thiaw,Malick Thiaw,FC Schalke 04,2. Bundesliga
+701,D,6.89,18.0,0.67,60.56,0.0,0.0,0.47,91.0,0.0,0.08,2.01,1.39,1.0,0.0,0.0,0.0,0.0,not-called-up,italy 2020,,4.0,Luiz Felipe,Luiz Felipe a,Lazio,Serie A
+702,D,6.89,6.0,0.5,51.67,0.0,0.0,0.0,88.83,0.0,0.0,0.17,1.0,1.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,3.0,Marcin Kami?ski,Marcin Kaminski,VfB Stuttgart,Bundesliga
+703,D,7.0,18.0,0.94,88.0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,31.0,Mateusz Wieteska,Mateusz Wieteska,Legia Warszawa,PKO BP Ekstraklasa
+704,D,7.0,29.0,0.97,88.0,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,31.0,Przemys?aw Wi?niewski,Przemyslaw Wisniewski,Górnik Zabrze,PKO BP Ekstraklasa
+705,D,6.89,17.0,0.88,82.41,0.0,0.0,0.2,83.71,0.0,0.0,1.36,1.66,5.0,0.0,0.0,0.0,0.0,not-called-up,portugal 2020,,7.0,David Carmo,David Carmo,SC Braga,Liga Portugal
+706,D,6.71,17.0,0.47,52.0,0.0,0.0,0.5,88.0,0.0,0.1,1.3,0.5,2.0,0.0,0.0,0.0,0.0,not-called-up,portugal 2020,,6.0,Tiago Djaló,Tiago Djaló,LOSC Lille,Ligue 1
+707,D,7.02,18.0,1.0,87.0,0.11,0.0,0.7,78.0,0.0,0.1,1.3,1.5,4.0,0.0,0.0,0.92,0.75,line-up,russia 2020,,150.0,Andrey Semenov,Andrey Semenov ak,Terek Grozny,Premier Liga
+708,D,6.3,11.0,0.91,69.0,0.0,0.0,0.9,88.0,0.0,0.2,1.1,1.4,1.0,0.0,0.0,0.0,0.0,not-called-up,scotland 2020,,4.0,Aaron Hickey,Aaron Hickey,Bologna,Serie A
+709,D,6.86,26.0,0.85,77.5,0.04,0.0,0.61,87.31,0.0,0.09,1.21,1.29,6.0,0.0,0.0,0.54,0.46,line-up,turkey 2020,,25.0,Ça?lar Söyüncü,Ça?lar Söyüncü,Leicester,Championship
+710,D,7.0,16.0,0.81,77.0,0.06,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,ukraine 2020,,150.0,Oleksandr Svatok,Oleksandr Svatok,SK Dnipro-1,Premier Liga
+711,M,6.94,46.0,0.63,54.09,0.24,0.07,0.78,70.52,0.7,0.37,0.97,0.3,0.0,0.0,0.0,0.23,0.0,not-called-up,italy 2020,20.0,4.0,Riccardo Orsolini,Riccardo Orsolini,Bologna,Serie A
+712,F,6.93,33.0,0.36,36.79,0.24,0.21,0.35,65.12,0.18,0.47,0.29,0.21,0.0,0.0,0.0,0.0,0.0,not-called-up,germany 2020,10.0,3.0,Karim Adeyemi,Karim Adeyemi,RB Salzburg,Bundesliga
+713,F,7.34,47.0,0.74,69.38,0.23,0.21,1.09,81.83,0.04,0.57,1.05,1.05,0.0,0.0,0.0,0.38,0.31,not-called-up,italy 2020,8.0,4.0,Lorenzo Pellegrini,Lorenzo Pellegrini,AS Roma,Serie A
+714,F,7.53,59.0,0.88,78.42,0.64,0.2,0.77,72.17,0.74,0.66,0.77,0.41,0.0,0.0,0.0,0.75,0.25,called-up,spain 2020,40.0,2.0,Gerard Moreno,Rodrigo,Villarreal,LaLiga
+715,F,7.16,9.0,0.33,40.78,0.56,0.0,0.0,73.11,0.67,0.22,0.11,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,portugal 2020,,7.0,Gonçalo Ramos,Gonçalo Ramos,Benfica,Liga Portugal
+716,M,6.85,30.0,0.93,77.0,0.07,0.1,1.2,73.0,0.0,0.5,1.1,1.7,0.0,0.0,0.0,0.62,0.31,not-called-up,poland 2020,2.4,4.0,Arkadiusz Reca,Arkadiusz Reca,Atalanta BC,Serie A
+717,M,7.17,33.0,0.94,79.52,0.33,0.09,0.83,75.21,0.0,0.43,1.06,1.4,0.0,0.0,0.0,0.85,0.69,line-up,poland 2020,16.0,150.0,Grzegorz Krychowiak,Grzegorz Krychowiak,Loko Moscow,Premier Liga
+718,M,7.14,42.0,0.86,69.0,0.24,0.24,0.37,85.14,0.0,0.59,0.43,0.43,0.0,0.0,0.0,0.62,0.54,line-up,poland 2020,32.0,4.0,Piotr Zieli?ski,Piotr Zielinski,SSC Napoli,Serie A
+719,M,6.8,35.0,0.8,68.0,0.11,0.14,1.3,82.0,0.0,0.5,1.1,0.3,0.0,0.0,0.0,0.69,0.46,line-up,poland 2020,2.8,25.0,Mateusz Klich,Mateusz Klich,Leeds,Championship
+720,M,7.33,28.0,1.0,83.0,0.04,0.18,1.0,78.0,0.0,0.4,2.6,0.7,0.0,0.0,0.0,0.85,0.31,not-called-up,poland 2020,5.4,150.0,Sebastian Szyma?ski,Sebastian Szymanski,Dinamo Moscow,Premier Liga
+721,M,6.65,43.0,0.74,66.47,0.02,0.05,0.67,71.51,0.0,0.29,1.14,0.19,0.0,0.0,0.0,1.0,0.54,line-up,poland 2020,2.7,68.0,Kamil Jó?wiak,Kamil Józwiak,Derby,League One
+722,M,6.5,4.0,0.75,51.25,0.0,0.25,1.5,73.75,0.0,0.22,0.77,0.52,0.0,0.0,0.0,0.85,0.23,not-called-up,poland 2020,2.4,25.0,Kamil Grosicki,Kamil Grosicki,West Brom,Championship
+723,M,6.81,24.0,0.29,33.38,0.0,0.08,0.46,81.67,0.0,0.19,0.4,0.07,0.0,0.0,0.0,0.23,0.08,not-called-up,poland 2020,2.4,17.0,Damian K?dzior,Damian Kadzior,SD Eibar,LaLiga2
+724,M,6.8,32.0,0.78,71.25,0.12,0.03,0.75,41.81,0.0,0.28,0.92,0.21,0.0,0.0,0.0,0.92,0.38,called-up,poland 2020,1.2,1.0,Jakub Moder,Jakub Moder,Brighton,Premier League
+725,M,6.58,27.0,0.74,68.0,0.04,0.0,1.1,83.0,0.0,0.4,1.4,0.6,0.0,0.0,0.0,0.77,0.23,line-up,poland 2020,10.0,4.0,Karol Linetty,Karol Linetty,Torino,Serie A
+726,M,6.96,36.0,0.81,70.03,0.06,0.11,0.12,13.83,0.0,0.13,0.28,0.2,0.0,0.0,0.0,0.15,0.15,called-up,poland 2020,5.0,31.0,Tymoteusz Puchacz,Tymoteusz Puchacz,Lech Poznan,PKO BP Ekstraklasa
+727,M,6.72,26.0,0.38,44.0,0.04,0.0,0.5,81.0,0.0,0.3,0.7,0.1,0.0,0.0,0.0,0.62,0.15,called-up,poland 2020,5.0,25.0,Przemys?aw P?acheta,Przemyslaw Placheta,Norwich,Championship
+728,M,7.15,37.0,0.86,74.43,0.14,0.03,1.36,84.14,0.0,0.29,2.44,1.75,0.0,0.0,0.0,0.92,0.31,called-up,portugal 2020,40.0,1.0,Rúben Neves,Rúben Neves,Wolves,Premier League
+729,M,6.7,27.0,0.44,45.0,0.07,0.0,0.6,85.0,0.0,0.2,0.7,0.4,0.0,0.0,0.0,0.62,0.31,line-up,portugal 2020,16.0,2.0,William Carvalho,William Carvalho,Real Betis,LaLiga
+730,M,6.84,27.0,0.63,57.52,0.04,0.11,0.96,86.15,0.0,0.3,0.7,0.7,0.0,0.0,0.0,0.69,0.31,called-up,portugal 2020,16.0,6.0,Renato Sanches,Renato Sanches,LOSC Lille,Ligue 1
+731,M,6.99,33.0,0.85,77.0,0.03,0.03,1.7,88.0,0.0,0.4,2.3,1.4,0.0,0.0,0.0,0.85,0.46,called-up,portugal 2020,8.0,1.0,João Moutinho,João Moutinho,Wolves,Premier League
+732,M,7.38,40.0,0.9,78.4,0.45,0.12,1.46,80.2,0.0,0.7,1.74,0.58,0.0,0.0,0.0,0.92,0.23,called-up,portugal 2020,4.8,7.0,Sérgio Oliveira,Sérgio Oliveira,FC Porto,Liga Portugal
+733,M,6.91,42.0,0.86,74.17,0.07,0.19,1.26,90.17,0.0,0.62,0.95,0.55,0.0,0.0,0.0,0.92,0.69,line-up,portugal 2020,80.0,1.0,Bernardo Silva,Bernardo Silva,Man City,Premier League
+734,M,7.58,55.0,0.93,81.55,0.49,0.33,1.93,77.84,0.0,0.77,1.54,0.65,0.0,0.0,0.0,0.92,0.62,line-up,portugal 2020,48.0,1.0,Bruno Fernandes,Bruno Fernandes,Man Utd,Premier League
+735,M,7.11,31.0,0.97,75.81,0.23,0.1,0.65,73.9,0.0,0.28,1.5,0.75,0.0,0.0,0.0,0.83,0.17,not-called-up,russia 2020,2.0,150.0,Daniil Fomin,Daniil Fomin,Dynamo Moscow,Premier Liga
+736,M,7.16,28.0,1.0,88.0,0.04,0.11,0.7,82.0,0.0,0.5,1.3,1.3,0.0,0.0,0.0,0.58,0.5,line-up,russia 2020,9.5,150.0,Roman Zobnin,Roman Zobnin,Spartak Moscow,Premier Liga
+737,M,7.0,25.0,0.84,69.16,0.16,0.08,1.13,83.52,0.0,0.46,2.42,1.15,0.0,0.0,0.0,0.83,0.67,line-up,russia 2020,8.0,150.0,Daler Kuzyaev,Daler Kuzyaev,Zenit S-Pb,Premier Liga
+738,M,7.01,33.0,0.73,66.55,0.0,0.09,0.55,82.24,0.0,0.37,1.49,1.55,0.0,0.0,0.0,0.75,0.67,line-up,russia 2020,5.5,150.0,Magomed Ozdoev,Magomed Ozdoev,Zenit S-Pb,Premier Liga
+739,M,7.31,21.0,0.57,51.0,0.24,0.43,1.5,76.0,0.0,0.7,1.3,0.5,0.0,0.0,0.0,0.25,0.25,line-up,russia 2020,20.0,6.0,Aleksandr Golovin,Aleksandr Golovin,Monaco,Ligue 1
+740,M,6.77,22.0,0.5,39.81,0.05,0.05,0.35,74.05,0.0,0.06,1.24,1.04,0.0,0.0,0.0,0.08,0.08,not-called-up,russia 2020,6.0,150.0,Ilzat Akhmetov,Ilzat Akhmetov,CSKA Moscow,Premier Liga
+741,M,6.96,30.0,0.43,38.17,0.27,0.1,0.18,78.67,0.0,0.23,0.45,0.47,0.0,0.0,0.0,0.17,0.08,not-called-up,russia 2020,5.2,150.0,Aleksandr Erokhin,Aleksandr Erokhin,Zenit S-Pb,Premier Liga
+742,M,6.89,13.0,0.62,53.0,0.08,0.08,0.6,81.0,0.0,0.2,1.4,0.5,0.0,0.0,0.0,0.17,0.08,line-up,russia 2020,0.5,250.0,Dmitriy Barinov,Dmitriy Barinov,Loko Moskau,U19 M-Liga (- 2023)
+743,M,6.89,13.0,0.62,53.0,0.08,0.08,0.6,81.0,0.0,0.2,1.4,0.5,0.0,0.0,0.0,0.17,0.08,line-up,russia 2020,0.5,250.0,Dmitriy Barinov,Dmitriy Barinov,Loko Moskau,U19 M-Liga (- 2023)
+744,M,7.02,33.0,0.91,72.64,0.09,0.06,0.63,83.58,0.0,0.59,1.04,1.75,0.0,0.0,0.0,0.33,0.08,not-called-up,russia 2020,2.5,150.0,Yuri Gazinskiy,Yuriy Gazinskiy,Krasnodar,Premier Liga
+745,M,7.15,29.0,0.62,61.93,0.24,0.17,0.6,74.76,0.0,0.4,0.58,0.46,0.0,0.0,0.0,0.58,0.42,not-called-up,russia 2020,4.0,150.0,Anton Miranchuk,Anton Miranchuk,Loko Moscow,Premier Liga
+746,M,6.67,21.0,0.62,52.0,0.0,0.14,1.0,67.0,0.0,0.3,0.9,0.6,0.0,0.0,0.0,0.58,0.17,called-up,russia 2020,4.0,2.0,Denis Cheryshev,Denis Cheryshev,Valencia,LaLiga
+747,M,7.07,45.0,0.78,70.89,0.11,0.04,0.53,86.84,0.0,0.37,1.65,0.97,0.0,0.0,0.0,0.76,0.65,not-called-up,scotland 2020,22.5,1.0,Scott McTominay,Scott McTominay,Man Utd,Premier League
+748,M,6.99,37.0,1.0,90.0,0.08,0.14,1.5,79.0,0.0,0.7,1.6,1.2,0.0,0.0,0.0,0.82,0.76,not-called-up,scotland 2020,16.0,1.0,John McGinn,John McGinn,Aston Villa,Premier League
+749,M,6.72,31.0,0.94,83.0,0.0,0.06,1.8,83.0,0.0,0.3,1.6,0.9,0.0,0.0,0.0,0.53,0.12,not-called-up,scotland 2020,6.5,1.0,John Fleck,John Fleck,Sheff Utd,Premier League
+750,M,6.76,33.0,0.97,84.0,0.12,0.15,1.5,81.0,0.0,0.6,1.8,0.7,0.0,0.0,0.0,0.76,0.24,not-called-up,scotland 2020,6.5,25.0,Stuart Armstrong,Stuart Armstrong,Southampton,Championship
+751,M,7.04,43.0,1.0,88.28,0.09,0.16,0.7,90.0,0.0,0.37,0.98,1.1,0.0,0.0,0.0,0.94,0.71,called-up,scotland 2020,4.0,60.0,Callum McGregor,Callum McGregor,Celtic,Scottish Premiership
+752,M,7.02,38.0,0.79,72.0,0.05,0.16,0.6,82.0,0.0,0.3,1.2,1.0,0.0,0.0,0.0,0.53,0.12,not-called-up,scotland 2020,3.5,25.0,Kenny McLean,Kenny McLean,Norwich,Championship
+753,M,7.12,23.0,0.78,61.91,0.09,0.04,0.5,89.48,0.0,0.38,1.26,0.96,0.0,0.0,0.0,0.59,0.41,not-called-up,scotland 2020,1.7,60.0,Ryan Jack,Ryan Jack,Rangers,Scottish Premiership
+754,M,7.25,40.0,0.78,70.65,0.12,0.28,1.09,81.78,0.0,0.53,1.64,0.49,0.0,0.0,0.0,0.76,0.59,line-up,scotland 2020,4.8,60.0,Ryan Christie,Ryan Christie,Celtic,Scottish Premiership
+755,M,7.0,13.0,0.62,57.0,0.23,0.08,0.1,88.0,0.0,0.3,0.6,0.2,0.0,0.0,0.0,0.47,0.29,called-up,scotland 2020,6.0,60.0,James Forrest,James Forrest,Celtic,Scottish Premiership
+756,M,7.5,37.0,0.84,70.46,0.27,0.19,0.29,85.22,0.0,0.37,0.49,0.32,0.0,0.0,0.0,0.12,0.06,called-up,scotland 2020,1.0,60.0,David Turnbull,David Turnbull,Celtic,Scottish Premiership
+757,M,7.19,41.0,0.83,73.9,0.1,0.02,1.22,89.41,0.0,0.6,1.66,1.0,0.0,0.0,0.0,0.75,0.33,called-up,spain 2020,48.0,4.0,Fabián Ruiz,Fabián Ruiz,SSC Napoli,Serie A
+758,M,6.96,45.0,0.91,82.18,0.02,0.04,2.01,88.82,0.0,0.59,1.75,1.07,0.0,0.0,0.0,0.58,0.33,line-up,spain 2020,48.0,,Koke,Fabián Ruiz,without team,
+759,M,7.06,46.0,0.85,71.17,0.15,0.24,0.63,77.65,0.0,1.17,0.91,0.46,0.0,0.0,0.0,1.0,0.58,line-up,spain 2020,31.5,3.0,Dani Olmo,Dani Olmo,RB Leipzig,Bundesliga
+760,M,6.84,31.0,0.45,47.45,0.19,0.13,0.97,79.39,0.0,0.39,0.63,0.24,0.0,0.0,0.0,0.08,0.08,called-up,spain 2020,28.0,6.0,Pablo Sarabia,Pablo Sarabia,Paris SG,Ligue 1
+761,M,7.18,30.0,1.0,84.0,0.1,0.1,0.8,72.0,0.0,0.5,1.5,1.3,0.0,0.0,0.0,0.25,0.08,not-called-up,spain 2020,25.0,7.0,Pedro Porro,Pedro Porro,Sporting CP,Liga Portugal
+762,M,7.05,42.0,0.86,68.0,0.0,0.12,1.37,91.43,0.0,0.61,1.73,1.31,0.0,0.0,0.0,0.92,0.58,not-called-up,spain 2020,20.0,2.0,Sergio Busquets,Hugo Guillamón,Barcelona,LaLiga
+763,M,7.18,45.0,0.91,80.36,0.29,0.27,1.02,84.29,0.0,0.59,1.92,0.91,0.0,0.0,0.0,0.5,0.25,line-up,spain 2020,80.0,2.0,Marcos Llorente,Pedri,Atlético Madrid,LaLiga
+764,M,6.88,44.0,0.77,66.8,0.09,0.09,1.53,88.0,0.0,0.65,1.28,0.87,0.0,0.0,0.0,0.33,0.17,line-up,spain 2020,70.0,,Pedri,Koke,without team,
+765,M,7.17,34.0,0.97,83.94,0.06,0.18,1.12,77.71,0.0,1.04,2.11,1.27,0.0,0.0,0.0,0.58,0.33,not-called-up,spain 2020,60.0,2.0,Mikel Merino,Mikel Merino,Real Sociedad,LaLiga
+766,M,6.97,40.0,0.62,59.6,0.0,0.07,0.98,87.6,0.0,0.45,1.31,1.35,0.0,0.0,0.0,0.25,0.08,not-called-up,spain 2020,40.0,2.0,Dani Ceballos,Dani Ceballos,Real Madrid,LaLiga
+767,M,7.22,31.0,0.9,81.0,0.26,0.19,0.6,87.0,0.0,0.5,0.5,0.4,0.0,0.0,0.0,0.75,0.42,not-called-up,spain 2020,0.0,2.0,Sergio Canales,Sergio Canales,Real Betis,LaLiga
+768,M,6.81,32.0,0.81,72.0,0.06,0.03,1.3,84.0,0.0,0.3,1.8,1.5,0.0,0.0,0.0,0.77,0.38,line-up,sweden 2020,0.5,27.0,Albin Ekdal,Albin Ekdal,Sampdoria,Serie B
+769,M,6.84,34.0,0.71,55.0,0.15,0.06,0.9,80.0,0.0,0.4,1.1,0.9,0.0,0.0,0.0,1.0,0.31,not-called-up,sweden 2020,0.3,4.0,Mattias Svanberg,Mattias Svanberg,Bologna,Serie A
+770,M,6.96,41.0,0.68,52.71,0.22,0.12,0.62,80.93,0.0,0.22,0.33,0.35,0.0,0.0,0.0,0.92,0.62,line-up,sweden 2020,0.5,3.0,Emil Forsberg,Emil Forsberg,RB Leipzig,Bundesliga
+771,M,6.96,31.0,0.87,74.16,0.03,0.06,1.06,82.45,0.0,0.59,2.15,1.13,0.0,0.0,0.0,0.62,0.15,called-up,sweden 2020,10.0,19.0,Jens Cajuste,Jens Cajuste,FC Midtjylland,Superliga
+772,M,6.87,42.0,0.9,79.17,0.14,0.12,0.71,74.19,0.0,0.39,1.27,0.59,0.0,0.0,0.0,0.92,0.15,called-up,sweden 2020,2.4,25.0,Ken Sema,Ken Sema,Watford,Championship
+773,M,7.18,38.0,0.95,74.79,0.32,0.24,0.94,79.16,0.0,0.8,0.53,0.53,0.0,0.0,0.0,0.23,0.08,not-called-up,sweden 2020,0.525,14.0,Jesper Karlsson,Jesper Karlsson,AZ Alkmaar,Eredivisie
+774,M,6.9,33.0,0.73,67.21,0.09,0.09,0.85,85.85,0.0,0.33,1.44,1.17,0.0,0.0,0.0,1.0,0.69,line-up,sweden 2020,5.0,150.0,Kristoffer Olsson,Kristoffer Olsson,Krasnodar,Premier Liga
+775,M,6.96,30.0,0.83,72.4,0.23,0.2,0.63,79.53,0.0,0.42,1.01,0.63,0.0,0.0,0.0,0.77,0.38,called-up,sweden 2020,12.0,150.0,Viktor Claesson,Viktor Claesson,Krasnodar,Premier Liga
+776,M,6.83,22.0,0.32,33.27,0.0,0.14,0.36,79.18,0.0,0.27,1.23,0.18,0.0,0.0,0.0,1.0,0.55,called-up,switzerland 2020,2.5,3.0,Steven Zuber,Steven Zuber,E. Frankfurt,Bundesliga
+777,M,6.73,32.0,0.62,54.88,0.22,0.12,0.47,75.62,0.0,0.38,0.62,0.59,0.0,0.0,0.0,0.91,0.09,called-up,switzerland 2020,9.0,3.0,Ruben Vargas,Rubén Vargas,FC Augsburg,Bundesliga
+778,M,6.89,22.0,1.0,89.0,0.0,0.05,0.7,84.0,0.0,0.3,1.8,1.7,0.0,0.0,0.0,0.73,0.36,called-up,switzerland 2020,4.0,16.0,Silvan Widmer,Silvan Widmer,FC Basel,Super League
+779,M,6.9,29.0,0.86,76.0,0.0,0.07,0.77,88.14,0.0,0.39,2.03,1.74,0.0,0.0,0.0,0.73,0.36,called-up,switzerland 2020,9.5,3.0,Djibril Sow,Djibril Sow,E. Frankfurt,Bundesliga
+780,M,6.95,42.0,0.95,82.17,0.02,0.05,0.81,89.57,0.0,0.39,1.61,0.83,0.0,0.0,0.0,0.91,0.82,line-up,switzerland 2020,24.0,1.0,Granit Xhaka,Granit Xhaka,Arsenal,Premier League
+781,M,6.71,32.0,0.53,54.34,0.03,0.03,0.41,83.12,0.0,0.08,1.25,0.83,0.0,0.0,0.0,0.36,0.09,called-up,switzerland 2020,36.0,3.0,Denis Zakaria,Denis Zakaria,Bor. M'gladbach,Bundesliga
+782,M,7.04,25.0,0.92,73.88,0.2,0.2,0.55,74.36,0.0,0.38,1.24,0.89,0.0,0.0,0.0,0.27,0.09,not-called-up,switzerland 2020,4.0,3.0,Renato Steffen,Renato Steffen,VfL Wolfsburg,Bundesliga
+783,M,6.95,41.0,0.95,79.15,0.05,0.1,1.35,88.49,0.0,0.95,2.04,1.19,0.0,0.0,0.0,0.91,0.64,line-up,switzerland 2020,25.0,4.0,Remo Freuler,Remo Freuler,Atalanta BC,Serie A
+784,M,6.86,20.0,0.35,39.5,0.05,0.1,0.38,84.45,0.0,0.33,0.4,0.27,0.0,0.0,0.0,0.82,0.64,line-up,switzerland 2020,12.0,1.0,Xherdan Shaqiri,Xherdan Shaqiri,Liverpool,Premier League
+785,M,6.78,19.0,0.47,47.47,0.0,0.11,0.57,79.84,0.0,0.34,0.85,0.34,0.0,0.0,0.0,0.82,0.36,called-up,switzerland 2020,4.0,3.0,Admir Mehmedi,Admir Mehmedi,VfL Wolfsburg,Bundesliga
+786,M,6.9,33.0,0.97,83.0,0.12,0.06,1.36,78.88,0.0,0.18,2.38,1.24,0.0,0.0,0.0,0.54,0.46,line-up,turkey 2020,16.0,6.0,Zeki Çelik,Zeki Çelik,LOSC Lille,Ligue 1
+787,M,6.87,42.0,0.86,74.67,0.1,0.07,1.03,78.62,0.0,0.52,1.0,0.52,0.0,0.0,0.0,0.46,0.08,not-called-up,turkey 2020,2.8,9.0,Deniz Türüç,Deniz Türüç,Fenerbahce,Süper Lig
+788,M,6.76,35.0,0.74,60.37,0.03,0.0,0.62,85.57,0.0,0.33,0.73,0.97,0.0,0.0,0.0,0.62,0.38,not-called-up,turkey 2020,3.5,,Mahmut Tekdemir,Mahmut Tekdemir,Büyüksehir Bld,
+789,M,7.11,41.0,0.83,71.54,0.15,0.2,0.9,75.8,0.0,0.36,1.26,0.9,0.0,0.0,0.0,0.92,0.77,line-up,turkey 2020,4.5,9.0,Ozan Tufan,Ozan Tufan,Fenerbahce,Süper Lig
+790,M,6.78,31.0,0.42,42.0,0.0,0.1,0.7,83.0,0.0,0.2,1.5,1.0,0.0,0.0,0.0,0.62,0.15,called-up,turkey 2020,6.0,9.0,Dorukhan Toköz,Dorukhan Toköz,Besiktas,Süper Lig
+791,M,6.89,28.0,0.93,74.0,0.14,0.07,1.16,84.29,0.0,0.46,1.04,0.49,0.0,0.0,0.0,0.77,0.23,called-up,turkey 2020,0.6,14.0,Orkun Kökçü,Orkun Kökçü,Feyenoord,Eredivisie
+792,M,6.97,41.0,0.95,82.37,0.24,0.27,0.98,73.17,0.0,0.59,1.46,0.49,0.0,0.0,0.0,0.31,0.08,not-called-up,turkey 2020,11.0,47.0,Halil Akbunar,Halil Akbunar,Göztepe,1.Lig
+793,M,6.8,23.0,0.78,67.0,0.09,0.13,0.9,88.0,0.0,0.6,1.0,0.2,0.0,0.0,0.0,0.38,0.08,not-called-up,turkey 2020,2.4,9.0,Abdülkadir Ömür,Abdülkadir Ömür,Trabzonspor,Süper Lig
+794,M,6.95,9.0,0.33,31.44,0.33,0.11,0.34,60.22,0.0,0.23,0.1,0.1,0.0,0.0,0.0,0.38,0.23,not-called-up,turkey 2020,1.0,1.0,Cenk Tosun,Cenk Tosun,Everton,Premier League
+795,M,6.94,29.0,0.86,77.59,0.1,0.0,0.22,23.72,0.0,0.04,0.34,0.69,0.0,0.0,0.0,0.85,0.38,line-up,ukraine 2020,3.5,150.0,Serhiy Sydorchuk,Sergiy Sydorchuk,Dynamo Kyiv,Premier Liga
+796,M,6.88,36.0,0.86,70.94,0.06,0.08,0.33,78.25,0.0,0.19,2.36,1.64,0.0,0.0,0.0,0.85,0.38,called-up,ukraine 2020,3.2,150.0,Eduard Sobol,Eduard Sobol,Shakhtar D.,Premier Liga
+797,M,6.85,29.0,0.86,71.0,0.07,0.03,0.36,31.72,0.0,0.17,0.25,0.13,0.0,0.0,0.0,1.0,0.31,called-up,ukraine 2020,8.0,150.0,Marlos,Marlos,Shakhtar D.,Premier Liga
+798,M,6.97,29.0,0.79,69.31,0.17,0.0,0.1,16.21,0.0,0.0,0.24,0.17,0.0,0.0,0.0,0.54,0.15,not-called-up,ukraine 2020,1.2,46.0,Igor Kharatin,Igor Kharatin,Ferencváros,Nemzeti Bajnokság
+799,M,6.89,11.0,0.45,46.09,0.36,0.0,0.08,23.73,0.0,0.0,0.19,0.19,0.0,0.0,0.0,0.62,0.15,not-called-up,ukraine 2020,4.8,4.0,Viktor Kovalenko,Viktor Kovalenko,Atalanta BC,Serie A
+800,M,6.93,32.0,0.78,66.93,0.47,0.09,0.41,21.81,0.0,0.03,0.54,0.22,0.0,0.0,0.0,0.54,0.08,not-called-up,ukraine 2020,16.0,150.0,Viktor Tsygankov,Viktor Tsygankov,Dynamo Kyiv,Premier Liga
+801,M,6.97,23.0,0.74,69.04,0.09,0.04,0.09,19.3,0.0,0.05,0.13,0.27,0.0,0.0,0.0,0.46,0.31,called-up,ukraine 2020,8.0,150.0,Taras Stepanenko,Taras Stepanenko,Shakhtar D.,Premier Liga
+802,M,6.81,19.0,0.26,38.68,0.11,0.21,0.43,83.0,0.0,0.34,0.49,0.19,0.0,0.0,0.0,0.62,0.62,line-up,ukraine 2020,9.5,1.0,Andriy Yarmolenko,Andriy Yarmolenko,West Ham,Premier League
+803,M,7.07,28.0,0.86,80.0,0.11,0.0,0.8,83.0,0.0,0.6,3.2,1.2,0.0,0.0,0.0,0.92,0.46,called-up,ukraine 2020,0.8,21.0,Evgeny Makarenko,Yevgen Makarenko,RSC Anderlecht,Jupiler Pro League
+804,M,6.96,32.0,0.81,72.5,0.12,0.06,0.44,22.53,0.0,0.12,0.62,0.19,0.0,0.0,0.0,0.69,0.46,called-up,ukraine 2020,1.2,150.0,Mykola Shaparenko,Mykola Shaparenko,Dynamo Kyiv,Premier Liga
+805,M,6.9,29.0,0.69,56.48,0.17,0.03,0.17,13.28,0.0,0.0,0.17,0.14,0.0,0.0,0.0,0.92,0.69,line-up,ukraine 2020,0.6,46.0,Oleksandr Zubkov,Oleksandr Zubkov,Ferencváros,Nemzeti Bajnokság
+806,M,6.88,23.0,0.83,73.0,0.13,0.04,0.8,82.0,0.0,0.6,1.4,0.4,0.0,0.0,0.0,0.36,0.14,not-called-up,wales 2020,4.8,68.0,Tom Lawrence,Tom Lawrence,Derby,League One
+807,M,6.7,18.0,0.83,77.0,0.0,0.11,0.7,82.0,0.0,0.7,1.1,1.2,0.0,0.0,0.0,0.21,0.21,line-up,wales 2020,4.8,25.0,Joe Allen,Joe Allen,Stoke City,Championship
+808,M,6.63,10.0,0.5,45.0,0.0,0.0,1.2,83.0,0.0,0.0,1.2,0.8,0.0,0.0,0.0,0.86,0.64,line-up,wales 2020,0.0,1.0,Joe Morrell,Joe Morrell,Luton,Premier League
+809,M,6.95,29.0,0.62,50.48,0.07,0.14,0.78,86.28,0.0,0.38,0.9,0.54,0.0,0.0,0.0,0.36,0.14,line-up,wales 2020,28.0,4.0,Aaron Ramsey,Aaron Ramsey,Juventus,Serie A
+810,M,6.95,34.0,0.79,67.94,0.15,0.18,0.5,79.06,0.0,0.47,0.75,0.38,0.0,0.0,0.0,0.43,0.14,called-up,wales 2020,0.5,1.0,David Brooks,David Brooks,Bournemouth,Premier League
+811,M,6.95,26.0,0.92,84.23,0.0,0.0,0.96,81.65,0.0,0.29,2.29,1.96,0.0,0.0,0.0,0.93,0.71,called-up,wales 2020,9.0,1.0,Ethan Ampadu,Ethan Ampadu,Chelsea,Premier League
+812,M,6.62,29.0,0.34,36.48,0.07,0.0,0.12,74.31,0.0,0.31,0.43,0.13,0.0,0.0,0.0,0.86,0.21,called-up,wales 2020,0.8,25.0,Jonathan Williams,Jonathan Williams,Cardiff,Championship
+813,M,6.82,34.0,0.79,74.0,0.06,0.12,0.78,79.35,0.0,0.41,1.69,1.03,0.0,0.0,0.0,0.79,0.36,not-called-up,wales 2020,0.9,150.0,Matthew Smith,Matt Smith,Man City U23,Premier League 2
+814,M,6.68,4.0,1.0,74.25,0.0,0.0,0.77,79.5,0.0,0.0,1.5,1.48,0.0,0.0,0.0,0.79,0.21,called-up,wales 2020,0.675,1.0,Dylan Levitt,Dylan Levitt,Man Utd U23,Premier League
+815,M,6.79,25.0,0.68,58.36,0.2,0.08,0.99,81.36,0.0,0.26,0.91,0.08,0.0,0.0,0.0,0.86,0.71,line-up,wales 2020,22.5,1.0,Daniel James,Daniel James,Man Utd,Premier League
+816,M,7.19,38.0,0.89,76.37,0.18,0.29,1.32,73.24,0.0,0.58,0.78,0.81,0.0,0.0,0.0,0.86,0.57,called-up,wales 2020,17.5,1.0,Harry Wilson,Harry Wilson,Liverpool,Premier League
+817,M,6.75,28.0,0.54,51.43,0.04,0.07,0.58,71.93,0.0,0.39,0.58,0.29,0.0,0.0,0.0,0.71,0.29,called-up,wales 2020,0.25,25.0,Tyler Roberts,Tyler Roberts,Leeds,Championship
+818,M,7.05,37.0,0.86,71.62,0.16,0.11,0.84,77.68,0.0,0.44,1.59,0.65,0.0,0.0,0.0,0.38,0.15,called-up,turkey 2020,,9.0,?rfan Can Kahveci,?rfan Can Kahveci,Fenerbahce,Süper Lig
+819,M,7.19,40.0,0.45,42.8,0.35,0.12,0.74,74.6,0.0,0.54,0.4,0.1,0.0,0.0,0.0,0.85,0.46,line-up,turkey 2020,,6.0,Yusuf Yaz?c?,Yusuf Yaz?c?,LOSC Lille,Ligue 1
+820,M,6.84,28.0,0.64,63.14,0.0,0.04,0.76,83.71,0.0,0.54,1.89,1.6,0.0,0.0,0.0,1.0,0.62,line-up,turkey 2020,,2.0,Okay Yoku?lu,Okay Yoku?lu,Celta de Vigo,LaLiga
+821,M,7.37,39.0,0.87,76.77,0.13,0.23,0.66,83.69,0.0,0.64,0.83,0.45,0.0,0.0,0.0,0.77,0.62,line-up,turkey 2020,,4.0,Hakan Çalhano?lu,Hakan Çalhano?lu,AC Milan,Serie A
+822,M,7.1,36.0,0.89,79.22,0.03,0.06,0.85,83.11,0.0,0.57,1.42,1.7,0.0,0.0,0.0,0.46,0.08,called-up,turkey 2020,,9.0,Taylan Antalyal?,Taylan Antalyal?,Galatasaray,Süper Lig
+823,M,6.93,38.0,0.76,66.79,0.11,0.11,0.83,77.37,0.0,0.46,0.83,0.46,0.0,0.0,0.0,0.31,0.08,not-called-up,turkey 2020,,9.0,Emre K?l?nç,Emre K?l?nç,Galatasaray,Süper Lig
+824,M,6.73,34.0,1.0,87.0,0.03,0.06,0.6,68.0,0.0,0.3,1.3,1.4,0.0,0.0,0.0,0.82,0.35,not-called-up,scotland 2020,,,Stephen O'Donnell,Stephen O'Donnell m,Retired,
+825,M,7.0,20.0,0.7,53.0,0.05,0.15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.38,0.0,called-up,poland 2020,6.0,31.0,Kacper Koz?owski,Kacper Kozlowski,Pogon Szczecin,PKO BP Ekstraklasa
+826,M,6.77,8.0,0.62,52.5,0.0,0.0,0.88,87.88,0.0,0.12,0.62,0.88,0.0,0.0,0.0,0.12,0.0,called-up,scotland 2020,0.3,1.0,Billy Gilmour,Billy Gilmour,Chelsea,Premier League
+827,M,7.05,45.0,0.8,66.6,0.29,0.16,0.72,80.0,0.0,0.38,1.06,0.78,0.0,0.0,0.0,0.73,0.0,called-up,switzerland 2020,4.0,16.0,Christian Fassnacht,Christian Fassnacht,BSC Young Boys,Super League
+828,M,7.14,37.0,0.84,72.62,0.19,0.16,1.21,81.0,0.0,1.04,1.56,0.8,0.0,0.0,0.0,0.54,0.0,called-up,portugal 2020,,7.0,Rafa Silva,Rafa silva,Benfica,Liga Portugal
+829,M,7.38,13.0,1.0,84.0,0.15,0.0,0.8,83.0,0.0,0.5,2.1,2.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,5.4,68.0,Krystian Bielik,Krystian Bielik,Derby,League One
+830,M,7.0,30.0,0.87,71.13,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,1.0,31.0,Bartosz Slisz,Bartosz Slisz,Legia Warszawa,PKO BP Ekstraklasa
+831,M,7.0,21.0,0.81,64.0,0.14,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,2.0,10.0,Damian Szyma?ski,Damian Szymanski,AEK Athens,Super League 1
+832,M,7.05,2.0,0.0,12.0,0.0,0.5,0.5,61.5,0.0,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,3.5,150.0,Nicola Zalewski,Nicola Zalewski,Roma U19,Primavera 1
+833,M,7.0,29.0,0.9,73.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,not-called-up,poland 2020,0.9,31.0,Sebastian Kowalczyk,Sebastian Kowalczyk,Pogon Szczecin,PKO BP Ekstraklasa
+834,M,6.94,31.0,0.87,69.58,0.03,0.06,0.13,7.74,0.0,0.1,0.07,0.1,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,1.5,31.0,Jakub Kami?ski,Jakub Kaminski,Lech Poznan,PKO BP Ekstraklasa
+835,M,6.58,29.0,0.62,56.07,0.0,0.03,1.48,84.9,0.0,0.39,1.26,0.39,0.0,0.0,0.0,0.08,0.0,not-called-up,portugal 2020,22.5,1.0,André Gomes,André Gomes,Everton,Premier League
+836,M,6.88,25.0,0.88,67.72,0.12,0.08,0.67,76.88,0.0,0.62,0.48,0.48,0.0,0.0,0.0,0.15,0.0,not-called-up,portugal 2020,12.0,1.0,Daniel Podence,Daniel Podence,Wolves,Premier League
+837,M,7.12,32.0,0.88,78.0,0.03,0.0,1.2,83.0,0.0,0.4,3.3,1.5,0.0,0.0,0.0,0.38,0.0,not-called-up,portugal 2020,18.0,7.0,João Palhinha,João Palhinha,Sporting CP,Liga Portugal
+838,M,6.93,28.0,0.86,71.0,0.07,0.04,0.9,88.0,0.0,0.4,1.0,0.7,0.0,0.0,0.0,0.0,0.0,not-called-up,portugal 2020,12.0,4.0,João Mário,João Mário,Inter,Serie A
+839,M,6.75,31.0,0.39,41.0,0.1,0.06,0.3,84.0,0.0,0.3,0.6,0.4,0.0,0.0,0.0,0.0,0.0,not-called-up,portugal 2020,5.0,7.0,Matheus Nunes,Matheus Nunes,Sporting CP,Liga Portugal
+840,M,7.23,35.0,0.94,80.97,0.11,0.23,1.65,79.46,0.0,0.42,2.18,0.59,0.0,0.0,0.0,0.0,0.0,not-called-up,portugal 2020,24.0,7.0,Otávio,Otávio,FC Porto,Liga Portugal
+841,M,6.68,25.0,0.72,58.64,0.12,0.24,0.62,79.08,0.0,0.26,0.7,0.44,0.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,2.8,150.0,Rifat Zhemaletdinov,Rifat Zhemaletdinov,Loko Moscow,Premier Liga
+842,M,6.86,23.0,0.57,43.0,0.04,0.22,0.3,77.0,0.0,0.2,0.5,0.1,0.0,0.0,0.0,0.5,0.0,not-called-up,russia 2020,8.0,150.0,Zelimkhan Bakaev,Zelimkhan Bakaev,Spartak Moscow,Premier Liga
+843,M,7.01,26.0,0.81,74.0,0.04,0.12,1.1,73.0,0.0,0.3,2.1,2.0,0.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,12.0,150.0,Daniil Glebov,Danil Glebov,Rostov,Premier Liga
+844,M,7.04,28.0,0.71,69.0,0.25,0.04,1.1,61.0,0.0,0.7,1.6,1.1,0.0,0.0,0.0,0.08,0.0,not-called-up,russia 2020,4.0,150.0,Denis Makarov,Denis Makarov,Rubin Kazan,Premier Liga
+845,M,7.21,36.0,0.81,71.25,0.03,0.08,0.7,77.5,0.0,0.38,1.57,1.26,0.0,0.0,0.0,0.25,0.0,not-called-up,russia 2020,12.0,150.0,Ivan Oblyakov,Ivan Oblyakov,CSKA Moscow,Premier Liga
+846,M,6.9,25.0,0.88,67.84,0.24,0.12,0.8,77.84,0.0,0.42,1.54,0.58,0.0,0.0,0.0,0.17,0.0,not-called-up,russia 2020,6.5,150.0,Konstantin Kuchaev,Konstantin Kuchaev,CSKA Moscow,Premier Liga
+847,M,7.18,13.0,0.77,68.0,0.23,0.23,0.8,77.0,0.0,0.5,2.0,0.4,0.0,0.0,0.0,0.0,0.0,not-called-up,russia 2020,5.0,150.0,Arsen Zakharyan,Arsen Zakharyan,Dynamo Moscow,Premier Liga
+848,M,7.06,18.0,0.78,73.0,0.33,0.06,0.1,77.0,0.0,1.3,0.6,0.3,0.0,0.0,0.0,0.08,0.0,not-called-up,russia 2020,3.0,150.0,Reziuan Mirzov,Reziuan Mirzov,Spartak Moscow,Premier Liga
+849,M,7.19,35.0,1.0,89.0,0.26,0.06,0.9,79.0,0.0,0.4,1.8,1.2,0.0,0.0,0.0,0.0,0.0,not-called-up,scotland 2020,5.0,60.0,Lewis Ferguson,Lewis Ferguson,Aberdeen FC,Scottish Premiership
+850,M,6.91,38.0,0.58,62.29,0.0,0.0,0.46,88.18,0.0,0.1,1.24,1.45,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,28.0,2.0,Martín Zubimendi,Sergio Busquets,Real Sociedad,LaLiga
+851,M,6.7,1.0,1.0,90.0,0.0,0.0,4.0,73.0,0.0,1.0,6.0,2.0,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,8.0,1.0,Álvaro Fernández,Álvaro Fernández,Man Utd U23,Premier League
+852,M,7.47,24.0,0.92,77.54,0.25,0.21,1.44,83.25,0.0,0.77,1.15,0.71,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,2.5,1.0,James Rodríguez,Martín Zubimendi,Everton,Premier League
+853,M,6.81,25.0,0.84,80.0,0.04,0.0,0.5,88.0,0.0,0.1,0.9,1.1,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,7.5,2.0,Hugo Guillamón,Antonio Blanco,Valencia,LaLiga
+854,M,6.95,4.0,0.5,55.0,0.0,0.0,1.0,93.0,0.0,0.5,1.8,0.8,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,5.0,150.0,Antonio Blanco,Marcos Llorente,RM Castilla,Primera Federación - Grupo II
+855,M,7.29,32.0,0.97,86.0,0.34,0.25,1.0,86.0,0.0,0.3,1.3,0.7,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,40.0,2.0,Carlos Soler,Carlos Soler,Valencia,LaLiga
+856,M,7.21,9.0,0.89,83.0,0.11,0.22,1.0,83.0,0.0,0.4,1.6,1.4,0.0,0.0,0.0,0.17,0.0,not-called-up,spain 2020,27.0,17.0,José Campaña,José Campaña,Levante,LaLiga2
+857,M,6.77,45.0,0.64,58.58,0.0,0.02,1.24,90.0,0.0,0.27,1.31,0.61,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,15.0,4.0,Gonzalo Villar,Gonzalo Villar,AS Roma,Serie A
+858,M,6.7,32.0,0.41,44.0,0.09,0.0,0.5,91.0,0.0,0.3,0.9,0.5,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,15.0,2.0,Fran Beltrán,Fran Beltrán,Celta de Vigo,LaLiga
+859,M,6.83,33.0,0.94,78.0,0.15,0.12,1.9,79.0,0.0,0.5,1.3,1.1,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,20.0,1.0,Pablo Fornals,Pablo Fornals,West Ham,Premier League
+860,M,6.76,34.0,0.88,79.0,0.26,0.0,1.4,79.0,0.0,0.6,1.7,0.9,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,15.0,2.0,Brais Méndez,Brais Méndez,Celta de Vigo,LaLiga
+861,M,6.79,26.0,0.27,30.85,0.0,0.08,0.61,84.69,0.0,0.3,0.89,0.45,0.0,0.0,0.0,0.17,0.0,not-called-up,spain 2020,14.0,2.0,Óscar Rodríguez,Óscar Rodríguez,Sevilla FC,LaLiga
+862,M,6.86,35.0,0.97,83.0,0.03,0.09,1.7,75.0,0.0,0.6,1.2,0.4,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,12.0,,Manu García,Manu García,without team,
+863,M,6.8,33.0,0.24,34.64,0.12,0.03,0.75,80.91,0.0,0.23,0.83,0.4,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,30.0,2.0,Yéremy Pino,Yéremy Pino,Villarreal,LaLiga
+864,M,7.02,35.0,1.0,82.0,0.2,0.2,0.5,80.0,0.0,0.7,1.5,0.6,0.0,0.0,0.0,0.0,0.0,not-called-up,sweden 2020,20.0,21.0,Kerim Mrabti,Kerim Mrabti,KV Mechelen,Jupiler Pro League
+865,M,7.09,36.0,0.83,72.25,0.06,0.14,1.32,84.5,0.0,0.52,1.7,1.23,0.0,0.0,0.0,0.09,0.0,not-called-up,switzerland 2020,4.5,,Michel Aebischer,Michel Aebischer,without team,
+866,M,6.47,18.0,0.44,50.0,0.06,0.0,0.8,84.0,0.0,0.1,1.0,0.3,0.0,0.0,0.0,0.18,0.0,not-called-up,switzerland 2020,4.5,27.0,Simon Sohm,Simon Sohm,Parma,Serie B
+867,M,6.84,24.0,0.67,60.5,0.17,0.04,1.38,80.83,0.0,0.5,1.42,1.17,0.0,0.0,0.0,0.0,0.0,not-called-up,switzerland 2020,3.0,16.0,Sandro Lauper,Sandro Lauper,BSC Young Boys,Super League
+868,M,7.09,34.0,1.0,89.0,0.09,0.09,1.4,83.0,0.0,0.3,1.6,1.6,0.0,0.0,0.0,0.0,0.0,not-called-up,switzerland 2020,0.5,16.0,Fabian Frei,Fabian Frei,FC Basel,Super League
+869,M,6.67,29.0,0.55,51.0,0.03,0.1,1.0,76.0,0.0,0.3,0.8,0.3,0.0,0.0,0.0,0.0,0.0,not-called-up,switzerland 2020,4.0,16.0,Kastriot Imeri,Kastriot Imeri,Servette FC,Super League
+870,M,6.62,33.0,0.12,22.73,0.09,0.03,0.35,78.39,0.0,0.15,0.32,0.25,0.0,0.0,0.0,0.0,0.0,not-called-up,switzerland 2020,4.0,6.0,Dan Ndoye,Dan Ndoye,OGC Nice,Ligue 1
+871,M,6.78,43.0,0.6,58.74,0.0,0.02,0.37,82.67,0.0,0.31,0.71,0.42,0.0,0.0,0.0,0.23,0.0,not-called-up,turkey 2020,2.3,9.0,Berkay Özcan,Berkay Özcan,Basaksehir,Süper Lig
+872,M,7.04,28.0,0.86,75.0,0.11,0.0,1.2,87.0,0.0,0.4,2.0,1.8,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,3.4,9.0,Berat Ayberk Özdemir,Berat Özdemir,Trabzonspor,Süper Lig
+873,M,7.33,39.0,0.82,69.69,0.08,0.15,0.72,75.38,0.0,0.54,1.97,0.72,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,4.7,9.0,Salih Uçan,Salih Uçan,Alanyaspor,Süper Lig
+874,M,6.93,42.0,0.71,65.33,0.07,0.05,0.54,79.62,0.0,0.54,1.36,0.72,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,4.6,9.0,Berkan Kutlu,Berkan Kutlu,Alanyaspor,Süper Lig
+875,M,6.86,28.0,0.46,41.29,0.0,0.0,0.23,24.86,0.0,0.0,0.07,0.23,0.0,0.0,0.0,0.31,0.0,not-called-up,ukraine 2020,3.2,150.0,Volodymyr Shepeliev,Volodymyr Shepelev,Dynamo Kyiv,Premier Liga
+876,M,7.08,32.0,0.72,59.88,0.19,0.16,0.65,69.12,0.0,0.53,1.35,0.82,0.0,0.0,0.0,0.31,0.0,not-called-up,ukraine 2020,2.4,21.0,Roman Bezus,Roman Bezus,KAA Gent,Jupiler Pro League
+877,M,6.96,31.0,0.9,75.0,0.26,0.06,0.4,21.81,0.0,0.17,0.43,0.13,0.0,0.0,0.0,0.0,0.0,not-called-up,ukraine 2020,2.8,150.0,Vitaliy Buyalskyi,Vitaliy Buyalskyi,Dynamo Kyiv,Premier Liga
+878,M,6.89,18.0,0.11,12.72,0.11,0.0,0.0,0.0,0.0,0.07,0.0,0.0,0.0,0.0,0.0,0.15,0.0,not-called-up,ukraine 2020,8.0,150.0,Bogdan Lednev,Bogdan Lednev,Dynamo Kyiv,Premier Liga
+879,M,6.88,17.0,0.35,34.53,0.18,0.06,0.24,22.35,0.0,0.0,0.53,0.12,0.0,0.0,0.0,0.0,0.0,not-called-up,ukraine 2020,2.0,150.0,Denys Garmash,Denys Garmash,Dynamo Kyiv,Premier Liga
+880,M,7.0,21.0,0.81,67.0,0.38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.08,0.0,not-called-up,ukraine 2020,1.5,150.0,Artem Bondarenko,Artem Bondarenko,Shakhtar D.,Premier Liga
+881,M,6.87,13.0,0.15,24.92,0.08,0.0,0.15,12.62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.15,0.0,not-called-up,ukraine 2020,0.9,150.0,Georgiy Sudakov,Georgiy Sudakov,Shakhtar D.,Premier Liga
+882,M,7.0,20.0,0.55,49.45,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,ukraine 2020,0.8,150.0,Serhii Buletsa,Sergiy Buletsa,Dynamo Kyiv,Premier Liga
+883,M,7.14,50.0,1.0,90.0,0.06,0.08,0.71,81.52,0.0,0.18,1.58,0.95,0.0,0.0,0.0,0.29,0.0,not-called-up,wales 2020,8.0,124.0,Josh Sheehan,Josh Sheehan,Newport County,League Two
+884,M,6.36,6.0,0.5,33.0,0.0,0.0,0.5,61.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.14,0.0,not-called-up,wales 2020,0.2,25.0,Rubin Colwill,Rubin Colwill,Cardiff,Championship
+885,M,6.96,42.0,0.86,75.0,0.12,0.05,1.5,69.0,0.0,0.2,1.2,1.2,0.0,0.0,0.0,0.5,0.0,not-called-up,wales 2020,0.6,25.0,Will Vaulks,Will Vaulks,Cardiff,Championship
+886,M,6.65,13.0,0.46,43.92,0.0,0.0,0.23,70.0,0.0,0.31,0.54,0.15,0.0,0.0,0.0,0.21,0.0,not-called-up,wales 2020,4.5,1.0,Ben Woodburn,Ben Woodburn,Liverpool,Premier League
+887,M,6.53,7.0,0.0,26.0,0.0,0.0,0.0,64.0,0.0,0.1,0.0,0.1,0.0,0.0,0.0,0.0,0.0,not-called-up,wales 2020,0.4,25.0,Sorba Thomas,Sorba Thomas,Huddersfield,Championship
+888,M,7.0,16.0,0.94,77.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,sweden 2020,,31.0,Jesper Karlström,Jesper Karlström,Lech Poznan,PKO BP Ekstraklasa
+889,M,6.87,31.0,0.48,46.55,0.0,0.0,1.48,80.03,0.0,0.35,1.45,1.33,0.0,0.0,0.0,0.0,0.0,not-called-up,switzerland 2020,,16.0,Fabian Rieder,Fabian Rieder,BSC Young Boys,Super League
+890,M,7.02,19.0,0.68,63.47,0.05,0.0,0.57,86.21,0.0,0.19,0.76,1.04,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,,9.0,Tolga Ci?erci,Tolga Ci?erci,Basaksehir,Süper Lig
+891,M,6.78,38.0,0.58,51.79,0.11,0.03,0.81,76.05,0.0,0.27,0.54,0.54,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,,9.0,Mert Hakan Yanda?,Mert Hakan Yanda?,Fenerbahce,Süper Lig
+892,M,6.75,29.0,0.21,34.1,0.21,0.07,0.28,71.69,0.0,0.28,0.47,0.65,0.0,0.0,0.0,0.23,0.0,not-called-up,turkey 2020,,9.0,Kerem Aktürko?lu,Kerem Aktürko?lu,Galatasaray,Süper Lig
+893,M,6.75,26.0,0.19,28.0,0.04,0.04,0.6,84.0,0.0,0.2,0.7,0.1,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,,9.0,Yusuf Sar?,Yusuf Sar?,Trabzonspor,Süper Lig
+894,M,6.63,31.0,0.55,51.42,0.03,0.06,0.75,81.0,0.0,0.21,0.75,0.76,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,,3.0,Salih Özcan,Salih Özcan,1.FC Köln,Bundesliga
+895,M,6.6,24.0,0.46,46.38,0.04,0.0,0.79,71.75,0.0,0.26,0.7,0.7,0.0,0.0,0.0,0.0,0.0,not-called-up,turkey 2020,,9.0,Do?ukan Sinik,Do?ukan Sinik,Antalyaspor,Süper Lig
+896,M,7.0,20.0,0.9,77.0,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,ukraine 2020,,150.0,Danylo Ignatenko,Danylo Ignatenko,SK Dnipro-1,Premier Liga
+897,M,7.0,14.0,1.0,86.0,0.0,0.14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,ukraine 2020,,150.0,Oleksandr Pikhalyonok,Oleksandr Pikhalyonok,Shakhtar D.,Premier Liga
+898,M,7.0,32.0,0.97,76.75,0.28,0.09,0.19,14.06,0.0,0.19,0.32,0.13,0.0,0.0,0.0,0.0,0.0,not-called-up,ukraine 2020,,150.0,Vladyslav Kochergin,Vladyslav Kochergin,Zorya Lugansk,Premier Liga
+899,M,7.0,13.0,0.62,46.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,ukraine 2020,,150.0,Mykhaylo Mudryk,Mykhaylo Mudryk,Shakhtar D.,Premier Liga
+900,M,6.9,38.0,0.89,79.97,0.16,0.11,0.65,70.37,0.0,0.28,1.4,1.36,0.0,0.0,0.0,0.0,0.0,not-called-up,wales 2020,,68.0,Wes Burns,Wes Burns,Fleetwood,League One
+901,M,6.64,15.0,0.53,46.53,0.0,0.07,0.52,70.73,0.0,0.43,0.87,0.61,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,18.0,Jakub Piotrowski,Jakub Piotrowski,F. Düsseldorf,2. Bundesliga
+902,M,6.82,25.0,0.56,51.0,0.08,0.0,0.6,84.0,0.0,0.6,1.3,0.8,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,4.0,Szymon ?urkowski,Szymon Zurkowski,FC Empoli,Serie A
+903,M,6.93,32.0,0.62,57.75,0.09,0.06,0.32,14.25,0.0,0.06,0.13,0.51,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,31.0,Micha? Skóra?,Michal Skoras,Lech Poznan,PKO BP Ekstraklasa
+904,M,6.66,34.0,0.41,45.76,0.09,0.06,0.64,66.56,0.0,0.18,0.82,0.46,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,150.0,Konrad Michalak,Konrad Michalak,Akhmat Grozny,Premier Liga
+905,M,6.7,20.0,0.3,29.6,0.0,0.05,0.34,90.15,0.0,0.19,0.43,0.19,0.0,0.0,0.0,0.0,0.0,not-called-up,portugal 2020,,,Vitinha,Vitinha,without team,
+906,M,7.05,39.0,0.9,74.13,0.31,0.1,1.15,81.0,0.0,0.84,0.59,0.43,0.0,0.0,0.0,0.0,0.0,not-called-up,portugal 2020,,7.0,Ricardo Horta,Ricardo Horta,SC Braga,Liga Portugal
+907,M,6.82,34.0,1.0,87.0,0.12,0.0,0.5,79.0,0.0,0.4,1.8,1.4,0.0,0.0,0.0,0.0,0.0,not-called-up,scotland 2020,,60.0,Allan Campbell,Allan Campbell,Motherwell FC,Scottish Premiership
+908,M,6.7,2.0,0.0,28.0,0.0,0.0,1.0,56.0,0.0,0.0,0.5,0.5,0.0,0.0,0.0,0.0,0.0,not-called-up,spain 2020,,150.0,Nico Williams,Nico Williams,Bilbao Athletic,Segunda Federación - Grupo II
+909,M,7.0,24.0,0.71,65.0,0.04,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,31.0,Karol Struski,Karol Struski,Jagiellonia,PKO BP Ekstraklasa
+910,M,7.0,26.0,0.73,60.96,0.15,0.15,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,31.0,Pawe? Wszo?ek,Pawel Wszolek,Legia Warszawa,PKO BP Ekstraklasa
+911,M,7.0,29.0,0.9,82.0,0.03,0.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,31.0,Patryk Kun,Patryk Kun,Rakow,PKO BP Ekstraklasa
+912,M,7.0,16.0,0.19,29.0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,84.0,Jakub B?aszczykowski,Jakub Blaszczykowski,Wisla Kraków,Fortuna 1 Liga
+913,M,7.0,13.0,0.31,37.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,31.0,Ben Lederman,Ben Lederman,Rakow,PKO BP Ekstraklasa
+914,M,7.0,1.0,1.0,43.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,not-called-up,poland 2020,,31.0,Kamil Pestka,Kamil Pestka,Cracovia,PKO BP Ekstraklasa
+915,,,,,,,,,,,,,,,,,0.36,0.0,not-called-up,czech republic 2020,,,,,,
+916,G,6.87,11.0,0.91,86.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,4.1,2.2,0.64,0.0,called-up,denmark 2020,2.4,3.0,Frederik Rønnow,Frederik Rönnow,E. Frankfurt,Bundesliga
+917,G,7.04,22.0,0.95,88.23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.75,0.77,0.91,0.0,called-up,england 2020,14.5,1.0,Dean Henderson,Dean Henderson,Man Utd,Premier League
+918,G,6.92,12.0,0.92,86.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,2.8,1.0,0.25,0.0,not-called-up,russia 2020,13.0,150.0,Andrey Lunev,Andrey Lunev,Zenit S-Pb,Premier Liga
+919,G,6.52,8.0,0.88,84.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.14,1.09,0.0,0.0,not-called-up,spain 2020,32.0,1.0,Kepa Arrizabalaga,Kepa Arrizabalaga,Chelsea,Premier League
+920,G,6.88,13.0,0.92,83.77,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.77,0.71,0.15,0.0,not-called-up,ukraine 2020,5.0,150.0,Mykyta Shevchenko,Mykyta Shevchenko,Zorya Lugansk,Premier Liga
+921,G,6.94,15.0,0.93,90.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.04,1.04,0.36,0.0,not-called-up,wales 2020,0.1,,Tom King,Tom King,Dubai Irish FC,
+922,G,6.76,42.0,1.0,91.43,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,1.9,1.14,0.75,0.33,called-up,austria 2020,3.5,3.0,Alexander Schlager,Alexander Schlager,LASK,Bundesliga
+923,G,6.94,36.0,1.0,88.28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,2.15,0.86,0.33,0.0,not-called-up,austria 2020,0.8,3.0,Jörg Siebenhandl,Jörg Siebenhandl,Sturm Graz,Bundesliga
+924,G,6.93,3.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.67,1.67,1.0,0.5,called-up,austria 2020,0.65,3.0,Pavao Pervan,Pavao Pervan,VfL Wolfsburg,Bundesliga
+925,G,6.78,31.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.19,1.16,0.25,0.0,not-called-up,austria 2020,1.5,3.0,Cican Stankovi?,Cican Stankovic,RB Salzburg,Bundesliga
+926,G,7.11,44.0,1.0,90.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,21.0,2.9,0.78,0.91,0.91,line-up,croatia 2020,10.5,22.0,Dominik Livakovi?,Dominik Livakovic,Dinamo Zagreb,SuperSport HNL
+927,G,6.87,43.0,1.0,89.44,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,0.36,0.36,0.09,0.0,not-called-up,czech republic 2020,4.5,13.0,Ond?ej Kolá?,Ondrej Kolar,Slavia Prague,Fortuna Liga
+928,G,6.93,20.0,1.0,89.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.66,0.4,0.45,0.0,not-called-up,czech republic 2020,0.75,13.0,Filip Nguyen,Filip Nguyen,Slovan Liberec,Fortuna Liga
+929,G,7.0,22.0,1.0,88.36,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.93,1.07,0.27,0.0,not-called-up,denmark 2020,0.4,19.0,Jesper Hansen,Jesper Hansen,FC Midtjylland,Superliga
+930,G,7.0,35.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,3.2,1.19,0.0,0.0,not-called-up,austria 2020,1.6,3.0,Patrick Pentz,Patrick Pentz,Austria Vienna,Bundesliga
+931,G,6.92,31.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,3.2,1.5,0.42,0.0,not-called-up,austria 2020,2.5,16.0,Heinz Lindner,Heinz Lindner,FC Basel,Super League
+932,G,7.02,25.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,1.83,0.71,0.25,0.17,line-up,austria 2020,1.5,25.0,Daniel Bachmann,Daniel Bachmann,Watford,Championship
+933,G,6.89,39.0,1.0,90.77,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,3.06,1.53,0.55,0.27,not-called-up,czech republic 2020,6.5,3.0,Ji?í Pavlenka,Jiri Pavlenka,Werder Bremen,Bundesliga
+934,G,6.79,44.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,2.29,1.26,0.91,0.91,line-up,denmark 2020,9.5,25.0,Kasper Schmeichel,Kasper Schmeichel,Leicester,Championship
+935,G,7.12,21.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,2.9,0.8,0.55,0.0,called-up,croatia 2020,2.8,22.0,Lovre Kalini?,Lovre Kalinic,Hajduk Split,SuperSport HNL
+936,G,6.87,39.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,2.5,1.2,1.0,0.09,called-up,croatia 2020,0.95,1.0,Simon Sluga,Simon Sluga,Luton,Premier League
+937,G,6.57,7.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.71,1.14,1.0,0.64,line-up,czech republic 2020,14.5,2.0,Tomáš Vaclík,Tomáš Vaclík,Sevilla FC,LaLiga
+938,G,6.98,36.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,20.0,2.1,0.7,0.0,0.0,not-called-up,croatia 2020,3.5,22.0,Ivica Ivuši?,Ivica Ivusic,NK Osijek,SuperSport HNL
+939,G,6.98,25.0,1.0,88.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,3.3,1.2,0.09,0.09,not-called-up,denmark 2020,2.0,19.0,Oliver Christensen,Oliver Christensen,Odense BK,Superliga
+940,G,6.86,13.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.2,1.1,0.91,0.0,called-up,denmark 2020,1.5,19.0,Jonas Lössl,Jonas Lössl,FC Midtjylland,Superliga
+941,G,7.09,31.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,1.6,0.0,0.0,not-called-up,denmark 2020,1.5,19.0,Peter Vindahl Jensen,Peter Vindahl,Nordsjaelland,Superliga
+942,G,6.72,30.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,2.9,2.0,0.09,0.0,not-called-up,denmark 2020,0.8,81.0,Thomas Mikkelsen,Thomas Mikkelsen,Breidablik,Besta deild
+943,G,6.9,33.0,1.0,88.12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.82,1.31,0.73,0.45,line-up,england 2020,28.0,1.0,Jordan Pickford,Jordan Pickford,Everton,Premier League
+944,G,7.08,33.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,3.58,1.19,0.82,0.45,not-called-up,england 2020,9.5,1.0,Nick Pope,Nick Pope,Burnley,Premier League
+945,G,6.87,38.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,3.9,1.7,0.18,0.0,not-called-up,england 2020,12.0,1.0,Aaron Ramsdale,Aaron Ramsdale,Sheff Utd,Premier League
+946,G,7.03,37.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,4.5,2.0,0.45,0.09,called-up,england 2020,8.0,25.0,Sam Johnstone,Sam Johnstone,West Brom,Championship
+947,G,7.0,46.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,22.0,2.23,0.76,1.0,0.0,called-up,france 2020,25.0,6.0,Mike Maignan,Mike Maignan,LOSC Lille,Ligue 1
+948,G,6.95,37.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,3.14,1.26,0.0,0.0,not-called-up,france 2020,17.0,6.0,Alphonse Aréola,Alphonse Areola,Paris SG,Ligue 1
+949,G,6.9,46.0,1.0,90.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,2.91,1.17,0.92,0.83,line-up,france 2020,9.0,1.0,Hugo Lloris,Hugo Lloris,Tottenham,Premier League
+950,G,6.82,38.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,2.7,1.5,0.17,0.0,not-called-up,france 2020,2.8,36.0,Benoît Costil,Benoît Costil,G. Bordeaux,Ligue 2
+951,G,6.66,43.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.29,1.34,0.92,0.17,called-up,france 2020,2.0,6.0,Steve Mandanda,Steve Mandanda,Marseille,Ligue 1
+952,G,6.86,36.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,2.6,1.11,0.17,0.08,not-called-up,germany 2020,72.0,2.0,Marc-André ter Stegen,Marc-André ter Stegen,Barcelona,LaLiga
+953,G,6.88,47.0,1.0,89.26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.0,2.5,1.03,1.0,0.17,called-up,germany 2020,28.0,1.0,Bernd Leno,Bernd Leno,Arsenal,Premier League
+954,G,6.96,42.0,1.0,90.71,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,2.83,1.26,0.58,0.58,line-up,germany 2020,14.5,3.0,Manuel Neuer,Manuel Neuer,Bayern Munich,Bundesliga
+955,G,6.88,40.0,1.0,91.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.51,1.5,0.17,0.0,not-called-up,germany 2020,48.0,3.0,Oliver Baumann,Niklas Süle,TSG Hoffenheim,Bundesliga
+956,G,6.8,35.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.12,1.65,0.92,0.17,called-up,germany 2020,16.0,3.0,Kevin Trapp,Kevin Trapp,E. Frankfurt,Bundesliga
+957,G,6.9,45.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.0,2.5,1.09,0.77,0.77,line-up,italy 2020,49.5,4.0,Gianluigi Donnarumma,Gianluigi Donnarumma,AC Milan,Serie A
+958,G,6.81,27.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.29,1.24,0.54,0.0,called-up,italy 2020,28.0,4.0,Alex Meret,Alex Meret,SSC Napoli,Serie A
+959,G,6.52,32.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.3,1.9,1.0,0.15,called-up,italy 2020,6.5,4.0,Salvatore Sirigu,Salvatore Sirigu,Torino,Serie A
+960,G,6.73,28.0,1.0,86.43,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,1.61,0.92,0.0,0.0,not-called-up,italy 2020,20.0,4.0,Pierluigi Gollini,Pierluigi Gollini,Atalanta BC,Serie A
+961,G,6.78,33.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.7,1.3,0.08,0.0,not-called-up,italy 2020,17.0,4.0,Marco Silvestri,Marco Silvestri,Hellas Verona,Serie A
+962,G,7.13,10.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.4,1.1,0.42,0.33,not-called-up,netherlands 2020,14.5,2.0,Jasper Cillessen,Jasper Cillessen,Valencia,LaLiga
+963,G,6.87,33.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.4,1.1,1.0,0.08,called-up,netherlands 2020,5.5,14.0,Marco Bizot,Marco Bizot,AZ Alkmaar,Eredivisie
+964,G,6.97,17.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,3.44,1.45,0.0,0.0,not-called-up,netherlands 2020,8.0,14.0,Justin Bijlow,Justin Bijlow,Feyenoord,Eredivisie
+965,G,6.86,34.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,3.3,1.5,0.25,0.0,not-called-up,netherlands 2020,4.0,14.0,Joël Drommel,Joël Drommel,Twente FC,Eredivisie
+966,G,6.96,6.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,not-called-up,netherlands 2020,2.5,3.0,Mark Flekken,Mark Flekken,SC Freiburg,Bundesliga
+967,G,7.13,36.0,1.0,89.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,17.0,2.6,0.6,1.0,0.5,called-up,netherlands 2020,2.5,25.0,Tim Krul,Tim Krul,Norwich,Championship
+968,G,7.03,17.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,1.96,0.6,0.0,0.0,not-called-up,netherlands 2020,0.55,14.0,Maarten Stekelenburg,Maarten Stekelenburg,Ajax,Eredivisie
+969,G,6.89,37.0,1.0,89.95,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.49,1.1,0.92,0.54,line-up,poland 2020,32.0,4.0,Wojciech Szcz?sny,Wojciech Szczesny,Juventus,Serie A
+970,G,6.89,28.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.7,1.6,0.69,0.08,called-up,poland 2020,5.5,4.0,?ukasz Skorupski,Lukasz Skorupski,Bologna,Serie A
+971,G,6.6,1.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,not-called-up,poland 2020,4.5,6.0,Rados?aw Majecki,Radoslaw Majecki,Monaco,Ligue 1
+972,G,6.72,36.0,1.0,87.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,2.4,1.5,0.23,0.08,not-called-up,poland 2020,21.5,4.0,Bart?omiej Dr?gowski,Bartlomiej Dragowski,Fiorentina,Serie A
+973,G,6.91,29.0,1.0,91.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,2.3,1.2,0.0,0.0,not-called-up,poland 2020,16.0,150.0,Kamil Grabara,Kamil Grabara,Liverpool U23,Premier League 2
+974,G,6.84,35.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.9,1.3,1.0,0.31,called-up,poland 2020,1.5,1.0,?ukasz Fabia?ski,Lukasz Fabianski,West Ham,Premier League
+975,G,6.85,38.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,2.5,1.1,0.77,0.46,called-up,portugal 2020,17.5,6.0,Anthony Lopes,Anthony Lopes,Olympique Lyon,Ligue 1
+976,G,6.76,37.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.7,1.4,0.77,0.46,line-up,portugal 2020,4.0,1.0,Rui Patrício,Rui Silva,Wolves,Premier League
+977,G,6.9,31.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.8,1.3,0.15,0.0,not-called-up,portugal 2020,2.4,7.0,Bruno Varela,Bruno Varela,Vit. Guimarães,Liga Portugal
+978,G,6.72,4.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.5,1.0,0.0,0.0,not-called-up,portugal 2020,6.0,7.0,Diogo Costa,Diogo Costa,FC Porto,Liga Portugal
+979,G,6.98,27.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.7,1.1,0.75,0.67,line-up,russia 2020,2.0,150.0,Anton Shunin,Anton Shunin,Dinamo Moscow,Premier Liga
+980,G,6.91,21.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.6,1.0,0.58,0.08,not-called-up,russia 2020,1.6,150.0,Soslan Dzhanaev,Soslan Dzhanaev,Sochi,Premier Liga
+981,G,7.06,26.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,4.0,1.6,0.5,0.0,called-up,russia 2020,4.8,150.0,Matvey Safonov,Matvey Safonov,Krasnodar,Premier Liga
+982,G,6.99,29.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,3.4,1.2,0.0,0.0,not-called-up,russia 2020,14.0,150.0,Aleksandr Maksimenko,Aleksandr Maksimenko,Spartak Moscow,Premier Liga
+983,G,7.07,26.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,3.2,1.1,0.42,0.0,called-up,russia 2020,5.0,150.0,Yuri Dyupin,Yuriy Dyupin,Rubin Kazan,Premier Liga
+984,G,6.79,33.0,1.0,89.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,2.3,1.2,0.94,0.76,line-up,scotland 2020,0.4,68.0,David Marshall,David Marshall,Derby,League One
+985,G,7.15,12.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,1.45,0.27,1.0,0.06,called-up,scotland 2020,0.325,60.0,Jon McLaughlin,Jon McLaughlin,Rangers,Scottish Premiership
+986,G,6.32,17.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,1.98,1.88,0.29,0.0,not-called-up,scotland 2020,0.2,,Robby McCrorie,Robby McCrorie,Rangers B,
+987,G,6.51,27.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,1.5,1.2,0.0,0.0,not-called-up,scotland 2020,0.475,60.0,Zander Clark,Zander Clark,St. Johnstone,Scottish Premiership
+988,G,6.97,18.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,3.2,1.3,0.0,0.0,not-called-up,scotland 2020,0.45,14.0,Liam Kelly,Liam Kelly,Feyenoord,Eredivisie
+989,G,6.8,36.0,1.0,89.39,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,2.52,1.26,1.0,0.33,called-up,spain 2020,40.0,1.0,David De Gea,David de Gea,Man Utd,Premier League
+990,G,6.66,37.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,1.9,1.1,1.0,0.58,line-up,spain 2020,16.0,2.0,Unai Simón,Unai Simón,Athletic,LaLiga
+991,G,6.89,27.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.4,1.0,0.33,0.0,called-up,spain 2020,20.0,1.0,Robert Sánchez,Robert Sánchez,Brighton,Premier League
+992,G,6.4,1.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,not-called-up,spain 2020,3.0,3.0,Josep Martínez,Josep Martínez,RB Leipzig,Bundesliga
+993,G,6.95,8.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.38,1.39,0.92,0.62,line-up,sweden 2020,0.55,4.0,Robin Olsen,Robin Olsen,AS Roma,Serie A
+994,G,6.98,36.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,4.1,1.8,1.0,0.23,called-up,sweden 2020,3.0,47.0,Kristoffer Nordfeldt,Kristoffer Nordfeldt,Genclerbirligi,1.Lig
+995,G,6.98,32.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,3.1,1.3,0.08,0.0,not-called-up,sweden 2020,0.9,82.0,Jacob Rinne,Jacob Rinne,Aalborg BK,1.Division
+996,G,6.71,23.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,3.0,1.6,1.0,0.15,called-up,sweden 2020,0.8,19.0,Karl-Johan Johnsson,Karl-Johan Johnsson,FC Copenhagen,Superliga
+997,G,6.64,39.0,1.0,88.41,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.0,2.72,1.6,1.0,0.73,line-up,switzerland 2020,9.5,3.0,Yann Sommer,Yann Sommer,Bor. M'gladbach,Bundesliga
+998,G,6.74,31.0,1.0,86.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.4,1.6,0.73,0.09,called-up,switzerland 2020,4.8,,Jonas Omlin,Jonas Omlin,without team,
+999,G,6.8,41.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,2.14,1.24,0.91,0.18,called-up,switzerland 2020,2.4,14.0,Yvon Mvogo,Yvon Mvogo,PSV Eindhoven,Eredivisie
+1000,G,6.91,34.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,3.14,1.55,0.0,0.0,not-called-up,switzerland 2020,13.0,3.0,Gregor Kobel,Gregor Kobel,VfB Stuttgart,Bundesliga
+1001,G,6.95,39.0,1.0,89.21,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,18.0,2.53,0.82,0.18,0.0,not-called-up,switzerland 2020,3.0,16.0,David von Ballmoos,David von Ballmoos,BSC Young Boys,Super League
+1002,G,6.86,35.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,11.0,2.53,1.25,0.0,0.0,not-called-up,turkey 2020,2.4,21.0,Sinan Bolat,Sinan Bolat,KAA Gent,Jupiler Pro League
+1003,G,6.89,32.0,1.0,88.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,3.8,1.7,0.46,0.0,not-called-up,turkey 2020,5.5,9.0,Gökhan Akkan,Gökhan Akkan,C. Rizespor,Süper Lig
+1004,G,6.73,28.0,1.0,91.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,2.71,1.62,1.0,0.54,called-up,turkey 2020,3.0,9.0,Mert Günok,Mert Günok,Basaksehir,Süper Lig
+1005,G,6.72,5.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.4,0.8,0.85,0.38,called-up,ukraine 2020,1.6,150.0,Andriy Pyatov,Andriy Pyatov,Shakhtar D.,Premier Liga
+1006,G,6.98,21.0,1.0,87.57,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,1.92,0.73,0.86,0.0,called-up,wales 2020,0.325,163.0,Adam Davies,Adam Davies,Airbus UK,Cymru North
+1007,G,7.01,30.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,1.17,0.44,0.46,0.15,called-up,ukraine 2020,0.475,150.0,Anatoliy Trubin,Anatoliy Trubin,Shakhtar D.,Premier Liga
+1008,G,6.7,2.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,not-called-up,ukraine 2020,1.2,150.0,Denys Boyko,Denys Boyko,Dynamo Kyiv,Premier Liga
+1009,G,6.73,3.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.33,1.0,0.79,0.36,line-up,wales 2020,6.5,25.0,Danny Ward,Danny Ward,Leicester,Championship
+1010,G,7.5,1.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,0.0,0.86,0.64,called-up,wales 2020,2.4,1.0,Wayne Hennessey,Wayne Hennessey,Crystal Palace,Premier League
+1011,G,6.9,28.0,1.0,88.39,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.65,1.12,0.0,0.0,not-called-up,denmark 2020,,25.0,Daniel Iversen,Daniel Iversen,Leicester,Championship
+1012,G,6.95,35.0,1.0,88.23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.0,2.36,0.85,0.62,0.08,called-up,turkey 2020,,9.0,Altay Bay?nd?r,Altay Bay?nd?r,Fenerbahce,Süper Lig
+1013,G,6.71,36.0,1.0,89.03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,1.75,0.97,0.0,0.0,not-called-up,turkey 2020,,9.0,Ersin Destano?lu,Ersin Destano?lu,Besiktas,Süper Lig
+1014,G,6.99,26.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.0,3.6,1.5,0.0,0.0,not-called-up,croatia 2020,,112.0,Nediljko Labrovi?,Nediljko Labrovic,HNK Sibenik,Prva Nogometna Liga
+1015,G,6.86,27.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,3.96,1.98,0.0,0.0,not-called-up,austria 2020,,109.0,Martin Fraisl,Martin Fraisl,ADO Den Haag,Keuken Kampioen Divisie
+1016,G,6.88,8.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.5,1.4,0.0,0.0,not-called-up,england 2020,,25.0,Fraser Forster,Fraser Forster,Southampton,Championship
+1017,G,6.27,3.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.67,1.0,0.0,0.0,not-called-up,netherlands 2020,,14.0,Kjell Scherpen,Kjell Scherpen,Ajax,Eredivisie
+1018,G,6.96,33.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.0,3.0,1.1,0.0,0.0,not-called-up,netherlands 2020,,14.0,Remko Pasveer,Remko Pasveer,Vitesse,Eredivisie
+1019,G,6.94,13.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,3.52,1.23,0.0,0.0,not-called-up,poland 2020,,6.0,Marcin Bu?ka,Marcin Bulka,Paris SG,Ligue 1
+1020,G,7.14,10.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,4.1,1.7,0.0,0.0,not-called-up,sweden 2020,,35.0,Andreas Linde,Andreas Linde,Molde FK,Eliteserien
+1021,G,7.08,38.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.0,3.2,0.9,0.92,0.38,line-up,turkey 2020,,9.0,U?urcan Çak?r,U?urcan Çak?r,Trabzonspor,Süper Lig
+1022,G,7.01,28.0,1.0,90.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,3.2,1.3,0.0,0.0,not-called-up,turkey 2020,,9.0,Do?an Alemdar,Do?an Alemdar,Kayserispor,Süper Lig
