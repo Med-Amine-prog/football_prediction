@@ -1,0 +1,847 @@
+,Stage,result,diffrance_rank,team_win_diffrance
+0,Group Stage,home win,-19,-1
+1,Group Stage,home win,-19,-2
+2,Group Stage,home win,-38,-1
+3,Group Stage,home win,-38,-2
+4,Group Stage,home win,-38,-5
+5,Group Stage,home win,-38,-4
+6,Group Stage,home win,-63,-1
+7,Group Stage,home win,-63,-2
+8,Group Stage,home win,-63,-5
+9,Group Stage,home win,-63,-4
+10,Group Stage,home win,11,-1
+11,Group Stage,home win,18,-1
+12,Group Stage,home win,18,-2
+13,Group Stage,home win,18,-3
+14,Group Stage,home win,18,-4
+15,Group Stage,home win,7,-1
+16,Group Stage,home win,7,-2
+17,Group Stage,home win,7,-3
+18,Group Stage,home win,7,-4
+19,Group Stage,home win,-25,-5
+20,Group Stage,home win,-29,-5
+21,Group Stage,home win,-40,0
+22,Group Stage,home win,-40,-3
+23,Group Stage,home win,-4,-1
+24,Group Stage,home win,-53,-1
+25,Group Stage,home win,-53,-2
+26,Group Stage,home win,-53,-3
+27,Group Stage,home win,-53,-4
+28,Group Stage,home win,-3,-1
+29,Group Stage,home win,-3,-2
+30,Group Stage,home win,-3,-3
+31,Group Stage,home win,-3,-4
+32,Group Stage,home win,-60,-1
+33,Group Stage,home win,-28,-4
+34,Group Stage,home win,-28,-3
+35,Group Stage,home win,-28,-2
+36,Group Stage,home win,-82,-4
+37,Group Stage,home win,-82,-3
+38,Group Stage,home win,-82,-2
+39,Group Stage,home win,10,-2
+40,Group Stage,home win,-26,0
+41,Group Stage,home win,-26,-1
+42,Group Stage,home win,-12,-5
+43,Group Stage,home win,-12,-3
+44,Group Stage,home win,-12,-2
+45,Group Stage,home win,-12,-4
+46,Group Stage,home win,-12,-2
+47,Group Stage,home win,-12,-1
+48,Group Stage,home win,-49,-5
+49,Group Stage,home win,-49,-3
+50,Group Stage,home win,-49,-2
+51,Group Stage,home win,14,-1
+52,Group Stage,home win,14,-2
+53,Group Stage,home win,14,0
+54,Group Stage,home win,14,-1
+55,Group Stage,home win,16,-1
+56,Group Stage,home win,16,-2
+57,Group Stage,home win,-10,-3
+58,Group Stage,home win,-13,1
+59,Group Stage,home win,-13,0
+60,Group Stage,home win,-61,-1
+61,Group Stage,home win,-61,-2
+62,Group Stage,home win,-42,-3
+63,Group Stage,home win,-42,-2
+64,Group Stage,home win,-48,-2
+65,Group Stage,home win,-48,-3
+66,Group Stage,home win,8,-2
+67,Group Stage,home win,8,-3
+68,Group Stage,home win,-56,-3
+69,Group Stage,home win,-41,-4
+70,Group Stage,home win,-41,-3
+71,Group Stage,home win,-41,-2
+72,Group Stage,home win,14,-1
+73,Group Stage,home win,-41,-3
+74,Group Stage,home win,-41,-4
+75,Group Stage,home win,-41,-2
+76,Group Stage,home win,-41,-3
+77,Group Stage,home win,2,-3
+78,Group Stage,home win,2,-4
+79,Group Stage,home win,-36,-3
+80,Group Stage,home win,-36,-4
+81,Group Stage,home win,48,-2
+82,Group Stage,home win,48,-3
+83,Group Stage,home win,48,-1
+84,Group Stage,home win,48,-2
+85,Group Stage,home win,51,-3
+86,Group Stage,home win,51,-4
+87,Group Stage,home win,-69,-3
+88,Group Stage,home win,-66,-1
+89,Group Stage,home win,-32,-4
+90,Group Stage,home win,-32,-5
+91,Group Stage,home win,13,-3
+92,Group Stage,home win,13,-4
+93,Group Stage,home win,-22,-4
+94,Group Stage,home win,5,-1
+95,Group Stage,home win,5,-2
+96,Group Stage,home win,34,1
+97,Group Stage,home win,34,-2
+98,Group Stage,home win,34,-1
+99,Group Stage,home win,-64,-1
+100,Group Stage,home win,-64,-2
+101,Group Stage,home win,-64,-3
+102,Group Stage,home win,9,-1
+103,Group Stage,home win,9,0
+104,Group Stage,home win,-21,-1
+105,Group Stage,home win,-21,-3
+106,Group Stage,home win,-30,-1
+107,Group Stage,home win,-30,-3
+108,Group Stage,home win,-26,-3
+109,Group Stage,home win,-26,-4
+110,Group Stage,home win,-29,-3
+111,Group Stage,home win,-29,-4
+112,Group Stage,home win,-29,-2
+113,Group Stage,home win,-29,-3
+114,Group Stage,home win,-6,0
+115,Group Stage,home win,-6,-1
+116,Group Stage,home win,-6,-1
+117,Group Stage,home win,-6,-2
+118,Group Stage,home win,20,-1
+119,Group Stage,home win,20,-2
+120,Group Stage,home win,-48,-4
+121,Group Stage,home win,-48,-3
+122,Group Stage,home win,-76,-4
+123,Group Stage,home win,-76,-5
+124,Group Stage,home win,4,-4
+125,Group Stage,home win,4,-5
+126,Group Stage,home win,4,-3
+127,Group Stage,home win,4,-4
+128,Group Stage,home win,10,-1
+129,Group Stage,home win,10,-2
+130,Group Stage,home win,-6,0
+131,Group Stage,home win,-6,-1
+132,Group Stage,home win,-6,1
+133,Group Stage,home win,-6,0
+134,Group Stage,home win,10,-1
+135,Group Stage,home win,10,0
+136,Group Stage,home win,-59,-4
+137,Group Stage,home win,-59,-3
+138,Group Stage,home win,-32,-1
+139,Group Stage,home win,-32,-3
+140,Group Stage,home win,-32,-4
+141,Group Stage,home win,-47,-2
+142,Group Stage,home win,-75,-4
+143,Group Stage,home win,-75,-3
+144,Group Stage,home win,-52,-4
+145,Group Stage,home win,-67,-4
+146,Group Stage,home win,-57,-4
+147,Group Stage,home win,-57,-5
+148,Group Stage,home win,-57,-3
+149,Group Stage,home win,-72,-4
+150,Group Stage,home win,-72,-5
+151,Group Stage,home win,-72,-3
+152,Group Stage,home win,-5,-1
+153,Group Stage,home win,-5,-2
+154,Group Stage,home win,-5,0
+155,Group Stage,home win,-5,-2
+156,Group Stage,home win,-5,-3
+157,Group Stage,home win,-5,-1
+158,Group Stage,home win,-5,-3
+159,Group Stage,home win,-5,-4
+160,Group Stage,home win,-5,-2
+161,Group Stage,home win,6,0
+162,Group Stage,home win,6,-2
+163,Group Stage,home win,51,-1
+164,Group Stage,home win,51,0
+165,Group Stage,home win,-29,-2
+166,Group Stage,home win,-33,-3
+167,Group Stage,home win,-19,-4
+168,Group Stage,home win,-10,-2
+169,Group Stage,home win,-38,-5
+170,Group Stage,home win,-38,-4
+171,Group Stage,home win,-19,-5
+172,Group Stage,home win,-19,-4
+173,Group Stage,home win,-6,-5
+174,Group Stage,home win,-6,-2
+175,Group Stage,home win,-6,-3
+176,Group Stage,home win,-70,-1
+177,Group Stage,home win,-70,0
+178,Group Stage,home win,-56,-3
+179,Group Stage,home win,-56,-2
+180,Group Stage,home win,-92,-5
+181,Group Stage,home win,-22,-2
+182,Group Stage,home win,-22,-3
+183,Group Stage,home win,-31,-1
+184,Group Stage,home win,-31,-2
+185,Group Stage,home win,61,-1
+186,Group Stage,home win,61,-2
+187,Group Stage,home win,61,0
+188,Group Stage,home win,61,-1
+189,Group Stage,home win,-37,-1
+190,Group Stage,home win,-37,-2
+191,Group Stage,home win,-113,-2
+192,Group Stage,home win,-113,-3
+193,Group Stage,home win,-67,-3
+194,Group Stage,home win,-36,-2
+195,Group Stage,home win,-25,-3
+196,Group Stage,home win,-47,-5
+197,Group Stage,home win,-47,-4
+198,Group Stage,home win,-7,-4
+199,Group Stage,home win,-7,-5
+200,Group Stage,home win,-61,-4
+201,Group Stage,home win,-61,-5
+202,Group Stage,home win,-54,-1
+203,Group Stage,home win,-12,0
+204,Group Stage,home win,35,-2
+205,Group Stage,home win,-37,-4
+206,Group Stage,home win,-37,-3
+207,Group Stage,home win,-37,-3
+208,Group Stage,home win,-37,-2
+209,Group Stage,home win,-35,-3
+210,Group Stage,home win,-35,-2
+211,Group Stage,home win,-35,-2
+212,Group Stage,home win,-35,-1
+213,Group Stage,home win,-1,-1
+214,Group Stage,home win,-1,-2
+215,Group Stage,home win,-1,-3
+216,Group Stage,home win,-88,-2
+217,Group Stage,home win,-88,-3
+218,Group Stage,home win,-88,-4
+219,Group Stage,home win,-43,-4
+220,Group Stage,home win,-43,-3
+221,Group Stage,home win,-43,-3
+222,Group Stage,home win,-43,-2
+223,Group Stage,home win,-85,-4
+224,Group Stage,home win,-85,-3
+225,Group Stage,home win,-87,-3
+226,Group Stage,home win,-33,-1
+227,Group Stage,home win,-40,-2
+228,Group Stage,home win,7,0
+229,Group Stage,home win,-69,-3
+230,Group Stage,home win,-69,-4
+231,Group Stage,home win,-42,-2
+232,Group Stage,home win,-42,-3
+233,Group Stage,home win,-42,-1
+234,Group Stage,home win,-42,-2
+235,Group Stage,home win,-31,-1
+236,Group Stage,home win,-62,-4
+237,Group Stage,home win,-62,-3
+238,Group Stage,home win,-3,-1
+239,Group Stage,home win,-3,0
+240,Group Stage,home win,-3,0
+241,Group Stage,home win,-3,1
+242,Group Stage,home win,31,-1
+243,Group Stage,home win,31,0
+244,Group Stage,home win,31,-2
+245,Group Stage,home win,31,-1
+246,Group Stage,home win,-53,0
+247,Group Stage,home win,-60,-1
+248,Group Stage,home win,-60,0
+249,Group Stage,home win,25,0
+250,Group Stage,home win,-36,-2
+251,Group Stage,egalite,-38,-1
+252,Group Stage,egalite,-38,-2
+253,Group Stage,egalite,-19,0
+254,Group Stage,egalite,-60,0
+255,Group Stage,egalite,-42,-1
+256,Group Stage,egalite,-42,-2
+257,Group Stage,egalite,-42,-3
+258,Group Stage,egalite,-38,0
+259,Group Stage,egalite,-38,-1
+260,Group Stage,egalite,-38,1
+261,Group Stage,egalite,-38,0
+262,Group Stage,egalite,50,0
+263,Group Stage,egalite,-21,-4
+264,Group Stage,egalite,-21,-3
+265,Group Stage,egalite,-21,-2
+266,Group Stage,egalite,-12,-3
+267,Group Stage,egalite,-12,-2
+268,Group Stage,egalite,-5,-1
+269,Group Stage,egalite,-5,-2
+270,Group Stage,egalite,-22,-2
+271,Group Stage,egalite,-22,-1
+272,Group Stage,egalite,-55,-4
+273,Group Stage,egalite,-55,-3
+274,Group Stage,egalite,-55,-2
+275,Group Stage,egalite,-18,-3
+276,Group Stage,egalite,-18,-4
+277,Group Stage,egalite,-43,-2
+278,Group Stage,egalite,-43,-1
+279,Group Stage,egalite,-43,-1
+280,Group Stage,egalite,-43,0
+281,Group Stage,egalite,-38,-2
+282,Group Stage,egalite,-38,-1
+283,Group Stage,egalite,3,-1
+284,Group Stage,egalite,40,0
+285,Group Stage,egalite,40,-1
+286,Group Stage,egalite,40,-1
+287,Group Stage,egalite,40,-2
+288,Group Stage,egalite,35,0
+289,Group Stage,egalite,35,-1
+290,Group Stage,egalite,68,1
+291,Group Stage,egalite,68,-2
+292,Group Stage,egalite,68,-1
+293,Group Stage,egalite,68,2
+294,Group Stage,egalite,68,-1
+295,Group Stage,egalite,68,0
+296,Group Stage,egalite,68,3
+297,Group Stage,egalite,68,0
+298,Group Stage,egalite,68,1
+299,Group Stage,egalite,35,1
+300,Group Stage,egalite,35,-2
+301,Group Stage,egalite,35,-1
+302,Group Stage,egalite,7,1
+303,Group Stage,egalite,-57,0
+304,Group Stage,egalite,-57,-1
+305,Group Stage,egalite,-57,-2
+306,Group Stage,egalite,-3,-2
+307,Group Stage,egalite,-3,-1
+308,Group Stage,egalite,-86,0
+309,Group Stage,egalite,-86,-1
+310,Group Stage,egalite,-32,-3
+311,Group Stage,egalite,-32,-2
+312,Group Stage,egalite,-32,-2
+313,Group Stage,egalite,-32,-1
+314,Group Stage,egalite,-26,-1
+315,Group Stage,egalite,-26,-3
+316,Group Stage,egalite,-26,-4
+317,Group Stage,egalite,-26,0
+318,Group Stage,egalite,-26,-2
+319,Group Stage,egalite,-26,-3
+320,Group Stage,egalite,6,1
+321,Group Stage,egalite,6,-1
+322,Group Stage,egalite,6,-2
+323,Group Stage,egalite,-28,-2
+324,Group Stage,egalite,-28,-1
+325,Group Stage,egalite,15,0
+326,Group Stage,egalite,57,0
+327,Group Stage,egalite,57,-2
+328,Group Stage,egalite,57,1
+329,Group Stage,egalite,57,-1
+330,Group Stage,egalite,35,2
+331,Group Stage,egalite,35,0
+332,Group Stage,egalite,9,2
+333,Group Stage,egalite,-46,-5
+334,Group Stage,egalite,-46,-2
+335,Group Stage,egalite,-46,-3
+336,Group Stage,egalite,-9,2
+337,Group Stage,egalite,-9,4
+338,Group Stage,egalite,-9,3
+339,Group Stage,egalite,-9,1
+340,Group Stage,egalite,-9,3
+341,Group Stage,egalite,-9,2
+342,Group Stage,egalite,-9,0
+343,Group Stage,egalite,-9,2
+344,Group Stage,egalite,-9,1
+345,Group Stage,egalite,-6,-2
+346,Group Stage,egalite,-6,-1
+347,Group Stage,egalite,-36,1
+348,Group Stage,egalite,38,2
+349,Group Stage,egalite,38,1
+350,Group Stage,egalite,-24,0
+351,Group Stage,egalite,-97,0
+352,Group Stage,egalite,-97,-1
+353,Group Stage,egalite,-37,0
+354,Group Stage,egalite,-37,-1
+355,Group Stage,egalite,-37,1
+356,Group Stage,egalite,-37,0
+357,Group Stage,egalite,73,1
+358,Group Stage,egalite,-24,1
+359,Group Stage,egalite,-42,-3
+360,Group Stage,egalite,-42,-2
+361,Group Stage,egalite,-7,-3
+362,Group Stage,egalite,-7,-2
+363,Group Stage,egalite,-37,-1
+364,Group Stage,egalite,-7,-4
+365,Group Stage,egalite,-7,-3
+366,Group Stage,egalite,-1,1
+367,Group Stage,egalite,-49,-2
+368,Group Stage,egalite,-49,-1
+369,Group Stage,egalite,-18,-1
+370,Group Stage,egalite,-18,0
+371,Group Stage,egalite,-18,-2
+372,Group Stage,egalite,-18,-1
+373,Group Stage,egalite,-39,-4
+374,Group Stage,egalite,-39,-3
+375,Group Stage,egalite,-18,-2
+376,Group Stage,egalite,-18,-1
+377,Group Stage,egalite,-18,-3
+378,Group Stage,egalite,-18,-2
+379,Group Stage,egalite,-18,-4
+380,Group Stage,egalite,-18,-3
+381,Group Stage,egalite,2,-3
+382,Group Stage,egalite,2,-2
+383,Group Stage,egalite,45,2
+384,Group Stage,egalite,6,-2
+385,Group Stage,egalite,6,-1
+386,Group Stage,egalite,-38,-2
+387,Group Stage,egalite,-38,-1
+388,Group Stage,egalite,-19,0
+389,Group Stage,egalite,-19,1
+390,Group Stage,egalite,-19,-1
+391,Group Stage,egalite,-19,0
+392,Group Stage,egalite,18,-3
+393,Group Stage,egalite,18,-2
+394,Group Stage,egalite,-43,-2
+395,Group Stage,egalite,-43,-1
+396,Group Stage,egalite,-43,-3
+397,Group Stage,egalite,-43,-2
+398,Group Stage,egalite,-64,-2
+399,Group Stage,egalite,-64,-1
+400,Group Stage,egalite,4,-2
+401,Group Stage,egalite,4,-1
+402,Group Stage,egalite,4,-1
+403,Group Stage,egalite,4,0
+404,Group Stage,egalite,-20,-2
+405,Group Stage,egalite,-45,-2
+406,Group Stage,egalite,-45,-1
+407,Group Stage,egalite,-28,1
+408,Group Stage,egalite,-28,2
+409,Group Stage,egalite,-28,0
+410,Group Stage,egalite,-28,1
+411,Group Stage,egalite,-25,0
+412,Group Stage,egalite,-25,-1
+413,Group Stage,egalite,-11,-1
+414,Group Stage,egalite,-35,-2
+415,Group Stage,egalite,40,-1
+416,Group Stage,egalite,40,0
+417,Group Stage,egalite,55,-1
+418,Group Stage,egalite,55,0
+419,Group Stage,egalite,55,0
+420,Group Stage,egalite,55,1
+421,Group Stage,egalite,29,0
+422,Group Stage,egalite,29,-1
+423,Group Stage,egalite,-39,-1
+424,Group Stage,away win,-28,0
+425,Group Stage,away win,-28,-1
+426,Group Stage,away win,-28,1
+427,Group Stage,away win,-28,0
+428,Group Stage,away win,-28,2
+429,Group Stage,away win,-28,1
+430,Group Stage,away win,7,0
+431,Group Stage,away win,7,-1
+432,Group Stage,away win,7,-2
+433,Group Stage,away win,7,-3
+434,Group Stage,away win,-38,1
+435,Group Stage,away win,-38,0
+436,Group Stage,away win,26,0
+437,Group Stage,away win,26,-1
+438,Group Stage,away win,-2,0
+439,Group Stage,away win,-2,1
+440,Group Stage,away win,-30,-4
+441,Group Stage,away win,-30,-3
+442,Group Stage,away win,-5,-2
+443,Group Stage,away win,-5,-1
+444,Group Stage,away win,-27,-2
+445,Group Stage,away win,-27,-1
+446,Group Stage,away win,-19,-1
+447,Group Stage,away win,-19,0
+448,Group Stage,away win,-19,0
+449,Group Stage,away win,-19,1
+450,Group Stage,away win,-19,1
+451,Group Stage,away win,-19,2
+452,Group Stage,away win,-49,-1
+453,Group Stage,away win,-49,-3
+454,Group Stage,away win,-49,0
+455,Group Stage,away win,-49,-2
+456,Group Stage,away win,-49,1
+457,Group Stage,away win,-49,-1
+458,Group Stage,away win,-28,-1
+459,Group Stage,away win,-28,0
+460,Group Stage,away win,-28,1
+461,Group Stage,away win,-3,-4
+462,Group Stage,away win,-3,-3
+463,Group Stage,away win,23,3
+464,Group Stage,away win,23,2
+465,Group Stage,away win,80,0
+466,Group Stage,away win,80,1
+467,Group Stage,away win,22,-2
+468,Group Stage,away win,22,-1
+469,Group Stage,away win,20,2
+470,Group Stage,away win,70,3
+471,Group Stage,away win,70,2
+472,Group Stage,away win,-45,-1
+473,Group Stage,away win,-45,-2
+474,Group Stage,away win,-45,0
+475,Group Stage,away win,-45,-1
+476,Group Stage,away win,-45,1
+477,Group Stage,away win,-45,0
+478,Group Stage,away win,31,0
+479,Group Stage,away win,33,1
+480,Group Stage,away win,33,2
+481,Group Stage,away win,33,3
+482,Group Stage,away win,34,-3
+483,Group Stage,away win,34,-2
+484,Group Stage,away win,34,-1
+485,Group Stage,away win,-3,0
+486,Group Stage,away win,-3,-1
+487,Group Stage,away win,-3,-2
+488,Group Stage,away win,-3,1
+489,Group Stage,away win,-3,0
+490,Group Stage,away win,-3,-1
+491,Group Stage,away win,-4,-1
+492,Group Stage,away win,-4,0
+493,Group Stage,away win,21,1
+494,Group Stage,away win,21,0
+495,Group Stage,away win,21,-1
+496,Group Stage,away win,25,2
+497,Group Stage,away win,25,1
+498,Group Stage,away win,25,0
+499,Group Stage,away win,27,1
+500,Group Stage,away win,27,2
+501,Group Stage,away win,-32,-2
+502,Group Stage,away win,-32,-1
+503,Group Stage,away win,-32,-1
+504,Group Stage,away win,-32,0
+505,Group Stage,away win,24,0
+506,Group Stage,away win,24,1
+507,Group Stage,away win,24,1
+508,Group Stage,away win,24,2
+509,Group Stage,away win,3,-3
+510,Group Stage,away win,3,-2
+511,Group Stage,away win,3,-2
+512,Group Stage,away win,3,-1
+513,Group Stage,away win,3,-1
+514,Group Stage,away win,3,0
+515,Group Stage,away win,82,2
+516,Group Stage,away win,68,1
+517,Group Stage,away win,68,2
+518,Group Stage,away win,68,3
+519,Group Stage,away win,66,2
+520,Group Stage,away win,66,3
+521,Group Stage,away win,17,3
+522,Group Stage,away win,17,2
+523,Group Stage,away win,42,1
+524,Group Stage,away win,42,2
+525,Group Stage,away win,14,-3
+526,Group Stage,away win,14,-2
+527,Group Stage,away win,14,-2
+528,Group Stage,away win,14,-1
+529,Group Stage,away win,17,2
+530,Group Stage,away win,17,1
+531,Group Stage,away win,-29,1
+532,Group Stage,away win,-24,-1
+533,Group Stage,away win,-10,-1
+534,Group Stage,away win,-10,0
+535,Group Stage,away win,15,0
+536,Group Stage,away win,15,1
+537,Group Stage,away win,67,0
+538,Group Stage,away win,67,1
+539,Group Stage,away win,67,2
+540,Group Stage,away win,60,0
+541,Group Stage,away win,60,1
+542,Group Stage,away win,3,2
+543,Quarterfinals,egalite,14,0
+544,Quarterfinals,egalite,14,-1
+545,Quarterfinals,egalite,14,1
+546,Quarterfinals,egalite,14,0
+547,Third place match,egalite,3,-3
+548,Third place match,egalite,3,-2
+549,Third place match,egalite,3,-1
+550,Third place match,egalite,3,-2
+551,Third place match,egalite,3,-1
+552,Third place match,egalite,3,0
+553,Final,egalite,19,-3
+554,Final,egalite,19,-4
+555,Final,egalite,31,0
+556,Final,egalite,31,-1
+557,Final,egalite,31,1
+558,Final,egalite,31,0
+559,Semi-finals,egalite,10,2
+560,Semi-finals,egalite,10,1
+561,Semi-finals,egalite,10,0
+562,Quarter-finals,egalite,-4,-3
+563,Quarter-finals,egalite,-4,-4
+564,Semi-finals,egalite,18,0
+565,Semi-finals,egalite,18,2
+566,Semi-finals,egalite,18,1
+567,Semi-finals,egalite,18,-1
+568,Semi-finals,egalite,18,1
+569,Semi-finals,egalite,18,0
+570,Quarter-finals,egalite,-29,2
+571,Quarter-finals,egalite,-29,3
+572,Quarter-finals,egalite,-29,1
+573,Quarter-finals,egalite,-29,2
+574,Quarter-finals,egalite,-29,0
+575,Quarter-finals,egalite,-29,1
+576,Round of 16,egalite,24,-2
+577,Round of 16,egalite,24,-1
+578,Round of 16,egalite,-51,-3
+579,Quarter-finals,egalite,58,0
+580,Quarter-finals,egalite,58,1
+581,Quarter-finals,egalite,58,-1
+582,Quarter-finals,egalite,58,0
+583,Quarter-finals,egalite,58,-2
+584,Quarter-finals,egalite,58,-1
+585,Quarterfinals,egalite,-56,-2
+586,Quarterfinals,egalite,-56,-1
+587,Quarterfinals,egalite,22,3
+588,Quarterfinals,egalite,22,2
+589,Semi-finals,egalite,66,0
+590,Semi-finals,egalite,66,-1
+591,Quarter-finals,egalite,60,1
+592,Quarterfinals,away win,-39,0
+593,Quarterfinals,away win,-39,-3
+594,Quarterfinals,away win,-39,1
+595,Quarterfinals,away win,-39,-2
+596,Quarterfinals,away win,-39,2
+597,Quarterfinals,away win,-39,-1
+598,Semifinals,away win,-8,-4
+599,Semifinals,away win,-8,-3
+600,Semifinals,away win,-8,-2
+601,Semifinals,away win,-8,-3
+602,Semifinals,away win,-8,-2
+603,Semifinals,away win,-8,-1
+604,Third place match,away win,-4,-4
+605,Third place match,away win,-4,-2
+606,Third place match,away win,-4,-1
+607,Semifinals,away win,49,1
+608,Semifinals,away win,49,0
+609,Quarterfinals,away win,-23,0
+610,Quarterfinals,away win,-23,-1
+611,Final,away win,10,-1
+612,Final,away win,10,0
+613,Quarterfinals,away win,10,-2
+614,Quarterfinals,away win,10,-3
+615,Quarterfinals,away win,10,-1
+616,Quarterfinals,away win,10,-2
+617,Semifinals,away win,-28,-1
+618,Semifinals,away win,-28,-2
+619,Semifinals,away win,-28,0
+620,Semifinals,away win,-28,-1
+621,Semifinals,away win,71,1
+622,Semifinals,away win,71,-2
+623,Semifinals,away win,71,-1
+624,Semifinals,away win,71,2
+625,Semifinals,away win,71,-1
+626,Semifinals,away win,71,0
+627,Quarter-finals,away win,47,3
+628,Quarter-finals,away win,47,2
+629,Semi-finals,away win,18,-1
+630,Semi-finals,away win,18,-2
+631,Quarter-finals,away win,21,2
+632,Quarter-finals,away win,21,0
+633,Quarter-finals,away win,21,-1
+634,Quarter-finals,away win,61,1
+635,Quarter-finals,away win,61,-1
+636,Quarter-finals,away win,61,2
+637,Quarter-finals,away win,61,0
+638,Final,away win,-27,-1
+639,Final,away win,-27,0
+640,Final,away win,-27,-2
+641,Final,away win,-27,-1
+642,Final,away win,-27,-3
+643,Final,away win,-27,-2
+644,Round of 16,away win,-17,-2
+645,Round of 16,away win,-17,-1
+646,Round of 16,away win,53,3
+647,Quarter-finals,away win,79,0
+648,Quarter-finals,away win,79,-1
+649,Third place play-off,away win,-18,-1
+650,Third place play-off,away win,-18,-2
+651,Third place play-off,away win,-18,0
+652,Third place play-off,away win,-18,-1
+653,Final,away win,-45,-1
+654,Final,away win,-45,-2
+655,Final,away win,-45,0
+656,Final,away win,-45,-1
+657,Final,away win,-45,1
+658,Final,away win,-45,0
+659,Quarter-finals,away win,-21,0
+660,Quarter-finals,away win,-21,1
+661,Final,away win,-10,-1
+662,Final,away win,-10,-2
+663,Final,away win,17,0
+664,Final,away win,17,1
+665,Quarterfinals,away win,-75,1
+666,Quarterfinals,away win,-75,2
+667,Quarterfinals,away win,-75,0
+668,Quarterfinals,away win,-75,1
+669,Semi-finals,away win,21,1
+670,Quarterfinals,away win,56,1
+671,Third place match,away win,-43,2
+672,Third place match,away win,-43,1
+673,Third place match,away win,-43,1
+674,Third place match,away win,-43,0
+675,Semi-finals,away win,-27,0
+676,Quarter-finals,away win,-96,0
+677,Third-place match,away win,6,2
+678,Quarter-finals,home win,-29,-1
+679,Quarter-finals,home win,-29,-2
+680,Quarter-finals,home win,-47,-1
+681,Quarter-finals,home win,-47,-2
+682,Quarter-finals,home win,-47,-5
+683,Quarter-finals,home win,-47,-4
+684,Third place match,home win,-9,-1
+685,Third place match,home win,-9,-2
+686,Third place match,home win,-9,-5
+687,Third place match,home win,-9,-4
+688,Quarter-finals,home win,-51,-1
+689,Quarter-finals,home win,-51,-2
+690,Quarter-finals,home win,-51,-3
+691,Quarter-finals,home win,-51,-4
+692,Semi-finals,home win,26,-1
+693,Semi-finals,home win,26,-2
+694,Semi-finals,home win,26,-3
+695,Semi-finals,home win,26,-4
+696,Quarterfinals,home win,-30,-1
+697,Quarterfinals,home win,-30,-2
+698,Quarterfinals,home win,-30,-3
+699,Semifinals,home win,-31,-1
+700,Semifinals,home win,-31,-2
+701,Semifinals,home win,-31,-3
+702,Semifinals,home win,-31,0
+703,Semifinals,home win,-31,-1
+704,Semifinals,home win,-31,-2
+705,Semifinals,home win,-31,1
+706,Semifinals,home win,-31,0
+707,Semifinals,home win,-31,-1
+708,Quarterfinals,home win,-15,-1
+709,Quarterfinals,home win,-15,-2
+710,Quarterfinals,home win,-15,-3
+711,Quarterfinals,home win,-15,-4
+712,Semifinals,home win,10,-1
+713,Semifinals,home win,10,-2
+714,Semifinals,home win,10,-3
+715,Semifinals,home win,10,-4
+716,Final,home win,-2,-1
+717,Final,home win,-2,-2
+718,Final,home win,-2,-3
+719,Final,home win,-2,-4
+720,Final,home win,-2,0
+721,Final,home win,-2,-1
+722,Final,home win,-2,-2
+723,Final,home win,-2,-3
+724,Quarterfinals,home win,1,-3
+725,Quarterfinals,home win,1,-2
+726,Quarterfinals,home win,1,-1
+727,Quarterfinals,home win,-52,-5
+728,Quarterfinals,home win,-52,-3
+729,Quarterfinals,home win,-52,-2
+730,Quarterfinals,home win,-19,-4
+731,Quarterfinals,home win,-19,-3
+732,Quarterfinals,home win,-19,-2
+733,Quarterfinals,home win,-29,-4
+734,Semifinals,home win,29,-3
+735,Semifinals,home win,29,-2
+736,Quarterfinals,home win,-3,-3
+737,Quarterfinals,home win,-3,-4
+738,Quarterfinals,home win,-3,-2
+739,Quarterfinals,home win,-3,-3
+740,Semifinals,home win,45,-2
+741,Semifinals,home win,45,-3
+742,Quarterfinals,home win,-4,-2
+743,Quarterfinals,home win,-4,-3
+744,Quarterfinals,home win,-21,0
+745,Quarterfinals,home win,-21,-1
+746,Quarterfinals,home win,-21,-1
+747,Quarterfinals,home win,-21,-2
+748,Third place match,home win,-68,0
+749,Third place match,home win,-68,-1
+750,Third place match,home win,-68,-1
+751,Third place match,home win,-68,-2
+752,Final,home win,7,1
+753,Final,home win,7,0
+754,Final,home win,7,-1
+755,Final,home win,7,2
+756,Final,home win,7,1
+757,Final,home win,7,0
+758,Quarter-finals,home win,12,1
+759,Quarter-finals,home win,12,0
+760,Quarter-finals,home win,12,-1
+761,Quarter-finals,home win,-51,0
+762,Semi-finals,home win,2,-1
+763,Semi-finals,home win,2,0
+764,Semi-finals,home win,2,-2
+765,Semi-finals,home win,2,-1
+766,Quarter-finals,home win,24,-4
+767,Quarter-finals,home win,24,-5
+768,Quarter-finals,home win,-37,-4
+769,Quarter-finals,home win,-37,-3
+770,Quarter-finals,home win,-37,-3
+771,Quarter-finals,home win,-37,-2
+772,Third place play-off,home win,-16,-4
+773,Third place play-off,home win,-16,-3
+774,Quarter-finals,home win,-10,-4
+775,Quarter-finals,home win,-10,-5
+776,Quarter-finals,home win,-10,-3
+777,Quarter-finals,home win,-22,-4
+778,Quarter-finals,home win,-22,-3
+779,Semi-finals,home win,8,-5
+780,Semi-finals,home win,8,-2
+781,Semi-finals,home win,8,-3
+782,Third place play-off,home win,-1,-2
+783,Third place play-off,home win,-1,0
+784,Third place play-off,home win,-1,-1
+785,Quarter-finals,home win,17,-2
+786,Quarter-finals,home win,17,0
+787,Quarter-finals,home win,17,-1
+788,Quarter-finals,home win,17,-1
+789,Quarter-finals,home win,17,1
+790,Quarter-finals,home win,17,0
+791,Quarter-finals,home win,17,0
+792,Quarter-finals,home win,17,2
+793,Quarter-finals,home win,17,1
+794,Quarter-finals,home win,-28,-3
+795,Round of 16,home win,-10,-3
+796,Round of 16,home win,-10,-4
+797,Round of 16,home win,1,1
+798,Round of 16,home win,1,0
+799,Round of 16,home win,1,0
+800,Round of 16,home win,1,-1
+801,Semi-finals,home win,23,-2
+802,Semi-finals,home win,23,-3
+803,Semi-finals,home win,23,-1
+804,Semi-finals,home win,23,-2
+805,Semi-finals,home win,-4,-1
+806,Semi-finals,home win,-4,-2
+807,Quarter-finals,home win,-70,-2
+808,Quarter-finals,home win,-70,-3
+809,Final,home win,-15,-5
+810,Final,home win,-15,-4
+811,Third place match,home win,-16,0
+812,Third place match,home win,-16,-1
+813,Third place match,home win,-16,-2
+814,Third place match,home win,-16,-1
+815,Third place match,home win,-16,-2
+816,Third place match,home win,-16,-3
+817,Third place match,home win,-16,-2
+818,Third place match,home win,-16,-3
+819,Third place match,home win,-16,-4
+820,Semi-finals,home win,-13,-2
+821,Semi-finals,home win,-13,-1
+822,Semi-finals,home win,-13,-3
+823,Semi-finals,home win,-13,-2
+824,Semi-finals,home win,-13,-4
+825,Semi-finals,home win,-13,-3
+826,Quarter-finals,home win,-25,-3
+827,Quarter-finals,home win,-25,-2
+828,Semi-finals,home win,12,0
+829,Semi-finals,home win,12,1
+830,Semi-finals,home win,12,-1
+831,Semi-finals,home win,12,0
+832,Semi-finals,home win,12,-2
+833,Semi-finals,home win,12,-1
+834,Quarterfinals,home win,-33,1
+835,Quarterfinals,home win,-33,0
+836,Third place play-off,home win,-1,-1
+837,Quarter-finals,home win,15,-1
+838,Quarter-finals,home win,15,-2
+839,Semi-finals,home win,-81,-1
+840,Semi-finals,home win,-81,-2
+841,Quarter-finals,home win,-2,-1
+842,Quarter-finals,home win,-2,-2
+843,Quarterfinals,home win,-49,-3
+844,Semifinals,home win,45,-3
+845,Final,home win,-40,-3
